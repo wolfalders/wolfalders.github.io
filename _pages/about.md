@@ -16,5 +16,5 @@ My postdoctoral research program seeks to expand upon these findings. Specifical
 
 I also have research interests in the architectural signatures of past Columbia-Fraser Plateau places and employ feminist, Indigenous, and agency-focused lens’ to reframe past and present discussions on regional household archaeology. I am further strongly committed to collaborative, inclusive, and multivocal archaeology and anthropology, and to bridging gaps between cultural resource management, academia, and the communities who have lived in the Plateau region since time immemorial. 
 
-I am currently a [Washington Research Foundation Postdoctoral Fellow] (https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/) at [Washington State University] (https://anthro.wsu.edu/). I earned my PhD at Washington State University in Anthropology in 2021 where I was awarded Harriet B. Rigas Award for Outstanding Doctoral Students.
+I am currently a [Washington Research Foundation Postdoctoral Fellow](https://www.wrfseattle.org/grants/wrf-postdoctoral-fellowships/) at [Washington State University](https://anthro.wsu.edu/). I earned my PhD at Washington State University in Anthropology in 2021 where I was awarded Harriet B. Rigas Award for Outstanding Doctoral Students.
 
