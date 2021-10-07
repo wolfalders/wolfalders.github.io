@@ -49,12 +49,3 @@ Carney, Molly and Shannon Tushingham (eds)
 Carney, Molly
 2013 X-ray Fluorescence Analysis of Maya Pottery from Belize. The Proceedings of the Sixth Annual GREAT Day. 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
