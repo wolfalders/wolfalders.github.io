@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[December 2021 CV](https://github.com/mollyrcarney/mollyrcarney.github.io/blob/9743aff2213d5c0ec2d445dfbe9f2b161043ccce/files/carney_cv_dec21.pdf)
+[December 2021 CV](https://mollyrcarney.github.io/files/carney_cv_dec21.pdf)
