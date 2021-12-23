@@ -1,7 +1,7 @@
 ---
 title: "Pedogogy"
 collection: teaching
-permalink: /teaching/
+permalink: /pedogogy/
 author_profile: true
 ---
 [Teaching philosophy](github.io/mollyrcarney/files/pdf/carney_teaching.pdf)
