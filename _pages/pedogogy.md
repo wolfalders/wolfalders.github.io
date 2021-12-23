@@ -4,7 +4,10 @@ collection: teaching
 permalink: /pedogogy/
 author_profile: true
 ---
+###Teaching Statement and Sample Syllabi
+
 [Teaching philosophy](github.io/mollyrcarney/files/pdf/carney_teaching.pdf)
+[Methods in Environmental Archaeology](github.io/mollyrcarney/files/pdf/carney_enviroarch_syllabus.pdf)
 
 ### Washington State University
 
