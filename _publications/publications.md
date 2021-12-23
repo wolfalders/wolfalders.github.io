@@ -30,10 +30,10 @@ Carney, Molly, James W. Brown and Dakota E. Wallen (eds)
 ### Manuscripts in Review and in Preparation
 
 Carney, Molly, Jade d’Alpoim Guedes, and Shannon Tushingham
-n.d. Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. Manuscript in review with Anthropological and Archaeological Sciences.
+n.d. Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. Manuscript in review with *Anthropological and Archaeological Sciences.* DOI: [https://doi.org/10.31235/osf.io/nfwrk](https://doi.org/10.31235/osf.io/nfwrk)
 
-Carney, Molly
-n.d. Braiding North American Indigenous Paradigms with Archaeological Theory: A Framework for Pacific Northwest Paleoethnobotany. Manuscript in preparation.
+Carney, Molly, Melanie Diedrich, Joyce LeCompte-Mastenbrook, John Blong, Jade d’Alpoim Guedes, Tiffany Fulkerson, Tiffany Kite, Katy Leonard-Doll, and Shannon Tushingham
+n.d.	Northwest Native Plants: An Online, Digital Space for Ethnobotanical and Paleoethnobotanical Knowledge. Manuscript in review with *Heritage.* DOI:[ https://doi.org/10.20944/preprints202112.0163.v1](https://doi.org/10.20944/preprints202112.0163.v1)
 
 ### Non-peer Reviewed Works
 
@@ -47,5 +47,5 @@ Carney, Molly and Shannon Tushingham (eds)
 2019+	Cultural and Historic Guide to Northwest Native Plants. Washington State University Museum of Anthropology. [http://cdsc-wsu.org/nwnativeplants/](http://cdsc-wsu.org/nwnativeplants/.).
 
 Carney, Molly
-2013 X-ray Fluorescence Analysis of Maya Pottery from Belize. The Proceedings of the Sixth Annual GREAT Day. 
+2013 X-ray Fluorescence Analysis of Maya Pottery from Belize. *The Proceedings of the Sixth Annual GREAT Day.* State University of New York at Geneseo.
 
