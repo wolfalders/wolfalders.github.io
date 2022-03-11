@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 ### Invited Lectures
+2022	“TEK and Western Education.” Panel with WSU Center for Native American Research and Collaboration TEK Series. April 27, 2022
+
+2022	“Plant Foods of Past Pend Oreille Valley Peoples.” Invited lecture for the Kinnikinnick Native Plant Society, Sandpoint, ID. April 17, 2022.
+
+2022	“Camas Management in the Pacific Northwest.” Guest lecture for WSU Biology course Plants and People. March 22, 2022.
+
+2022	Tiffany J. Fulkerson, Molly Carney, Jessie Isadore, John C. Blong, Tiffany Kite, Cassady Fairlane, and Shannon Tushingham. "First Peoples, First Foods: Experimental and Community-Based Approaches to Exploring Ancestral Foods and Community Health in Western North America." Society for California Archaeologists plenary session, Visalia, CA. March 4, 2022.
 
 2021 "Willamette Valley Camas Stewardship." Confederated Tribes of Grand Ronde in Grand Ronde, October 21, 2021.
 
@@ -14,9 +21,13 @@ author_profile: true
 2020, 2018 “Foragers, Niche Construction, and Alternative Subsistence Practices.” Feeding the World, undergraduate seminar, University of California at San Diego, La Jolla, CA.
 
 2021, 2018, 2016 “Wood Charcoal Anatomy.” Paleoethnobotany graduate seminar, Washington State University and University of California at San Diego.
+
 2016-2018 “Columbia Plateau Culture History,” Archaeology of the Americas undergraduate seminar, Washington State University, Pullman, WA
 	
-### Organized Symposia
+### Organized Symposia and Workshops
+2022	Camas Contributions and Connections: Exploring the Legacy and Potential of Human-Camas Relationships. Northwest Anthropological Conference, virtual, March 11 (with Katy Mathews).
+
+2022	Mukurtu Content Management System: Providing Culturally Appropriate Digital Access to Cultural and Archaeological Collections. Workshop for the Society for California Archeology, March 3.
 
 2019 Exploring Residential Variability Across the Columbia-Fraser Plateau: following-up on the “Plateau House Party.” Northwest Anthropological Conference, Kennewick, WA, March 22 (with James Brown and Dakota Wallen).
 
