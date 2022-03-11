@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Peer Reviewed Articles and Chapters
+Carney, Molly, Melanie Diedrich, John Blong, Jade d’Alpoim Guedes, Tiffany Fulkerson, Tiffany Kite, Joyce LeCompte-Mastenbrook, Katy Leonard-Doll, Mario Zimmermann, and Shannon Tushingham
+2022	Northwest Native Plants: An Online, Digital Space for Ethnobotanical and Paleoethnobotanical Knowledge. *Heritage.* 5:297–310. DOI: [https://doi.org/10.3390/heritage5010016](https://doi.org/10.3390/heritage5010016)
 
 Carney, Molly, Tara McLaughlin, Shannon Tushingham, and Jade d’Alpoim Guedes
 2021 Harvesting strategies as evidence for 4,000 years of camas (*Camassia quamash*) management in the North American Columbia Plateau. *Royal Society Open Science*, 8. DOI: [https://doi.org/10.1098/rsos/202213](https://doi.org/10.1098/rsos/202213) 
@@ -30,10 +32,7 @@ Carney, Molly, James W. Brown and Dakota E. Wallen (eds)
 ### Manuscripts in Review and in Preparation
 
 Carney, Molly, Jade d’Alpoim Guedes, and Shannon Tushingham
-n.d. Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. Manuscript in review with *Anthropological and Archaeological Sciences.* DOI: [https://doi.org/10.31235/osf.io/nfwrk](https://doi.org/10.31235/osf.io/nfwrk)
-
-Carney, Molly, Melanie Diedrich, Joyce LeCompte-Mastenbrook, John Blong, Jade d’Alpoim Guedes, Tiffany Fulkerson, Tiffany Kite, Katy Leonard-Doll, and Shannon Tushingham
-n.d.	Northwest Native Plants: An Online, Digital Space for Ethnobotanical and Paleoethnobotanical Knowledge. Manuscript in review with *Heritage.* DOI:[ https://doi.org/10.20944/preprints202112.0163.v1](https://doi.org/10.20944/preprints202112.0163.v1)
+n.d. Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. Minor revisions, *Anthropological and Archaeological Sciences.* DOI: [https://doi.org/10.31235/osf.io/nfwrk](https://doi.org/10.31235/osf.io/nfwrk)
 
 ### Non-peer Reviewed Works
 
