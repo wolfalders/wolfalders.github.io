@@ -7,6 +7,11 @@ author_profile: true
 
 ### Peer Reviewed Articles and Chapters
 
+Carney, Molly, Jade d’Alpoim Guedes, and Shannon Tushingham
+In press Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. *Anthropological and Archaeological Sciences*.
+
+Carney, Molly, Melanie Diedrich, John Blong, Jade d’Alpoim Guedes, Tiffany Fulkerson, Tiffany Kite, Joyce LeCompte-Mastenbrook, Katy Leonard-Doll, Mario Zimmermann, and Shannon Tushingham 2022 Northwest Native Plants: An Online, Digital Space for Ethnobotanical and Paleoethnobotanical Knowledge. *Heritage.* 5:297–310. DOI: https://doi.org/10.3390/heritage5010016(https://doi.org/10.3390/heritage5010016)
+
 Carney, Molly, Tara McLaughlin, Shannon Tushingham, and Jade d’Alpoim Guedes
 2021 Harvesting strategies as evidence for 4,000 years of camas (*Camassia quamash*) management in the North American Columbia Plateau. *Royal Society Open Science*, 8. DOI: [https://doi.org/10.1098/rsos/202213](https://doi.org/10.1098/rsos/202213) 
 
@@ -28,9 +33,6 @@ Carney, Molly, James W. Brown and Dakota E. Wallen (eds)
 2020 *Of Housepits and Homes: 21st Century Perspectives on Houses and Settlements in the Columbia-Fraser Plateau Past.* Journal of Northwest Anthropology Memoir 19, Richland, Washington.
 
 ### Manuscripts in Review and in Preparation
-
-Carney, Molly, Jade d’Alpoim Guedes, and Shannon Tushingham
-n.d. Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. Manuscript in review with Anthropological and Archaeological Sciences.
 
 Carney, Molly
 n.d. Braiding North American Indigenous Paradigms with Archaeological Theory: A Framework for Pacific Northwest Paleoethnobotany. Manuscript in preparation.
