@@ -1,7 +1,7 @@
 ---
 title: "Pedogogy"
 collection: teaching
-permalink: /pedogogy/
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /teaching
