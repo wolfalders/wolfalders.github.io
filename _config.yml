@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+s# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Molly Carney"
   avatar           : "sampling.jpg"
-  bio              : "Washington Research Foundation Postdoctoral Fellow"
-  location         : "Pullman, WA"
+  bio              : "University of Arkansas"
+  location         : "Fayetteville, AR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2LIhUzoAAAAJ&hl=en"
