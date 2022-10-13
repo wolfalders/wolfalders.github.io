@@ -4,6 +4,7 @@ collection: teaching
 permalink: /teaching/
 author_profile: true
 ---
+
 [Teaching philosophy](github.io/mollyrcarney/files/pdf/carney_teaching.pdf)
 
 ### University of Arkansas
