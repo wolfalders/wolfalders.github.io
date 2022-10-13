@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ### Peer Reviewed Articles and Chapters
+Carney, Molly, Eric Wohlgemuth, Jade d’Alpoim Guedes, and Shannon Tushingham
+2022	Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. Anthropological and Archaeological Sciences 14(130). DOI: https://doi.org/10.1007/s12520-022-01588-1. 
+
 Carney, Molly, Melanie Diedrich, John Blong, Jade d’Alpoim Guedes, Tiffany Fulkerson, Tiffany Kite, Joyce LeCompte-Mastenbrook, Katy Leonard-Doll, Mario Zimmermann, and Shannon Tushingham
 2022	Northwest Native Plants: An Online, Digital Space for Ethnobotanical and Paleoethnobotanical Knowledge. *Heritage.* 5:297–310. DOI: [https://doi.org/10.3390/heritage5010016](https://doi.org/10.3390/heritage5010016)
 
@@ -31,8 +34,15 @@ Carney, Molly, James W. Brown and Dakota E. Wallen (eds)
 
 ### Manuscripts in Review and in Preparation
 
-Carney, Molly, Jade d’Alpoim Guedes, and Shannon Tushingham
-n.d. Bulbs and Biographies, Pine nuts and Palimpsests: Exploring Plant Diversity and Earth Oven Reuse at a Late Period Plateau Site. Minor revisions, *Anthropological and Archaeological Sciences.* DOI: [https://doi.org/10.31235/osf.io/nfwrk](https://doi.org/10.31235/osf.io/nfwrk)
+Carney, Molly
+n.d. 	The Archaeology of Stewardship and Cultural Keystone Species in the Pacific Northwest.
+Invited manuscript in review with the *Journal of Northwest Anthropology, Special Publication No. 5 Current Anthropological and Archaeological Research from the Pacific Northwest—2023,* edited by Darby C. Stapp, Julia G. Longenecker, and Victoria Boozer.
+
+Carney, Molly
+n.d.	Fleshing Out Scales of Camas Stewardship in the North American Northwest. Manuscript to be submitted to *Journal of Archaeological Science: Reports.*
+
+Carney, Molly
+n.d. 	Archaeological Contributions to Camas Conservation. Manuscript to be submitted to *Northwest Science.*
 
 ### Non-peer Reviewed Works
 
@@ -44,7 +54,4 @@ Carney, Molly, James W. Brown and Dakota E. Wallen
 
 Carney, Molly and Shannon Tushingham (eds) 
 2019+	Cultural and Historic Guide to Northwest Native Plants. Washington State University Museum of Anthropology. [http://cdsc-wsu.org/nwnativeplants/](http://cdsc-wsu.org/nwnativeplants/.).
-
-Carney, Molly
-2013 X-ray Fluorescence Analysis of Maya Pottery from Belize. *The Proceedings of the Sixth Annual GREAT Day.* State University of New York at Geneseo.
 
