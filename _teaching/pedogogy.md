@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-[Teaching philosophy](github.io/mollyrcarney/files/pdf/carney_teaching.pdf)
-
 ### University of Arkansas
 
 Anth 3023, Approaches to Archaeology
