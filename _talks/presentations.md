@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-The U of A Paleoethnobotany Lab is set up for the identification and analysis of archaeobotanical and ethnobiological materials. Our lab features Leica microscopes and imaging systems for the analysis and documentation of a variety of archaeological remains and comparative specimens. We prioritize macrobotanical and starch extraction, processing, and identification. We also work with the (Arkansas Nano & Bio Materials Characterization Facility)[https://microscopy.uark.edu/] on scanning electron microscopy analysis of plant materials.
+The U of A Paleoethnobotany Lab is set up for the identification and analysis of archaeobotanical and ethnobiological materials. Our lab features Leica microscopes and imaging systems for the analysis and documentation of a variety of archaeological remains and comparative specimens. We prioritize macrobotanical and starch extraction, processing, and identification. We also work with the [Arkansas Nano & Bio Materials Characterization Facility](https://microscopy.uark.edu/) on scanning electron microscopy analysis of plant materials.
 
 Our botanical comparative collections include seeds, wood, geophytes, starch, and herbarium voucher specimens, with a regional focus on the North American Pacific Northwest and the Eastern Woodlands. We are in the process of buidling this collecion and imaging these reference materials. Once imaged these will be uploaded to the [Northwest Native Plants](https://cdsc-wsu.org/nwnativeplants/) website.
 
