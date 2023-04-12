@@ -1,9 +1,10 @@
 ---
-layout: default
 title: "Conference Talks"
+collection: talks
 permalink: /talks/
 author_profile: true
----
+redirect_from:
+  - /talks
 ---
 
 2023 Alders, W. “Heterarchy, Anti-Colonial Infrastructures, and the Busaid State in 19th Century Zanzibar”. Society of Africanist Archaeologists Biennial Meeting. In 25 Years Beyond Chiefdoms: Susan McIntosh's Pathways to Complexity Influence on African Archaeology. Co-Chairs: Carla Klehm and Wolfgang Alders.
