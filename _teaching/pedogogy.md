@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Teaching and Mentorship"
 permalink: /teaching/
 author_profile: true
