@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Molly Carney"
+title                    : "Wolfgang Alders"
 title_separator          : "-"
-name                     : &name "Molly Carney"
+name                     : &name "Wolfgang Alders"
 description              : &description "personal description"
-url                      : https://mollyrcarney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wolfalders.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mollyrcarney/mollyrcarney.github.io"
+repository               : "wolfalders/wolfalders.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Molly Carney"
-  avatar           : "sampling.jpg"
-  bio              : "University of Arkansas"
+  name             : "Wolfgang Alders"
+  avatar           : "profilepicture.jpg"
+  bio              : "NSF Postdoctoral Fellow at the Center for Advanced Spatial Technologies, at the University of Arkansas"
   location         : "Fayetteville, AR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2LIhUzoAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=7fPPzDUAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Wolfgang-Alders"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mollyrcarney"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1535-7363"
+  orcid            : "https://orcid.org/0000-0002-8656-3765"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mollyrcarney"
+  twitter          :
   vine             :
   weibo            :
   xing             :
