@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Outreach and Community Engagement"
 permalink: /portfolio/
 author_profile: true
