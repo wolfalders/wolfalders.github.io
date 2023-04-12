@@ -1,14 +1,21 @@
 ---
-layout: archive
-title: "Paleoethnobotany Lab"
+layout: default
+title: "Conference Talks"
 permalink: /talks/
 author_profile: true
 ---
+---
 
-The U of A Paleoethnobotany Lab is set up for the identification and analysis of archaeobotanical and ethnobiological materials. Our lab features Leica microscopes and imaging systems for the analysis and documentation of a variety of archaeological remains and comparative specimens. We prioritize macrobotanical and starch extraction, processing, and identification. We also work with the [Arkansas Nano & Bio Materials Characterization Facility](https://microscopy.uark.edu/) on scanning electron microscopy analysis of plant materials.
+2023 Alders, W. “Heterarchy, Anti-Colonial Infrastructures, and the Busaid State in 19th Century Zanzibar”. Society of Africanist Archaeologists Biennial Meeting. In 25 Years Beyond Chiefdoms: Susan McIntosh's Pathways to Complexity Influence on African Archaeology. Co-Chairs: Carla Klehm and Wolfgang Alders.
 
-Our botanical comparative collections include seeds, wood, geophytes, starch, and herbarium voucher specimens, with a regional focus on the North American Pacific Northwest and the Eastern Woodlands. We are in the process of buidling this collecion and imaging these reference materials. Once imaged these will be uploaded to the [Northwest Native Plants](https://cdsc-wsu.org/nwnativeplants/) website.
+2023 Alders, W., Haines, J. “Landscapes of Stone in Mauritius and Zanzibar.” Society for American Archaeology Annual Meeting. In the session “Adventures in Spatial Archaeometry: A Survey of Recent High-Resolution Survey and Measurement Application”. Session organizers: Sarah Watson and Elizabeth Clay.
 
-We welcome students from all backgrounds and interests into the Paleoethnobotany Laboratory. I am currently looking for undergraduate volunteers to help us organize and digitize our reference collections and to help sorting and identifying archaeological samples. Some remote opportunities are available. Please email [Dr. Carney](mailto:mc143@uark.edu) to get started.
+2021 Alders, W. “Long-Term Settlement in Plantation Regions of Unguja, Zanzibar.” Society for American Archaeology Annual Meeting. In the session, “Uses of Survey in Worldwide Contemporary Archaeology”. Session organizer: Wolfgang Alders, University of California, Berkeley.
 
-I am actively recruiting graduate students to join our lab group. Students interested in any aspect of environmental archaeology or the study of past human-environmental interactions are welcome to apply. Please contact me directly with questions about our graduate program or to discuss your potential application.
+2021 Alders, W. “Settlement and Environment on Zanzibar in the Context of the Western Indian Ocean”. Society for American Archaeology Annual Meeting. Discussant in the lightning round panel “An Ocean of connections: tangible and intangible exchanges in the IOW”. Organizers: Stefania Manfio and Alessandra Cianciosi.
+
+2020 Alders, W. “Preliminary results of settlement survey in inland Zanzibar, Tanzania.” Society of Africanist Archaeologists Biennial Meeting. Accepted, though conference cancelled due to Covid-19. Session organizers: Mark Horton, Jon Henderson and Laura Basell.
+
+2017 Alders, W., Khamis Ali, A. “Preliminary Results of Geoarchaeological Sampling and Survey to Investigate Landscape History in Northern Unguja, Zanzibar.” Society for American Archaeology Annual Meeting. In the panel, “Advances in Geoarchaeological Research Methods”. Session organizer: Michael Wilson, Simon Fraser University.
+
+2016 Alders, W., Rice, Mwamba Agriculture, and Civilizational Discourse in Zanzibar: 11th17th Centuries AD. Society of Africanist Archaeologists Biennial Meeting. In the panel, “Landscape formation processes and archaeological research in Africa”. Session Organizer: Brian Clark, Rice University.
