@@ -1,9 +1,10 @@
 ---
-layout: archive
 title: "Outreach and Community Engagement"
+collection: portfolio
 permalink: /portfolio/
 author_profile: true
----
+redirect_from:
+  - /portfolio
 ---
 
 ### Community Engagement and Public Talks
