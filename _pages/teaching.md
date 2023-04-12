@@ -1,5 +1,5 @@
 ---
-title: "Pedogogy"
+title: "Teaching"
 collection: teaching
 permalink: /teaching/
 author_profile: true
@@ -9,19 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-### Teaching Statement and Sample Syllabi
+### Teaching Statement
+[Teaching philosophy](github.io/wolfalders/files/pdf/alders_teaching.pdf)
 
-[Teaching philosophy](github.io/mollyrcarney/files/pdf/carney_teaching.pdf)
-[Methods in Environmental Archaeology](github.io/mollyrcarney/files/pdf/carney_enviroarch_syllabus.pdf)
-[Geoarchaeology](github.io/mollyrcarney/files/pdf/carney_geoarch_draft.pdf)
+### Sample Syllabi
+[Power, Inequality, and the State](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
 
-### Washington State University
+[GIS and Remote Sensing in Archaeology](github.io/wolfalders/files/pdf/alders_syllabus_gis.pdf)
 
-Anth 101, Introduction to Anthropology, Instructor (Sp 2018, Fa 2020, Sp 2021) 
-Anth 320, Native Peoples of North America, Teaching Assistant (Fa 2018, Sp 2019)
-Anth 101, Introduction to Anthropology, Teaching Assistant (Fa 2014, Fa 2015, Sp 2016, Fa 2016, Sp 2017)
-Hist 105, Roots of Contemporary Issues, Teaching Assistant (Sp 2014)
+### Teaching Experience
+Anth R5B - Freshman Writing Seminar, Politics of Archaeology and Heritage in Africa, Instructor (Spring 2022) 
 
-### University of California at San Diego
+ESPM 72  - Introduction to Geographic Information Systems, Teaching Assistant (Summer 2021)
 
-Visiting Graduate Student and Paleoenvironment Lab Manager at Scripps Institute of Oceanography (Fa 2018)
+Anth 2AC - Introduction to Archaeology, Teaching Assistant (Fall 2015, Fall 2018, Fall 2020)
+
+MES 15   - Introduction to Near Eastern Art and Archaeology, Teaching Assistant (Spring 2016, Spring 2017, Spring 2018)
+
+
+### Mentorship and Undergraduate Training
+Supervised undergraduates in managing field data. PI: Lisa Maher (Fall 2020)
+
+Trained students from the State University of Zanzibar in archaeological field methods, remote sensing, and ceramic analysis (Summer 2019).
+
+Supervised undergraduates in soil analysis of sediments from Zanzibar, Tanzania. PI: Lisa Maher (Spring 2018).
+
+Supervised undergraduates doing structure-from-motion photogrammetry of Iron Age ceramics from Jordan. PI: Ben Porter (Fall 2016, Fall 2017).
+
+Supervised undergraduates in a collaborative research project with the Musanda Royal Council of Tsimbupfe, South Africa. PI: Jun Sunseri (Spring 2015).
