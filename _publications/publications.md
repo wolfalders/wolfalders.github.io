@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Peer Reviewed Articles
-Alders, W. (2023). The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. African Archaeological Review. https://doi.org/10.1007/s10437-023-09523-y
+Alders, W. (2023). The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. _African Archaeological Review_. https://doi.org/10.1007/s10437-023-09523-y
 
 ### Manuscripts in Review
 
