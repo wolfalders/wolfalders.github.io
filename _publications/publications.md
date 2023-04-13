@@ -17,9 +17,9 @@ Submitted to *Journal of Computer Applications in Archaeology*.
 
 ### Reports
 
-Alders, W. (2016). Archaeological survey and landscape history at Gede, Kenya. Nyame Akuma, 85, 33-43.
+Alders, W. (2016). Archaeological survey and landscape history at Gede, Kenya. _Nyame Akuma_, 85, 33-43.
 
-Alders, W. (2020). Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. Nyame Akuma, 94, 38-45.
+Alders, W. (2020). Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. _Nyame Akuma_, 94, 38-45.
 
 ### Dissertation
 
