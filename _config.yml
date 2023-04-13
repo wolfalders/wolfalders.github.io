@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wolfgang Alders"
+title                    : "Wolfgang Alders - Bio"
 title_separator          : "-"
 name                     : &name "Wolfgang Alders"
 description              : &description "personal description"
