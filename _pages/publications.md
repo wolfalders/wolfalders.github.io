@@ -9,10 +9,12 @@ author_profile: true
 ### Peer Reviewed Articles
 Alders, W. (2023). The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. _African Archaeological Review_. https://doi.org/10.1007/s10437-023-09523-y
 
+Alders, W. In press. 	Open-access archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania. *Journal of Computer Applications in Archaeology*.
+
+
 ### Manuscripts in Review
 
-Alders, W. n.d. 	Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania.
-Submitted to *Journal of Computer Applications in Archaeology*.
+Alders, W. n.d. Assertive commoners and evasive elites: Debt, clientage, and the integrative orientation of bottom-up action on the East African Swahili Coast. Submitted to Journal of Anthropological Archaeology.
 
 ### Reports
 
