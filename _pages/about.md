@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an anthropological archaeologist interested in how ordinary people in the past produced and responded to large-scale environmental and social transformations. I currently conduct research in coastal East Africa.
+I am an anthropological archaeologist interested in how ordinary people in the past produced and responded to environmental and social transformations. I currently conduct research in coastal East Africa.
 
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. 
 
