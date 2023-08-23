@@ -21,9 +21,9 @@ In press			Alders, W. Open-source archaeological predictive modeling using zonal
 
 ### Reports
 
-2020 		Alders, W. Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. Nyame Akuma, vol. 94, 38-45.
+2020 		Alders, W. Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. _Nyame Akuma_, vol. 94, 38-45.
 
-2016 		Alders, W. Archaeological survey and landscape history at Gede, Kenya. Nyame Akuma. vol. 85, 33-43.
+2016 		Alders, W. Archaeological survey and landscape history at Gede, Kenya. _Nyame Akuma_. vol. 85, 33-43.
 
 ### Dissertation
 
