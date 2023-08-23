@@ -8,18 +8,22 @@ redirect_from:
 ---
 
 ### Peer Reviewed Articles
-Alders, W. (2023). The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. _African Archaeological Review_. https://doi.org/10.1007/s10437-023-09523-y
+In Prep			Alders, W., Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. In preparation for submission to Journal of Archaeological Method and Theory.
 
-### Manuscripts in Review
+In Prep        	Alders, W.; Juma, K.; Manzi, Z.; Muhammed, H.; Musa, H.; Suleiman, H.; Ubwa, A.; 
+Vuai, A.; Ali, A. Coastal Slave Raiding, Indigenous Hinterlands, and Small-Scale Agricultural Transformations in Coastal East Africa. In preparation to submit to Current Anthropology.
 
-Alders, W. n.d. 	Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania.
-Submitted to *Journal of Computer Applications in Archaeology*.
+In Review			Alders, W. Assertive commoners and evasive elites: Debt, clientage, and the integrative orientation of bottom-up action on the East African Swahili Coast. Submitted to Journal of Anthropological Archaeology.
+
+In press			Alders, W. Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania. Journal of Computer Applications in Archaeology.
+
+2023			Alders, W. The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. African Archaeological Review. https://doi.org/10.1007/s10437-023-09523-y
 
 ### Reports
 
-Alders, W. (2016). Archaeological survey and landscape history at Gede, Kenya. _Nyame Akuma_, 85, 33-43.
+2020 		Alders, W. Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. Nyame Akuma, vol. 94, 38-45.
 
-Alders, W. (2020). Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. _Nyame Akuma_, 94, 38-45.
+2016 		Alders, W. Archaeological survey and landscape history at Gede, Kenya. Nyame Akuma. vol. 85, 33-43.
 
 ### Dissertation
 
