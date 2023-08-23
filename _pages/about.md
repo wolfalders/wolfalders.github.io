@@ -22,10 +22,17 @@ Digging STPs with community members and members of the Zanzibar Department of Mu
 ### The Archaeology of Social and Environmental Transformation
 Urban, complex, socially-stratified societies are emergent human experiments, the outcomes of which will have drastic implications for the course of our species and planet. Archaeology is uniquely suited for understanding the dynamics of social transformation at multiple long-term scales and in relation to different environmental factors. This is an urgent requirement of the present day in the face of multiple intersecting global challenges like climate change, political instability, and mass inequality. Off-shore islands on the Swahili Coast of East Africa like Zanzibar are ideal places for understanding these dynamics, since they were both A.) caught up in broader socioecological trends like the initial migration of early iron-working agriculturalists to the coast urbanization, Swahili urbanization and social stratification, integration within global trading systems, and colonialism, and B.) geographically and environmentally constrained as physical islands, permitting types of social and environmental modeling that would be more difficult on the mainland East African coast due to edge effects.
 
+![Swahili pillar tomb recorded during field survey, 2023](pillartomb.JPG?raw=true)
+Collapsed swahili pillar tomb, recorded during field survey, 2023.
+
 ### Geospatial Archaeology
 Methodologically, my main engagement is with geospatial technologies for archaeology. I use high-resolution GNSS mapping, multispectral satellite imagery, historical maps, and spatial statistics to help understand human settlement trends across large regions. In my work I seek to develop free and open-access methods for geospatial and archaeological research, enabling broader participation in archaeological science for places without the funding or licensing agreements to obtain cutting-edge geospatial hardware and software. In particular, I have translated GIS workflows from ArcGIS to QGIS and worked with low-cost satellite imagery, like PlanetScope.
+
+![streams](streams.JPEG?raw=true)
+Model of stream proximity on Zanzibar, based on data from a georeferenced 1907 historical map.
 
 ### Community and Collaborative Engagements
 I am committed to collaborative engagements with local communities and stakeholders, public outreach, and decolonial approaches to archaeological practice. In Zanzibar, this has meant practicing archaeology in the Swahili language, holding community meetings during and after field surveys, disseminating archaeological reports in Swahili to local communities, and training Tanzanian archaeologists. I have developing collaborations with the Department of Museums and Antiquities in Zanzibar, and the Department of Archaeology and Heritage Management at the University of Dar es Salaam.
 
-
+![Field students training in GNSS mapping with Juno handhelds during field survey, summer 2023.](GNSS.JPG?raw=true)
+Field students training in GNSS mapping with Juno handhelds during field survey, summer 2023.
