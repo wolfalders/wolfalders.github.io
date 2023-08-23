@@ -16,17 +16,17 @@ author_profile: true
 
 ### Teaching Experience
 Instructor of Record
-2022	__Department of Anthropology, University of California, Berkeley__
+2022	Department of Anthropology, University of California, Berkeley
 Undergraduate Course: 	R5B Freshman Writing Seminar, “Politics of African Archaeology and Heritage” (Spring 2022)
 
 Teaching Assistant
-2021		__Department of Environmental Science, Policy, and Management, University of California, Berkeley__
+2021		Department of Environmental Science, Policy, and Management, University of California, Berkeley
 Undergraduate Course: 	ESPM 72 – Intro to Geographic Information Systems (Summer 2021) 
 
-2015-2020	__Department of Anthropology, University of California, Berkeley__
+2015-2020	Department of Anthropology, University of California, Berkeley
 Undergraduate Courses: Anth 2AC: Intro to Archaeology (Fall 2015, Fall 2018, Fall 2020) 
 
-2016-2018	__Department of Near Eastern Studies, University of California, Berkeley__
+2016-2018	Department of Near Eastern Studies, University of California, Berkeley
 Undergraduate Courses: MES 15: Intro to Middle Eastern Art and Archaeology (Spring 2016, Spring 2017, Spring 2018).
 
 
