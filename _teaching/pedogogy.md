@@ -14,23 +14,23 @@ author_profile: true
 
 [GIS and Remote Sensing in Archaeology](github.io/wolfalders/files/pdf/alders_syllabus_gis.pdf)
 
-### Instructor of Record
-Department of Anthropology, University of California, Berkeley
+### Teaching and Mentoring Experience
+
+#### Instructor of Record
+Department of Anthropology, University of California, Berkeley.  
 Undergraduate Course: R5B Freshman Writing Seminar, “Politics of African Archaeology and Heritage” (Spring 2022)
 
-### Teaching Assistant
-Department of Environmental Science, Policy, and Management, University of California, Berkeley
+#### Teaching Assistant
+Department of Environmental Science, Policy, and Management, University of California, Berkeley.  
 Undergraduate Course: 	ESPM 72 – Intro to Geographic Information Systems (Summer 2021) 
 
-Department of Anthropology, University of California, Berkeley
+Department of Anthropology, University of California, Berkeley.  
 Undergraduate Courses: Anth 2AC: Intro to Archaeology (Fall 2015, Fall 2018, Fall 2020) 
 
-Department of Near Eastern Studies, University of California, Berkeley
+Department of Near Eastern Studies, University of California, Berkeley.  
 Undergraduate Courses: MES 15: Intro to Middle Eastern Art and Archaeology (Spring 2016, Spring 2017, Spring 2018).
 
-
-
-### Mentorship and Undergraduate Training
+#### Mentorship and Undergraduate Training
 Trained students from the US and from the State University of Zanzibar in archaeological field methods, remote sensing, and ceramic analysis (Summer 2019, Summer 2023).
 
 Supervised undergraduates in managing field data. PI: Lisa Maher (Fall 2020)
