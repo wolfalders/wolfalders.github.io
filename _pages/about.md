@@ -15,7 +15,7 @@ I am currently directing the Zanzibar Urban-Rural Complexity Project (ZURCP), wh
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
 ![Me with members of the Zanzibar Department of Museums and Antiquities on field survey, 2023](DSC_9284.JPG?raw=true)
-Digging STPs with members of the Zanzibar Department of Museums and Antiquities on field survey, summer 2023.
+Digging STPs with community members and members of the Zanzibar Department of Museums and Antiquities on field survey, summer 2023.
 
 ## Research Agenda 
 
