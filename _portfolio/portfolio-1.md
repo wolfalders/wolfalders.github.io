@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ### Community Engagement and Public Talks
+2023 GIS and GNSS for Archaeology and Heritage Management. Talk and workshop provided for the Department of Museums and Antiquities in Zanzibar, Tanzania.
+
 2022 Public talk at the Kokoci Arkansas Archaeological Survey: “The Archaeology of Social Transformation in Zanzibar, Tanzania”.
 
 2019-2020 Swahili Translation Project, with Jackson Kimambo
