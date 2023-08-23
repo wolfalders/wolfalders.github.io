@@ -14,11 +14,11 @@ author_profile: true
 
 [GIS and Remote Sensing in Archaeology](github.io/wolfalders/files/pdf/alders_syllabus_gis.pdf)
 
-### Teaching Experience
-__Instructor of Record__ - Department of Anthropology, University of California, Berkeley
+### Instructor of Record
+Department of Anthropology, University of California, Berkeley
 Undergraduate Course: R5B Freshman Writing Seminar, “Politics of African Archaeology and Heritage” (Spring 2022)
 
-__Teaching Assistant__
+### Teaching Assistant
 Department of Environmental Science, Policy, and Management, University of California, Berkeley
 Undergraduate Course: 	ESPM 72 – Intro to Geographic Information Systems (Summer 2021) 
 
