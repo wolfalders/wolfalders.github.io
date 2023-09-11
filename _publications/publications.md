@@ -14,13 +14,13 @@ In press.			 __Alders, W.__ Open-source archaeological predictive modeling using
 2023    __Alders, W.__ The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. _African Archaeological Review._ https://doi.org/10.1007/s10437-023-09523-y
 
 
-### Manuscripts in Preparation
-In Prep.         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. In preparation for submission to _Journal of Archaeological Method and Theory._
+### Manuscripts in Preparation, Review, and Revision
+In Revision.		  __Alders, W.__ Assertive commoners and evasive elites: Debt, clientage, and the integrative orientation of bottom-up action on the East African Swahili Coast. Submitted to _Journal of Anthropological Archaeology._
 
-In Prep.        	__Alders, W.__; Juma, K.; Manzi, Z.; Muhammed, H.; Musa, H.; Suleiman, H.; Ubwa, A.; 
+In Review.        	__Alders, W.__; Juma, K.; Manzi, Z.; Muhammed, H.; Musa, H.; Suleiman, H.; Ubwa, A.; 
 Vuai, A.; Ali, A. Coastal Slave Raiding, Indigenous Hinterlands, and Small-Scale Agricultural Transformations in Coastal East Africa. In preparation to submit to _Current Anthropology._
 
-In Review.		  __Alders, W.__ Assertive commoners and evasive elites: Debt, clientage, and the integrative orientation of bottom-up action on the East African Swahili Coast. Submitted to _Journal of Anthropological Archaeology._
+In Prep.         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. In preparation for submission to _Journal of Archaeological Method and Theory._
 
 
 ### Reports
