@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I am an environmental and anthropological archaeologist investigating how rural and non-elite people adapted to and participated in dynamic urban and rural systems within the tropical maritime environments of the East African Swahili Coast. 
+I am an environmental and anthropological archaeologist investigating how rural and non-elite people adapted to and participated in dynamic urban and rural systems within the tropical maritime environments of the East African Swahili Coast. I am currently a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville.
 
 I use settlement patterns and ceramic data to theorize about the integrative and autonomous activities of rural commoners, non-elites, and dependents, and the ways that bottom-up activities by these groups conditioned the emergence of social elites. I use field surveys, remote sensing, and geospatial statistics to understand and analyze the objects, environments, and landscapes that mediated the specific dynamics of Swahili social systems.
 
