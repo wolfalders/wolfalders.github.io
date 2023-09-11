@@ -15,8 +15,4 @@ redirect_from:
 
 2021 Alders, W. “Settlement and Environment on Zanzibar in the Context of the Western Indian Ocean”. Society for American Archaeology Annual Meeting. Discussant in the lightning round panel “An Ocean of connections: tangible and intangible exchanges in the IOW”. Organizers: Stefania Manfio and Alessandra Cianciosi.
 
-2020 Alders, W. “Preliminary results of settlement survey in inland Zanzibar, Tanzania.” Society of Africanist Archaeologists Biennial Meeting. Accepted, though conference cancelled due to Covid-19. Session organizers: Mark Horton, Jon Henderson and Laura Basell.
-
 2017 Alders, W., Khamis Ali, A. “Preliminary Results of Geoarchaeological Sampling and Survey to Investigate Landscape History in Northern Unguja, Zanzibar.” Society for American Archaeology Annual Meeting. In the panel, “Advances in Geoarchaeological Research Methods”. Session organizer: Michael Wilson, Simon Fraser University.
-
-2016 Alders, W., Rice, Mwamba Agriculture, and Civilizational Discourse in Zanzibar: 11th17th Centuries AD. Society of Africanist Archaeologists Biennial Meeting. In the panel, “Landscape formation processes and archaeological research in Africa”. Session Organizer: Brian Clark, Rice University.
