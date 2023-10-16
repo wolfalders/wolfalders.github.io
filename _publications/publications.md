@@ -22,7 +22,7 @@ In revision	      __Alders W.__ Debt, clientage, and the integrative orientation
 
 In Prep.         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. In preparation for submission to _Journal of Archaeological Method and Theory._
 
-In Prep.         __Alders, W.__  THe rural history of a rapidly urbanizing place: survey in the interstices of an East African island hinterland. In preparation for submission to the _Journal of Field Archaeology_
+In Prep.         __Alders, W.__  The rural history of a rapidly urbanizing place: survey in the interstices of an East African island hinterland. In preparation for submission to the _Journal of Field Archaeology_
 
 
 ### Reports
