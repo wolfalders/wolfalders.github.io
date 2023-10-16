@@ -9,7 +9,7 @@ redirect_from:
 
 ### Peer Reviewed Articles
 
-2023.			 __Alders, W.__ Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania. _Journal of Computer Applications in Archaeology._
+2023			 __Alders, W.__ Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania. _Journal of Computer Applications in Archaeology._
 
 2023    __Alders, W.__ The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. _African Archaeological Review._ https://doi.org/10.1007/s10437-023-09523-y
 
