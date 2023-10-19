@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist investigating social, economic, and environmental transformations on the East African Swahili Coast over the last thousand years. Currently, I am a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville.
+I am an archaeologist investigating transformations across urban and rural societies on the East African Swahili Coast over the last thousand years. Currently, I am a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville.
 
-I use settlement patterns and ceramic data to theorize about the integrative and autonomous activities of rural commoners, and the ways that bottom-up activities by these groups conditioned the emergence of nascent urban elites. I also use remote sensing and spatial statistics to model and analyze the environments that mediated specific dynamics within Swahili social systems. Currently, I am directing the Zanzibar Urban-Rural Complexity Project (ZURCP) in Zanzibar, Tanzania, to address these questions from the 7th to 19th centuries CE.
+I use settlement patterns and ceramic data to theorize about the integrative and autonomous activities of rural commoners, and the ways that bottom-up activities by these groups conditioned the emergence of nascent urban elites. I also use remote sensing and spatial statistics to analyze the environments that mediated specific dynamics within Swahili social systems. Currently, I am directing the Zanzibar Urban-Rural Complexity Project (ZURCP) in Zanzibar, Tanzania, to address these questions from the 8th to 19th centuries CE. This work involves survey in the hinterland of Zanzibar Stone Town, a precolonial Swahili stone town that grew into a wealthy urban mercantile entrepôt the 18th and 19th centuries.
 
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
