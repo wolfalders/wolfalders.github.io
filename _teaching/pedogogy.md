@@ -10,7 +10,11 @@ author_profile: true
 [Teaching philosophy](github.io/wolfalders/files/pdf/alders_teaching.pdf)
 
 ### Sample Syllabi
-[Power, Inequality, and the State](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
+[Cities, Past and Present](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
+
+[Agriculture and Society](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
+
+[East Africa in the Indian Ocean](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
 
 [GIS and Remote Sensing in Archaeology](github.io/wolfalders/files/pdf/alders_syllabus_gis.pdf)
 
