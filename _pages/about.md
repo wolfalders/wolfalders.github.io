@@ -12,8 +12,7 @@ I am an anthropological archaeologist working on the East African Swahili Coast.
 
 Currently, I am a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
-![Ruined Swahili pillar tomb, recorded on survey in 2023](DSC_6370.JPG?raw=true)
-Ruined Swahili pillar tomb, recorded on survey in 2023.
+![Ruined Swahili pillar tomb, recorded on survey in 2023](relative%20path/to/DSC_6370.JPG?raw=true "Title")
 
 ## Research Agenda 
 
