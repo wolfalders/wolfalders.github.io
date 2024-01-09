@@ -1,5 +1,5 @@
 ---
-title: "Conference Talks"
+title: "Presentations"
 collection: talks
 permalink: /talks/
 author_profile: true
@@ -7,6 +7,7 @@ redirect_from:
   - /talks
 ---
 
+##Conference Talks##
 2023 Alders, W. “Heterarchy, Anti-Colonial Infrastructures, and the Busaid State in 19th Century Zanzibar”. Society of Africanist Archaeologists Biennial Meeting. In 25 Years Beyond Chiefdoms: Susan McIntosh's Pathways to Complexity Influence on African Archaeology. Co-Chairs: Carla Klehm and Wolfgang Alders.
 
 2023 Alders, W., Haines, J. “Landscapes of Stone in Mauritius and Zanzibar.” Society for American Archaeology Annual Meeting. In the session “Adventures in Spatial Archaeometry: A Survey of Recent High-Resolution Survey and Measurement Application”. Session organizers: Sarah Watson and Elizabeth Clay.
