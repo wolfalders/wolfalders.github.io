@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ### Teaching Philosophy
-Broadening access to archaeology and higher education for students from diverse walks of life is a social justice imperative. In my teaching, I draw on universal design for learning (UDL) approaches to make class lectures and assignments accessible to students with different backgrounds and learning styles. I also emphasize writing, peer-editing, and re-writing in a supportive environment as a critical method for helping students become independent thinkers and scholars.
+Broadening access to archaeology and higher education for students from diverse walks of life is a social justice imperative. In my teaching, I draw on universal design for learning (UDL) approaches to make class lectures and assignments accessible to students with different backgrounds and learning styles. I also emphasize writing, peer-editing, and re-writing in a supportive environment as a critical method for helping students become independent thinkers and scholars. Finally, I am committed to mentoring and advancing the capacities of African students and researchers, who are underserved compared to their colleagues in the US and Europe.
 
 ### Sample Courses
 Cities, Past and Present
