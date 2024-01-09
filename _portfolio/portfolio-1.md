@@ -26,12 +26,13 @@ redirect_from:
 
 2014 Tshimbupfe, South Africa community engagement. PI: Jun Sunseri.
 
+2014 	  Museum Chat, “Roman Coins from the Franklin Wright Collection”. With Elisabeth Campbell and Sheri Leonard. Johns Hopkins Archaeological Museum. Johns Hopkins University
+
 ### Online Presentations and Blogs
 2022 Moderator for the panel “Abdulrazak Gurna’s Nobel Prize in Literature:
 Implications in the African Language Classroom”. Department of African and African American Studies, UC Berkeley: https://www.youtube.com/watch?v=G3C0rx72X8Y
 
 2020 Presenter, “Long-Term Inland Settlement and Agricultural Change in Zanzibar, 
-Tanzania”. Department of Anthropology, UC Berkeley: 
-https://www.youtube.com/watch?v=TvpBzCwJfGM
+Tanzania”. Department of Anthropology, UC Berkeley: https://www.youtube.com/watch?v=TvpBzCwJfGM
 
 2015-2016 - Swahili Archaeology and Poetry Blog: https://swahiliarchaeologypoetry.wordpress.com/
