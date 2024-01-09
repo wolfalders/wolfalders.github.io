@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an anthropological archaeologist working on the East African Swahili Coast. I explore how non-elite, rural societies adapted to sociopolitical and environmental changes over the last two thousand years. Furthemore, I am committed to advancing international public and academic understandings of the significance and interconnectedness of precolonial Africa in world history.
+I am an anthropological archaeologist working on the East African Swahili Coast. I explore how non-elite, rural societies adapted to sociopolitical and environmental changes over the last two thousand years. Furthermore, I am committed to advancing international public and academic understandings of the significance and interconnectedness of precolonial Africa in world history.
 
 Currently, I am a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
