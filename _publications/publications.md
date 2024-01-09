@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Peer Reviewed Articles
-Submitted.         __Alders, W.__  The rural history of a rapidly urbanizing place: survey in the interstices of an East African island hinterland. _Journal of Field Archaeology._
+Submitted.         __Alders, W.__  The archaeology of rapidly urbanizing cities: satellite remote sensing, field survey, and urban-rural trajectories in Zanzibar, Tanzania. _Journal of Field Archaeology._
 
 Submitted.         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._
 
