@@ -24,11 +24,11 @@ The Archaeology of Slavery in Africa
 
 ### Teaching and Mentoring Experience
 
-#### Instructor of Record
+### Instructor of Record
 Department of Anthropology, University of California, Berkeley.  
 Undergraduate Course: R5B Freshman Writing Seminar, “Politics of African Archaeology and Heritage” (Spring 2022)
 
-#### Teaching Assistant
+### Teaching Assistant
 Department of Environmental Science, Policy, and Management, University of California, Berkeley.  
 Undergraduate Course: 	ESPM 72 – Intro to Geographic Information Systems (Summer 2021) 
 
@@ -38,7 +38,7 @@ Undergraduate Courses: Anth 2AC: Intro to Archaeology (Fall 2015, Fall 2018, Fal
 Department of Near Eastern Studies, University of California, Berkeley.  
 Undergraduate Courses: MES 15: Intro to Middle Eastern Art and Archaeology (Spring 2016, Spring 2017, Spring 2018).
 
-#### Mentorship and Undergraduate Training
+### Mentorship and Undergraduate Training
 Trained students from the US and from the State University of Zanzibar in archaeological field methods, remote sensing, and ceramic analysis (Summer 2019, Summer 2023).
 
 Supervised undergraduates in managing field data. PI: Lisa Maher (Fall 2020)
