@@ -7,7 +7,7 @@ redirect_from:
   - /talks
 ---
 
-##Conference Talks##
+### Conference Presentations
 2023 Alders, W. “Heterarchy, Anti-Colonial Infrastructures, and the Busaid State in 19th Century Zanzibar”. Society of Africanist Archaeologists Biennial Meeting. In 25 Years Beyond Chiefdoms: Susan McIntosh's Pathways to Complexity Influence on African Archaeology. Co-Chairs: Carla Klehm and Wolfgang Alders.
 
 2023 Alders, W., Haines, J. “Landscapes of Stone in Mauritius and Zanzibar.” Society for American Archaeology Annual Meeting. In the session “Adventures in Spatial Archaeometry: A Survey of Recent High-Resolution Survey and Measurement Application”. Session organizers: Sarah Watson and Elizabeth Clay.
@@ -17,3 +17,12 @@ redirect_from:
 2021 Alders, W. “Settlement and Environment on Zanzibar in the Context of the Western Indian Ocean”. Society for American Archaeology Annual Meeting. Discussant in the lightning round panel “An Ocean of connections: tangible and intangible exchanges in the IOW”. Organizers: Stefania Manfio and Alessandra Cianciosi.
 
 2017 Alders, W., Khamis Ali, A. “Preliminary Results of Geoarchaeological Sampling and Survey to Investigate Landscape History in Northern Unguja, Zanzibar.” Society for American Archaeology Annual Meeting. In the panel, “Advances in Geoarchaeological Research Methods”. Session organizer: Michael Wilson, Simon Fraser University.
+
+### Other Presentations
+2023	  Integration and Autonomy in the Island Hinterland of Zanzibar Stone Town, 8th-19th centuries CE. The Cotsen Institute of Archaeology, UCLA
+2022		Exploring Swahili Urban Transformations. Anthropology Brown Bag, University of Arkansas, Fayetteville
+2022		Uneven Ground: The Archaeology of Settlement Reorganization in Zanzibar, Tanzania. Archaeological Research Facility, UC Berkeley
+2020		Land Use, Labor, and Long-Term History in Rural Zanzibar, Tanzania. African Archaeology Research Day. University of Leicester
+2020		Long-Term Inland Settlement and Agricultural Change in Zanzibar, Tanzania. Archaeological Research Facility, UC Berkeley
+2016    Cultivating Cosmopolitanism: Long-Term Archaeological Histories, Agriculture and Poetry in Zanzibar. In Symposium on Early Modern Identities. UC Berkeley
+2016    Becoming Zanzibar: Comparative Archaeological and Ecological Histories of Unguja and Pemba. Archaeological Research Facility, UC Berkeley
