@@ -6,17 +6,21 @@ author_profile: true
 ---
 ---
 
-### Teaching Statement
-[Teaching philosophy](github.io/wolfalders/files/pdf/alders_teaching.pdf)
+### Teaching Philosophy
+Broadening access to archaeology and higher education for students from diverse walks of life is a social justice imperative. In my teaching, I draw on universal design for learning (UDL) approaches to make class lectures and assignments accessible to students with different backgrounds and learning styles. I also emphasize writing, peer-editing, and re-writing in a supportive environment as a critical method for helping students become independent thinkers and scholars.
 
-### Sample Syllabi
-[Cities, Past and Present](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
+### Sample Courses
+Cities, Past and Present
 
-[Agriculture and Society](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
+Agriculture and Society
 
-[East Africa in the Indian Ocean](github.io/wolfalders/files/pdf/alders_syllabus_powerheterarchy.pdf)
+GIS and Remote Sensing in Archaeology
 
-[GIS and Remote Sensing in Archaeology](github.io/wolfalders/files/pdf/alders_syllabus_gis.pdf)
+African Archaeology and Cultural Heritage
+
+East Africa in the Indian Ocean
+
+The Archaeology of Slavery in Africa
 
 ### Teaching and Mentoring Experience
 
