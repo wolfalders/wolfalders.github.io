@@ -8,21 +8,19 @@ redirect_from:
 ---
 
 ### Peer Reviewed Articles
+Submitted.         __Alders, W.__  The rural history of a rapidly urbanizing place: survey in the interstices of an East African island hinterland. _Journal of Field Archaeology_
 
-2023			 __Alders, W.__ Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania. _Journal of Computer Applications in Archaeology._
+Submitted         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._
+
+Submitted        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., 
+Vuai, A., Ali, A. Coastal slave raiding, indigenous hinterlands, and small-scale agricultural transformations in Swahili East Africa. _Current Anthropology._
+
+2024	      __Alders W.__ Clientage, debt, and the integrative orientation of non-elites on the East African Swahili Coast. _Journal of Anthropological Archaeology._ http://dx.doi.org/10.1016/j.jaa.2023.101553
+
+2023			 __Alders, W.__ Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania. _Journal of Computer Applications in Archaeology._ https://doi.org/10.5334/jcaa.107
 
 2023    __Alders, W.__ The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. _African Archaeological Review._ https://doi.org/10.1007/s10437-023-09523-y
 
-
-### Other Manuscripts Submitted and in Preparation
-Submitted        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., 
-Vuai, A., Ali, A. Coastal slave raiding, indigenous hinterlands, and small-scale agricultural transformations in Swahili East Africa. Current Anthropology.
-
-In revision	      __Alders W.__ Debt, clientage, and the integrative orientation of bottom-up action on the East African Swahili Coast. Journal of Anthropological Archaeology.
-
-In Prep.         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. In preparation for submission to _Journal of Archaeological Method and Theory._
-
-In Prep.         __Alders, W.__  The rural history of a rapidly urbanizing place: survey in the interstices of an East African island hinterland. In preparation for submission to the _Journal of Field Archaeology_
 
 
 ### Reports
