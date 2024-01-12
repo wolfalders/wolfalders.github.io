@@ -32,3 +32,5 @@ Vuai, A., Ali, A. Coastal slave raiding, indigenous hinterlands, and small-scale
 ### Dissertation
 
 __Alders, W.__ (2022). Uneven Ground: The Archaeology of Social Transformation in Zanzibar, Tanzania. Berkeley: Department of Anthropology Dissertation, UC Berkeley. Retrieved from https://escholarship.org/uc/item/3n46k1w9
+
+Wolfgang Alders, 2024
