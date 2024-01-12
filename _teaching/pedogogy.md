@@ -48,3 +48,5 @@ Supervised undergraduates in soil analysis of sediments from Zanzibar, Tanzania.
 Supervised undergraduates doing structure-from-motion photogrammetry of Iron Age ceramics from Jordan. PI: Ben Porter (Fall 2016, Fall 2017).
 
 Supervised undergraduates in a collaborative research project with the Musanda Royal Council of Tsimbupfe, South Africa. PI: Jun Sunseri (Spring 2015).
+
+Wolfgang Alders, 2024
