@@ -22,7 +22,7 @@ What African archaeology demonstrates is that urbanism, food production, inequal
 
 Africa has enormous global significance but it is a vastly understudied, and therefore misunderstood, region of the world. Investigating these processes also means countering outdated assumptions about Africa, like the notion that its societies were historically static, or dominated by environmental factors. These ideas could not be further from the truth, and archaeology is uniquely suited to reveal the dynamic societies of the African past, and help to address challenges of the African and global present.
 
-![Africa](africa.JPG?raw=true)
+![Africa](africa.jpg?raw=true)
 
 ## Research Agenda 
 My research spans the last 2000 years of East African history, from the earliest migrations of iron-working agriculturalists to the coast and offshore islands to the emergence of socially stratified mercantile societies before and after colonialism. This long-term approach aims to bridge disciplinary siloes of prehistory-history or precolonial-colonial periodization which artificially limit our understandings of social processes. In my research, I have investigated urbanism, colonial contact, and adaptations to climate and environmental instability. All of my projects are united by an attention to the strategies of non-elite, rural, and small-scale communities, and how these groups shaped broader sociopolitical and environmental systems.
