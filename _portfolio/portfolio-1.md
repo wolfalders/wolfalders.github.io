@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /portfolio
 ---
+I am committed to broadening engagement with archaeology in East Africa, the United States, and globally. African communities remain sidelined by traditional archaeological practice. Regular community meetings in the field allow our team to carry out ethical archaeological research that incorporates local perspectives and meets community needs. Our field team has developed several long-standing relationships with community members around different sites in Zanzibar. My collaborators and I have also developed Swahili-language archaeology vocabulary to communicate effectively during local community meetings, and we translate and disseminate reports of our findings in Swahili.
+
+In the US, I am committed to dispelling outdated notions about Africa. During my graduate studies, I partnered with the ORIAS Speaker's Bureau at the University of California, Berkeley to give public talks about African archaeology at local Bay Area middle schools and high schools.
 
 ### Community Engagement and Public Talks
 2023 GIS and GNSS for Archaeology and Heritage Management. Talk and workshop provided for the Department of Museums and Antiquities in Zanzibar, Tanzania.
