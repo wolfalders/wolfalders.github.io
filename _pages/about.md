@@ -12,7 +12,7 @@ I am an anthropological archaeologist working on the East African Swahili Coast.
 
 Currently, I am a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
-![analyzingceramics, 2023](DSC_7859.JPG?raw=true)
+![analyzingceramics2023](DSC_7859.JPG?raw=true)
 Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities, summer 2023.
 
 ## Why Africa?
@@ -55,10 +55,9 @@ Bananas and other crops planted in rocky, coralline limestone soil field plots i
 ### Climate Change and Environmental Instability
 With colleagues at the University of Dar Es Salaam and the University of Sydney, I have received funding to investigate early coastal adaptations to climate change and environmental disasters on the Tanzanian mainland, at Pangani Bay. With fieldwork planned for 2024, our long-term goals are to investigate settlement shifts in response to climate oscillations in the southern hemisphere, and responses to acute environmental disasters like tsunamis and flooding events.
 
-![ceramics, 2023](dar_port.jpg?raw=true)
+![ceramics2023](dar_port.jpg?raw=true)
 Early coastal trade ceramics of the late first millennium CE.
 
 
 
-
-- Wolfgang Alders, 2024 -
+Wolfgang Alders, 2024
