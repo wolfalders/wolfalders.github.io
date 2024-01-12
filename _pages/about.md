@@ -22,7 +22,7 @@ What African archaeology demonstrates is that urbanism, food production, inequal
 
 Africa has enormous global significance but it is a vastly understudied, and therefore misunderstood. Investigating these processes also means countering outdated assumptions about Africa, like the notion that its societies were historically static, or dominated by environmental factors. These ideas could not be further from the truth, and archaeology is uniquely suited to reveal the dynamic societies of the African past, and help to address challenges of the African and global present.
 
-![Africa](africa.jpg?raw=true)
+![Satellite image of Africa](africa.jpg)
 
 ## Research Agenda 
 My research spans the last 2000 years of East African history, from the earliest migrations of iron-working agriculturalists to the coast and offshore islands to the emergence of socially stratified mercantile societies before and after colonialism. This long-term approach aims to bridge disciplinary siloes of prehistory-history or precolonial-colonial periodization which artificially limit our understandings of social processes. Methodologically, my engagement is with geospatial technologies for archaeology. I use GNSS mapping, UAVs, multispectral satellite imagery, historical maps, and spatial statistics to model environments and to help understand human settlement trends across large regions. In my work I seek to develop free and open-access methods for geospatial and archaeological research, enabling broader participation in archaeological science for places without the funding or licensing agreements to obtain cutting-edge geospatial hardware and software. In particular, I have translated GIS workflows from ArcGIS to QGIS and worked with freely available satellite imagery, like PlanetScope.
@@ -31,7 +31,7 @@ I am committed to collaborative engagements with local communities and stakehold
 
 In my research, I have investigated urbanism, colonial contact, and adaptations to climate and environmental instability. All of my projects are united by an attention to the strategies of non-elite, rural, and small-scale communities, and how these groups shaped broader sociopolitical and environmental systems.
 
-![Swahili pillar tomb, recorded during survey, 2023](DSC_6585.JPG?raw=true)
+![Swahili pillar tomb, recorded during survey, 2023](DSC_6585.JPG)
 Rural Swahili pillar tomb, 18th century.
 
 ### Studying Swahili Urbanism in East Africa's Rapidly Urbanizing Modern Cities
@@ -41,7 +41,7 @@ One goal of this research is to pioneer geospatial techniques and survey methods
 
 Surveys have clarified a model of island settlement by Swahili agriculturalists, demonstrating that coastal stream networks and specific soil zones shaped the eventual emergence of Stone Town as a central place. With ceramic data, I have started to theorize about the integrative and autonomous activities of rural commoners, and the ways that participation by these groups within patron-client systems conditioned the emergence of urbanism. I have also continued thinking about later rural responses to colonial contact. One branch of my work has been to consider how rural stone mortuary complexes might reflect Swahili investments into territoriality as colonial rulers sought to exploit limited agricultural land in favorable environmental zones.
 
-![rapidurbanization](figure6.jpg?raw=true)
+![rapidurbanizationsurveymodel](figure6.jpg)
 Systematic survey zones stratified around areas of rapid urbanization in Zanzibar City, Tanzania.
 
 ### Colonial Contact, Plantation Systems, and Indigenous Persistence
@@ -49,13 +49,13 @@ My dissertation research looked at the adaptations of rural Swahili communities 
 
 Beyond the clove plantation zones in Unguja's eastern region, we surveyed in areas long considered to be barren and agriculturally marginal. Our field surveys revealed a longer and more continuous, if less intensive, history of occupation in these areas compared to the agriculturally fertile western regions. Interviews with farmers attest to agricultural landscape modifications that involve cutting and digging out coral limestone bedrock. These techniques have incrementally transformed marginal agricultural soils into places capable of sustaining communities for centuries, and the eastern regions may have served as places of refuge during the turbulent colonial period.
 
-![coral](DSC_0918.JPG?raw=true)
-Bananas and other crops planted in rocky, coralline limestone soil field plots in the eastern region of Unguja.
+![coral limestone field plot](DSC_0918.JPG)
+Bananas and other crops planted in rocky, coralline limestone field plots in the eastern region of Unguja.
 
 ### Climate Change and Environmental Instability
 With colleagues at the University of Dar Es Salaam and the University of Sydney, I have received funding to investigate early coastal adaptations to climate change and environmental disasters on the Tanzanian mainland, at Pangani Bay. With fieldwork planned for 2024, our long-term goals are to investigate settlement shifts in response to climate oscillations in the southern hemisphere, and responses to acute environmental disasters like tsunamis and flooding events. We hope to model early Swahili adaptations to extreme environments in ways that might inform coastal resilience in Tanzania, a country which experiences the most destructive flooding of anywhere in East Africa.
 
-![darport2023](dar_port.jpg?raw=true)
+![beach near Dar Es Salaam](dar_port.jpg)
 
 
 Wolfgang Alders, 2024
