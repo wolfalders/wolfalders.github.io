@@ -36,3 +36,5 @@ Implications in the African Language Classroom”. Department of African and Afr
 Tanzania”. Department of Anthropology, UC Berkeley: https://www.youtube.com/watch?v=TvpBzCwJfGM
 
 2015-2016 - Swahili Archaeology and Poetry Blog: https://swahiliarchaeologypoetry.wordpress.com/
+
+Wolfgang Alders, 2024
