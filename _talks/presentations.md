@@ -32,3 +32,6 @@ redirect_from:
 2016    Cultivating Cosmopolitanism: Long-Term Archaeological Histories, Agriculture and Poetry in Zanzibar. In Symposium on Early Modern Identities. UC Berkeley
 
 2016    Becoming Zanzibar: Comparative Archaeological and Ecological Histories of Unguja and Pemba. Archaeological Research Facility, UC Berkeley
+
+
+Wolfgang Alders, 2024
