@@ -53,11 +53,9 @@ Beyond the clove plantation zones in Unguja's eastern region, we surveyed in are
 Bananas and other crops planted in rocky, coralline limestone soil field plots in the eastern region of Unguja.
 
 ### Climate Change and Environmental Instability
-With colleagues at the University of Dar Es Salaam and the University of Sydney, I have received funding to investigate early coastal adaptations to climate change and environmental disasters on the Tanzanian mainland, at Pangani Bay. With fieldwork planned for 2024, our long-term goals are to investigate settlement shifts in response to climate oscillations in the southern hemisphere, and responses to acute environmental disasters like tsunamis and flooding events.
+With colleagues at the University of Dar Es Salaam and the University of Sydney, I have received funding to investigate early coastal adaptations to climate change and environmental disasters on the Tanzanian mainland, at Pangani Bay. With fieldwork planned for 2024, our long-term goals are to investigate settlement shifts in response to climate oscillations in the southern hemisphere, and responses to acute environmental disasters like tsunamis and flooding events. We hope to model early Swahili adaptations to extreme environments in ways that might inform coastal resilience in Tanzania, a country which experiences the most destructive flooding of anywhere in East Africa.
 
-![ceramics2023](dar_port.jpg?raw=true)
-Early coastal trade ceramics of the late first millennium CE.
-
+![darport2023](dar_port.jpg?raw=true)
 
 
 Wolfgang Alders, 2024
