@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ### Peer Reviewed Articles
-Submitted.         __Alders, W.__  The archaeology of rapidly urbanizing cities: satellite remote sensing, field survey, and urban-rural trajectories in Zanzibar, Tanzania. _Journal of Field Archaeology._
+In Review.         __Alders, W.__  The archaeology of rapidly urbanizing cities: satellite remote sensing, field survey, and urban-rural trajectories in Zanzibar, Tanzania. _Journal of Field Archaeology._
 
-Submitted.         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._
+In Review.         __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._
 
-Submitted.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., 
+In Review.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., 
 Vuai, A., Ali, A. Coastal slave raiding, indigenous hinterlands, and small-scale agricultural transformations in Swahili East Africa. _Current Anthropology._
 
 2024	      __Alders W.__ Clientage, debt, and the integrative orientation of non-elites on the East African Swahili Coast. _Journal of Anthropological Archaeology._ http://dx.doi.org/10.1016/j.jaa.2023.101553
