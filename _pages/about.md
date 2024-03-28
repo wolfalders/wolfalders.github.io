@@ -29,8 +29,6 @@ My research spans the last 2000 years of East African history, from the earliest
 
 I am committed to collaborative engagements with local communities and stakeholders, public outreach, and decolonial approaches to archaeological practice. In Zanzibar, this has meant practicing archaeology in the Swahili language, holding community meetings during and after field surveys, disseminating archaeological reports in Swahili to local communities, and training Tanzanian archaeologists. I have developing collaborations with the Department of Museums and Antiquities in Zanzibar, and the Department of Archaeology and Heritage Management at the University of Dar es Salaam.
 
-In my research, I have investigated urbanism, colonial contact, and adaptations to climate and environmental instability. All of my projects are united by an attention to the strategies of non-elite, rural, and small-scale communities, and how these groups shaped broader sociopolitical and environmental systems.
-
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_6585.JPG)
 Rural Swahili pillar tomb, 18th century.
 
@@ -53,7 +51,7 @@ Beyond the clove plantation zones in Unguja's eastern region, we surveyed in are
 Bananas and other crops planted in rocky, coralline limestone field plots in the eastern region of Unguja.
 
 ### Climate Change and Environmental Instability
-With colleagues at the University of Dar Es Salaam and the University of Sydney, I have received funding to investigate early coastal adaptations to climate change and environmental disasters on the Tanzanian mainland, at Pangani Bay. With fieldwork planned for 2024, our long-term goals are to investigate settlement shifts in response to climate oscillations in the southern hemisphere, and responses to acute environmental disasters like tsunamis and flooding events. We are modeling early Swahili adaptations to extreme environments in ways that might inform coastal resilience in Tanzania, a country which experiences the most destructive flooding of anywhere in East Africa.
+With colleagues at the University of Dar Es Salaam and the University of Sydney, I have received funding to investigate first millennium CE coastal adaptations to climate change and environmental disasters on the Tanzanian mainland, at Pangani Bay. With fieldwork planned for 2024, our long-term goals are to investigate settlement shifts in response to climate oscillations in the southern hemisphere, and responses to acute environmental disasters like tsunamis and flooding events. We are modeling early Swahili adaptations to extreme environments in ways that might inform coastal resilience in Tanzania, a country which experiences the most destructive flooding of anywhere in East Africa.
 
 ![beach near Dar Es Salaam](dar_port.jpg)
 
