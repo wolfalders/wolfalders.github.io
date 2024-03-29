@@ -24,6 +24,7 @@ In Press.          __Alders, W.__, Davis, D.; Haines, J. Archaeology in the four
 
 
 ### Reports
+Submitted	Haji, F.; Haji, K. S.; Ally, A.; __Alders, W.__; Othman, B.; Mussa, M.; Kasala, A.; Hamad, H. F.; Khamis, A. A. Archaeological investigations at Pungume, a small island off the coast of southern Unguja in Zanzibar, Tanzania. Submitted to _Nyame Akuma_.
 
 2020 		__Alders, W.__ Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. _Nyame Akuma_, vol. 94, 38-45.
 
