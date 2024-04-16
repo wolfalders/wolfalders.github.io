@@ -8,9 +8,14 @@ redirect_from:
 ---
 
 ### Conference Presentations
+
+2024 Alders, W. "Modeling Socioecological Transformation in Coastal East Africa: A Case Study from Unguja Island, Zanzibar, Tanzania." Society for American Archaeology Annual Meeting. In the session “Islands Around Africa: State of the Art and Future Directions." Chair: Krish Seetah.
+
+2024 Dumitru, I.; Alders, W. "Dynamic Coasts and Landscapes of Resilience: Archaeological and Environmental Hotspot Modeling on the Swahili Coast (Sixth–Nineteenth Century CE)." Society for American Archaeology Annual Meeting. In the session “Environmental Archaeology in Africa." Chair: Asia Alsgaard.
+
 2023 Alders, W. “Heterarchy, Anti-Colonial Infrastructures, and the Busaid State in 19th Century Zanzibar”. Society of Africanist Archaeologists Biennial Meeting. In 25 Years Beyond Chiefdoms: Susan McIntosh's Pathways to Complexity Influence on African Archaeology. Co-Chairs: Carla Klehm and Wolfgang Alders.
 
-2023 Alders, W., Haines, J. “Landscapes of Stone in Mauritius and Zanzibar.” Society for American Archaeology Annual Meeting. In the session “Adventures in Spatial Archaeometry: A Survey of Recent High-Resolution Survey and Measurement Application”. Session organizers: Sarah Watson and Elizabeth Clay.
+2023 Alders, W., Haines, J. “Landscapes of Stone in Mauritius and Zanzibar.” Society for American Archaeology Annual Meeting. In the session “Adventures in Spatial Archaeometry: A Survey of Recent High-Resolution Survey and Measurement Application”. Chairs: Sarah Watson and Elizabeth Clay.
 
 2021 Alders, W. “Long-Term Settlement in Plantation Regions of Unguja, Zanzibar.” Society for American Archaeology Annual Meeting. In the session, “Uses of Survey in Worldwide Contemporary Archaeology”. Session organizer: Wolfgang Alders, University of California, Berkeley.
 
