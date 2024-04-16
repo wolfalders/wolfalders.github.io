@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an anthropological archaeologist working on the East African Swahili Coast. I investigate the interactions of non-elites in the African past. I specifically explore how rural, small-scale communities shaped long-distance connectivity across the urban, stratified, mercantile polities of eastern Africa and the western Indian Ocean. Furthermore, I am committed to advancing international public understandings of the interconnectedness of African and Indian Ocean societies in world history.
+I am an anthropological archaeologist working on the East African Swahili Coast. My research explores non-elite, rural, small-scale impacts on long-distance connectivity across the urban, stratified, mercantile polities of eastern Africa and the western Indian Ocean. Furthermore, I am committed to advancing international public understandings of the interconnectedness of African and Indian Ocean societies in world history.
 
 Currently, I am a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
