@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an anthropological archaeologist. My research explores non-elite impacts on sociopolitical and environmental change in the past. I am currently running research projects in Tanzania, investigating urban-rural interactions across the stratified, mercantile polities of coastal eastern Africa and the Indian Ocean over the last two millennia. Furthermore, I am committed to advancing public understandings of the interconnectedness and complexity of African and Indian Ocean societies in world history.
+I am an anthropological archaeologist. My research explores non-elite impacts on sociopolitical and environmental change in the past. I am currently running research projects in Tanzania, investigating urban-rural interactions across coastal eastern Africa and the Indian Ocean over the last two millennia. Furthermore, I am committed to advancing public understandings of the interconnectedness and complexity of African and Indian Ocean societies in world history.
 
 I am a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
