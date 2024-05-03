@@ -11,7 +11,7 @@ redirect_from:
 In Review.         __Alders, W.__  The archaeology of rapidly urbanizing cities: satellite remote sensing, field survey, and urban-rural trajectories in Zanzibar, Tanzania. _Journal of Field Archaeology._
 
 In Review.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., 
-Vuai, A., Ali, A. Coastal slave raiding, indigenous hinterlands, and small-scale agricultural transformations in Swahili East Africa. _Current Anthropology._
+Vuai, A., Ali, A. Coastal Raiding, Mobile Agricultural Strategies, and Indigenous Hinterlands on the Eastern African Swahili Coast. _Current Anthropology._
 
 2024          __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._ https://doi.org/10.1007/s10816-024-09644-x
 
