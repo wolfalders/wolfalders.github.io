@@ -7,11 +7,13 @@ redirect_from:
   - /publications
 ---
 
-### Peer Reviewed Articles
+### Journal Articles
 In Review.         __Alders, W.__  The archaeology of rapidly urbanizing cities: satellite remote sensing, field survey, and urban-rural trajectories in Zanzibar, Tanzania. _Journal of Field Archaeology._
 
 In Review.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., 
 Vuai, A., Ali, A. Coastal Raiding, Mobile Agricultural Strategies, and Indigenous Hinterlands on the Eastern African Swahili Coast. _Current Anthropology._
+
+In Press	Haji, F.; Haji, K. S.; Ally, A.; __Alders, W.__; Othman, B.; Mussa, M.; Kasala, A.; Hamad, H. F.; Khamis, A. A. Archaeological investigations at Pungume, a small island off the coast of southern Unguja in Zanzibar, Tanzania. Submitted to _Nyame Akuma_.
 
 2024          __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._ https://doi.org/10.1007/s10816-024-09644-x
 
@@ -20,11 +22,6 @@ Vuai, A., Ali, A. Coastal Raiding, Mobile Agricultural Strategies, and Indigenou
 2023			 __Alders, W.__ Open-source archaeological predictive modeling using zonal statistics: a case study from Zanzibar, Tanzania. _Journal of Computer Applications in Archaeology._ https://doi.org/10.5334/jcaa.107
 
 2023    __Alders, W.__ The archaeology of social transformation in rural Zanzibar, Tanzania, eleventh to nineteenth centuries CE. _African Archaeological Review._ https://doi.org/10.1007/s10437-023-09523-y
-
-
-
-### Reports
-Submitted	Haji, F.; Haji, K. S.; Ally, A.; __Alders, W.__; Othman, B.; Mussa, M.; Kasala, A.; Hamad, H. F.; Khamis, A. A. Archaeological investigations at Pungume, a small island off the coast of southern Unguja in Zanzibar, Tanzania. Submitted to _Nyame Akuma_.
 
 2020 		__Alders, W.__ Preliminary results of a 2019 survey in inland Zanzibar, Tanzania. _Nyame Akuma_, vol. 94, 38-45.
 
