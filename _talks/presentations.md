@@ -24,6 +24,10 @@ redirect_from:
 2017 Alders, W., Khamis Ali, A. “Preliminary Results of Geoarchaeological Sampling and Survey to Investigate Landscape History in Northern Unguja, Zanzibar.” Society for American Archaeology Annual Meeting. In the panel, “Advances in Geoarchaeological Research Methods”. Session organizer: Michael Wilson, Simon Fraser University.
 
 ### Other Presentations
+2024	Early Globalization and Ancient Connectivity on the Eastern African Swahili Coast: A View from Pangani Bay in Northern Tanzania. Invited talk, Institute for the Study of the Ancient World, New York University.
+
+2024	“Zanzibar resembles a city with a hostile army encamped in its neighborhood”: Coastal Raiding and the Archaeology of Refuge on the Swahili Coast”. Invited talk, Cotsen Institute of Archaeology Advanced Seminar, Archaeologies of Forced Migration: Approaches, Case Studies and Prospects. Organized by Li Min and Aaron Burke, UCLA
+
 2023	  Integration and Autonomy in the Island Hinterland of Zanzibar Stone Town, 8th-19th centuries CE. The Cotsen Institute of Archaeology, UCLA
 
 2022		Exploring Swahili Urban Transformations. Anthropology Brown Bag, University of Arkansas, Fayetteville
