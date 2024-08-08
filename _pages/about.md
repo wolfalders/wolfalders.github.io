@@ -31,29 +31,3 @@ I am committed to collaborative engagements with local communities and stakehold
 
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_6585.JPG)
 Rural Swahili pillar tomb, 18th century.
-
-### Studying Swahili Urbanism in East Africa's Rapidly Urbanizing Modern Cities
-Currently, I am directing the Zanzibar Urban-Rural Complexity Project (ZURCP) in Zanzibar, Tanzania, to investigate rural and non-elite responses to urbanization from the 8th to 19th centuries CE in the hinterland of Zanzibar Stone Town, a precolonial Swahili stone town that grew into a wealthy urban mercantile entrepôt the 18th and 19th centuries. Off-shore islands on the Swahili Coast of East Africa like Zanzibar are ideal places for understanding these dynamics, since they were both A.) caught up in broader socioecological trends like the initial migration of early iron-working agriculturalists to the coast, Swahili urbanism, and colonialism, and B.) geographically and environmentally constrained as physical islands, making them uniquely suited for modeling social and environmental systems.
-
-One goal of this research is to pioneer geospatial techniques and survey methods for investigating the archaeology of rapidly urbanizing African cities. Archaeologists have long investigated urbanism at ruined precolonial sites like Shanga, Gedi, and Kilwa. However, some of the largest and most significant urban centers in coastal East Africa, like Lamu, Mombasa, and Zanzibar City, are underexplored because they lie within modern, rapidly urbanizing cities that make conventional survey methods difficult. Specific socioecological processes may have been at play to enable these cities to persist from the precolonial period to the present, and models of East African urbanism are skewed if these contexts are not taken into account. The future of the world is urban, and archaeologists will increasingly need to deal with survey and excavation in urbanizing places. Africa is urbanizing at the fastest rate of anywhere on the planet, so methodologies for investigating and conserving archaeological heritage in formerly rural places are urgently needed. Using high-resolution, low-cost satellite and UAV imagery, it is possible to plan surveys within the interstices of rapidly urbanizing environments in places like Zanzibar City for the first time.
-
-Surveys have clarified a model of island settlement by Swahili agriculturalists, demonstrating that coastal stream networks and specific soil zones shaped the eventual emergence of Stone Town as a central place. With ceramic data, I have started to theorize about the integrative and autonomous activities of rural commoners, and the ways that participation by these groups within patron-client systems conditioned the emergence of urbanism. I have also continued thinking about later rural responses to colonial contact. One branch of my work has been to consider how rural stone mortuary complexes might reflect Swahili investments into territoriality as colonial rulers sought to exploit limited agricultural land in favorable environmental zones.
-
-![rapidurbanizationsurveymodel](figure6.jpg)
-Systematic survey zones stratified around areas of rapid urbanization in Zanzibar City, Tanzania.
-
-### Colonial Contact, Plantation Systems, and Indigenous Persistence
-My dissertation research looked at the adaptations of rural Swahili communities that preceded and persisted through the establishment of plantation societies on Zanzibar by Omani settlers in the 18th and 19th centuries. Through systematic surveys, I demonstrated that precolonial Swahili communities founded villages in response to social demand for agricultural surplus. These village societies altered local landscapes in ways that structured the emergence of plantation systems centuries later. While urbanism in East Africa is often associated with trade networks, this project linked social stratification in Swahili towns to intensified agricultural production in rural areas that became plantations by the 19th century.
-
-Beyond the clove plantation zones in Unguja's eastern region, we surveyed in areas long considered to be barren and agriculturally marginal. Our field surveys revealed a longer and more continuous, if less intensive, history of occupation in these areas compared to the agriculturally fertile western regions. Interviews with farmers attest to agricultural landscape modifications that involve cutting and digging out coral limestone bedrock. These techniques have incrementally transformed marginal agricultural soils into places capable of sustaining communities for centuries, and the eastern regions may have served as places of refuge during the turbulent colonial period.
-
-![coral limestone field plot](DSC_0918.JPG)
-Bananas and other crops planted in rocky, coralline limestone field plots in the eastern region of Unguja.
-
-### Climate Change and Environmental Instability
-With colleagues at the University of Dar Es Salaam and the University of Sydney, I have received funding to investigate first millennium CE coastal adaptations to climate change and environmental disasters on the Tanzanian mainland, at Pangani Bay. With fieldwork planned for 2024, our long-term goals are to investigate settlement shifts in response to climate oscillations in the southern hemisphere, and responses to acute environmental disasters like tsunamis and flooding events. We are modeling early Swahili adaptations to extreme environments in ways that might inform coastal resilience in Tanzania, a country which experiences the most destructive flooding of anywhere in East Africa.
-
-![beach near Dar Es Salaam](dar_port.jpg)
-
-
-Wolfgang Alders, 2024
