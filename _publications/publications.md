@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Journal Articles
-In prep. Alders, W.; Lim, J.; Klehm, C. Baobab tree distributions are associated with ancient settlements on offshore islands in eastern Africa. (in prep for Journal of Archaeological Science).
+In Prep. Alders, W.; Lim, J.; Klehm, C. Baobab tree distributions are associated with ancient settlements on offshore islands in eastern Africa. (in prep for Journal of Archaeological Science).
 
 In Review.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., Vuai, A., Ali, A. Coastal Raiding, Mobile Agricultural Strategies, and Indigenous Hinterlands on the Eastern African Swahili Coast. _Current Anthropology._
 
