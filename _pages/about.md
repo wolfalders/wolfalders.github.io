@@ -22,12 +22,12 @@ What African archaeology demonstrates is that processes leading to environmental
 
 Africa has enormous global significance but it is vastly understudied, and therefore misunderstood. Investigating anthropological questions in Africa also means countering outdated assumptions about the region, like the notion that African societies were historically static, or dominated by environmental factors. These ideas could not be further from the truth, and archaeology is uniquely suited to reveal the dynamic societies of the African past, and help to address challenges of the African and global present.
 
-![Satellite image of Africa](africa.jpg)
+![Swahili tomb, Kunduchi, Tanzania](DSC_0095.jpg)
 
 ## Research Agenda 
 My research spans the last 2000 years of East African history, from the earliest migrations of pastoralists, foragers, and agriculturalists to the coast and offshore islands to the emergence of socially stratified, urban mercantile societies and the initiation of colonial rule. This long-term approach, tied together by a focus on non-elite, small-scale agency, bridges disciplinary siloes of prehistory-history or precolonial-colonial periodization which artificially limit our understandings of social processes. Methodologically, my engagement is with geospatial technologies for archaeology. I use GNSS mapping, UAVs, multispectral satellite imagery, historical maps, and spatial statistics to model environments and to help understand human settlement trends across large regions. In my work I seek to develop free and open-access methods for geospatial and archaeological research, enabling broader participation in archaeological science for places without the funding or licensing agreements to obtain cutting-edge geospatial hardware and software. In particular, I have translated GIS workflows from ArcGIS to QGIS and worked with freely available satellite imagery, like PlanetScope.
 
 I am committed to collaborative engagements with local communities and stakeholders, public outreach, and decolonial approaches to archaeological practice. In Zanzibar, this has meant practicing archaeology in the Swahili language, holding community meetings during and after field surveys, disseminating archaeological reports in Swahili to local communities, and training Tanzanian archaeologists. I have developing collaborations with the Department of Museums and Antiquities in Zanzibar, and the Department of Archaeology and Heritage Management at the University of Dar es Salaam.
 
-![Swahili pillar tomb, recorded during survey, 2023](DSC_6585.JPG)
-Rural Swahili pillar tomb, 18th century.
+![Swahili pillar tomb, recorded during survey, 2023](DSC_0156.JPG)
+Mangroves and the sea, Fuoni, Zanzibar
