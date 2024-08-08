@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Find my most current CV [here](https://wolfalders.github.io/files/WolfgangAlders_CV.docx)
+Find my most current CV [here](https://wolfalders.github.io/files/CV_WolfgangAlders.docx)
