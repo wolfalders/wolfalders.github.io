@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 ### Journal Articles
-In Review.         __Alders, W.__  The archaeology of rapidly urbanizing cities: satellite remote sensing, field survey, and urban-rural trajectories in Zanzibar, Tanzania. _Journal of Field Archaeology._
+In prep. Alders, W.; Lim, J.; Klehm, C. Baobab tree distributions are associated with ancient settlements on offshore islands in eastern Africa. (in prep for Journal of Archaeological Science).
 
-In Review.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., 
-Vuai, A., Ali, A. Coastal Raiding, Mobile Agricultural Strategies, and Indigenous Hinterlands on the Eastern African Swahili Coast. _Current Anthropology._
+In Review.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., Vuai, A., Ali, A. Coastal Raiding, Mobile Agricultural Strategies, and Indigenous Hinterlands on the Eastern African Swahili Coast. _Current Anthropology._
+
+In Press.         __Alders, W.__  The rural history of a rapidly urbanizing place: tracking long-term urban and rural settlement patterns with satellite remote sensing and archaeological field survey in Zanzibar, Tanzania. _Journal of Field Archaeology._
 
 In Press	Haji, F.; Haji, K. S.; Ally, A.; __Alders, W.__; Othman, B.; Mussa, M.; Kasala, A.; Hamad, H. F.; Khamis, A. A. Archaeological investigations at Pungume, a small island off the coast of southern Unguja in Zanzibar, Tanzania. Submitted to _Nyame Akuma_.
 
