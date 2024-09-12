@@ -8,15 +8,17 @@ redirect_from:
 ---
 
 ### Journal Articles
-In Prep. Alders, W.; Lim, J.; Klehm, C. Baobab tree distributions are associated with ancient settlements on offshore islands in eastern Africa. (in prep for Journal of Archaeological Science).
+In Prep.	    Dumitru, I.A., Kristiansen, S.M., Lupien R., Olsen, J., __Alders, W.__, Romanowska, I., Sindbæk, S.M., Raja, R. (in prep): Global climate event coincides with extreme drought and migrations in 6th – 7th centuries CE eastern Africa. (in prep for Science).
+
+In Prep.     __Alders, W.__; Lim, J.; Brunner, C. Baobab tree distributions are associated with ancient settlements on offshore islands in eastern Africa. (in prep for Journal of Archaeological Science).
 
 In Review.        	__Alders W.,__ Juma, K., Manzi, Z., Muhammed, H., Musa, H., Suleiman, H., Ubwa, A., Vuai, A., Ali, A. Coastal Raiding, Mobile Agricultural Strategies, and Indigenous Hinterlands on the Eastern African Swahili Coast. _Current Anthropology._
 
-In Press.         __Alders, W.__  The rural history of a rapidly urbanizing place: tracking long-term urban and rural settlement patterns with satellite remote sensing and archaeological field survey in Zanzibar, Tanzania. _Journal of Field Archaeology._
+In Press	    Haji, F.; Haji, K. S.; Ally, A.; __Alders, W.__; Othman, B.; Mussa, M.; Kasala, A.; Hamad, H. F.; Khamis, A. A. Archaeological investigations at Pungume, a small island off the coast of southern Unguja in Zanzibar, Tanzania. Submitted to _Nyame Akuma_.
 
-In Press	Haji, F.; Haji, K. S.; Ally, A.; __Alders, W.__; Othman, B.; Mussa, M.; Kasala, A.; Hamad, H. F.; Khamis, A. A. Archaeological investigations at Pungume, a small island off the coast of southern Unguja in Zanzibar, Tanzania. Submitted to _Nyame Akuma_.
+2024	      __Alders, W.__ Rural settlement dynamics in a rapidly urbanizing landscape: insights from satellite remote sensing and archaeological field surveys in Zanzibar, Tanzania. The Journal of Field  Archaeology. https://doi.org/10.1080/00934690.2024.2402962
 
-2024          __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._ https://doi.org/10.1007/s10816-024-09644-x
+2024          __Alders, W.__, Davis, D.; Haines, J. Archaeology in the fourth dimension: studying landscapes with multitemporal PlanetScope data. _Journal of Archaeological Method and Theory._ https://    doi.org/10.1007/s10816-024-09644-x
 
 2024	      __Alders W.__ Clientage, debt, and the integrative orientation of non-elites on the East African Swahili Coast. _Journal of Anthropological Archaeology._ http://dx.doi.org/10.1016/j.jaa.2023.101553
 
