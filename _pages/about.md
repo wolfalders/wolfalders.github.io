@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist investigating the emergence of interconnected urban societies in eastern Africa and across the Indian Ocean drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects, successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
+I am an archaeologist investigating the emergence of interconnected urban societies in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects, successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
 I am currently a Visiting Research Scholar at the Institute for the Study of the Ancient World at NYU. I was previously a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
