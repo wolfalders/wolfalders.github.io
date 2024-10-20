@@ -12,6 +12,8 @@ I am an archaeologist investigating the emergence of interconnected urban societ
 
 I am currently a Visiting Research Scholar at the Institute for the Study of the Ancient World at NYU. I was previously a National Science Foundation SBE postdoctoral fellow at the Center for Advanced Spatial Technologies (CAST) at the University of Arkansas, Fayetteville. I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, and the National Endowment for the Humanities.
 
+Currently, I am co-directing the CALOR project in Tanzania: https://www.calorarchaeology.com/
+
 ![Field team performing ceramic analysis](DSC_7859.JPG)
 Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities, summer 2023.
 
