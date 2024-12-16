@@ -28,7 +28,8 @@ In Press	Haji, F.; Haji, K. S.; Ally, A.; Alders, W.; Othman, B.; Mussa, M.; Kas
 2016 	Alders W. Archaeological survey and landscape history at Gede, Kenya. Nyame Akuma 85: 33-43.
 
 MANUSCRIPTS IN PROGRESS
-(in prep)	Dumitru, I.A., Kristiansen, S.M., Lupien R., Olsen, J., Alders, W., Romanowska, I., Sindbæk, S.M., Raja, R. (in prep): Global climate event coincides with extreme drought and migrations in 6th – 7th centuries CE eastern Africa. (in prep for Science).
+
+(in prep)	Dumitru, I.A., Kristiansen, S.M., Lupien R., Olsen, J., Alders, W., Romanowska, I., Sindbæk, S.M., Raja, R. Global climate event coincides with extreme drought and migrations in 6th – 7th centuries CE eastern Africa. (in prep for Science).
 
 (in prep)	Alders, W.; Lim, J.; Brunner, L. Testing associations between Baobab tree distributions and ancient settlements on offshore islands in eastern Africa. (in prep for Journal of Archaeological Science).
 
