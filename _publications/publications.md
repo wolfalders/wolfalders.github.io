@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ### Journal Articles
+In Review	Alders, W.; Lim, J.; Brunner, L. Detecting baobab trees (Adansonia digitata) in drone imagery and evaluating their anthropogenic legacy in eastern Africa. Submitted to Journal of Archaeological Science.
+
 In Press      	Alders W., Musa, H. M.; Vuai, A.; Ali, A.; Juma, K. O.; Ubwa, A. H.; Manzi, Z. M.; Muhammed, H.; Suleiman, H. Raiding, refuge, and mobility on the eastern African Swahili Coast. Current Anthropology.
 
 In Press	Haji, F.; Haji, K. S.; Ally, A.; Alders, W.; Othman, B.; Mussa, M.; Kasala, A.; Hamad, H. F.; Khamis, A. A. Archaeological investigations at Pungume, a small island off the coast of southern Unguja in Zanzibar, Tanzania. Nyame Akuma.
@@ -30,11 +32,6 @@ In Press	Haji, F.; Haji, K. S.; Ally, A.; Alders, W.; Othman, B.; Mussa, M.; Kas
 ### MANUSCRIPTS IN PROGRESS
 
 (in prep)	Dumitru, I.A., Kristiansen, S.M., Lupien R., Olsen, J., Alders, W., Romanowska, I., Sindbæk, S.M., Raja, R. Global climate event coincides with extreme drought and migrations in 6th – 7th centuries CE eastern Africa. (in prep for Science).
-
-(in prep)	Alders, W.; Lim, J.; Brunner, L. Testing associations between Baobab tree distributions and ancient settlements on offshore islands in eastern Africa. (in prep for Journal of Archaeological Science).
-
-(in prep)	Alders, W. An ecological model for eastern African coastal urbanism. (in prep for World Archaeology).
-
 
 ### Dissertation
 
