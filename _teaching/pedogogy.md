@@ -12,19 +12,27 @@ Broadening access to archaeology and higher education for students from diverse 
 ### Sample Courses
 Cities, Past and Present
 
-Agriculture and Society
+Society and the Environment
+
+Landscape Archaeology
 
 GIS and Remote Sensing in Archaeology
 
-African Archaeology and Cultural Heritage
-
-East Africa in the Indian Ocean
+African Archaeology
 
 The Archaeology of Slavery in Africa
+
+World Prehistory
+
+Archaeological Method and Theory
+
 
 ### Teaching and Mentoring Experience
 
 ### Instructor of Record
+Department of Anthropology, New York University
+Undergraduate Course: Anth-UA 213, Topics in Archaeology, “Landscape Archaeology” (Fall 2024)
+
 Department of Anthropology, University of California, Berkeley.  
 Undergraduate Course: R5B Freshman Writing Seminar, “Politics of African Archaeology and Heritage” (Spring 2022)
 
@@ -39,7 +47,7 @@ Department of Near Eastern Studies, University of California, Berkeley.
 Undergraduate Courses: MES 15: Intro to Middle Eastern Art and Archaeology (Spring 2016, Spring 2017, Spring 2018).
 
 ### Mentorship and Undergraduate Training
-Trained students from the US and from the State University of Zanzibar in archaeological field methods, remote sensing, and ceramic analysis (Summer 2019, Summer 2023).
+Trained students from the US and from the State University of Zanzibar in archaeological field methods, remote sensing, and ceramic analysis (Summer 2019, Summer 2023, Summer 2024).
 
 Supervised undergraduates in managing field data. PI: Lisa Maher (Fall 2020)
 
