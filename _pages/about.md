@@ -13,7 +13,7 @@ I am an archaeologist investigating the emergence and long-term impacts of human
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Universitas 21, and the National Endowment for the Humanities. I am also an incoming Marie Curie postdoctoral fellow at Cambridge University.
 
 ## Projects
-- I am currently a visiting research scholar at the Institute for the Study of the Ancient World, where I am using remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
+- I am currently a visiting research scholar at the Institute for the Study of the Ancient World at New York University, where I am using remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
 
 - I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast.
 
