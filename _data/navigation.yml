@@ -1,16 +1,4 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Presentations"
-    url: /talks/    
-
-  - title: "Teaching and Mentorship"
-    url: /teaching/    
-    
-  - title: "Outreach and Community Engagement"
-    url: /portfolio/
-        
   - title: "CV"
     url: /cv/
