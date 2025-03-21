@@ -13,13 +13,13 @@ I am an archaeologist investigating the emergence and long-term impacts of human
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Universitas 21, and the National Endowment for the Humanities. I am also an incoming Marie Curie postdoctoral fellow at Cambridge University.
 
 ## Projects
-- I am currently a visiting research scholar at the Institute for the Study of the Ancient World, where I am using remote sensing and geospatial modeling to think about the resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
+- I am currently a visiting research scholar at the Institute for the Study of the Ancient World, where I am using remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
 
 - I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast.
 
 - As a National Science Foundation Fellow at the Center for Advanced Spatial Technologies at the University of Arkansas, I directed the Zanzibar Urban-Rural Complexity Project (ZURCP) from 2022-2024. This project investigated urban emergence and change around Zanzibar Stone Town, one of the largest and longest-lasting urban centers on the Swahili Coast. We successfully leveraged satellite and drone imagery to model areas where archaeological surveys could detect archaeological sites within the interstices of the rapidly urbanizing modern city.
 
-- For my PhD thesis at UC Berkeley, I explored Swahili adaptations to the creation of colonial plantation systems in northern Zanzibar, using field surveys and satellite remote sensing to assess settlement reorganization and land-use change.
+- For my PhD thesis at UC Berkeley, I explored rural Swahili adaptations to elite emergence and colonialism in northern Zanzibar, using field surveys and satellite remote sensing to assess settlement reorganization and land-use change.
 
 ![Field team performing ceramic analysis](DSC_7859.JPG)
 Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities, summer 2023.
