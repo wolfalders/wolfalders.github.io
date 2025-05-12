@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist investigating the emergence and long-term impacts of human settlement in tropical, coastal, and island environments. I specifically focus on the interconnected urban societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects and successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
+I am an archaeologist investigating the emergence, trajectories, and long-term impacts of urbanism in tropical environments. I specifically focus on the interconnected urban societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects and successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Universitas 21, and the National Endowment for the Humanities. I am also an incoming Marie Curie postdoctoral fellow at Cambridge University.
 
