@@ -10,7 +10,7 @@ redirect_from:
 
 I am an archaeologist investigating the emergence, trajectories, and long-term impacts of urbanism in tropical environments. I specifically focus on the interconnected urban societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects and successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
-Additionally, I have written about:
+I write about:
 * [social transformation](https://link.springer.com/article/10.1007/s10437-023-09523-y)
 * [archaeological predictive modeling](https://journal.caa-international.org/articles/10.5334/jcaa.107)
 * [non-elite political strategies](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
