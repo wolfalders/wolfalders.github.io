@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist investigating the emergence, trajectories, and long-term impacts of urbanism in tropical environments. I specifically focus on the interconnected societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects and successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
+I am a geospatial archaeologist investigating urban settlement trajectories in tropical environments. I specifically focus on the interconnected societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
 I write about:
 * [social transformation](https://link.springer.com/article/10.1007/s10437-023-09523-y)
@@ -21,7 +21,7 @@ I write about:
 * Forced displacement and migration on the Swahili Coast from a long-term perspective (in review!)
 * Long-term urban trajectories in eastern Africa (in review!)
 
-I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Universitas 21, the American Philosophical Society, and the National Endowment for the Humanities. 
+I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities. 
 
 ## Projects
 - I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), creates models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE, and develops predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks.
@@ -58,5 +58,6 @@ I am committed to collaborative engagements with local communities and stakehold
 
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_0156.JPG)
 Mangroves and the sea, Fuoni, Zanzibar
+
 
 
