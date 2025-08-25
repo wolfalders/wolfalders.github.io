@@ -24,7 +24,7 @@ I write about:
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Universitas 21, the American Philosophical Society, and the National Endowment for the Humanities. 
 
 ## Projects
-- I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), creates models for exchange between urban groups and pastoral nomads on the Kenya coast, and develops predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks.
+- I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), creates models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE, and develops predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks.
 
 - I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast.
 
@@ -58,4 +58,5 @@ I am committed to collaborative engagements with local communities and stakehold
 
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_0156.JPG)
 Mangroves and the sea, Fuoni, Zanzibar
+
 
