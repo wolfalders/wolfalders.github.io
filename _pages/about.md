@@ -8,23 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist investigating the emergence, trajectories, and long-term impacts of urbanism in tropical environments. I specifically focus on the interconnected urban societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects and successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
+I am an archaeologist investigating the emergence, trajectories, and long-term impacts of urbanism in tropical environments. I specifically focus on the interconnected societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects and successfully integrating traditional survey and excavation techniques with advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
 I write about:
 * [social transformation](https://link.springer.com/article/10.1007/s10437-023-09523-y)
 * [archaeological predictive modeling](https://journal.caa-international.org/articles/10.5334/jcaa.107)
 * [non-elite political strategies](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
-* [studying archaeological landscapes with Planet satellites](https://link.springer.com/article/10.1007/s10816-024-09644-x)
-* [doing archaeology in rapidly urbanizing environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
-* [the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
-* Raiding, refuge, and mobility in the Swahili world (in press)
+* [studying archaeological landscapes with satellite imagery](https://link.springer.com/article/10.1007/s10816-024-09644-x)
+* [developing methods for doing archaeology in rapidly urbanizing environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
+* [drone imagery and the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
+* Raiding, refuge, and mobility in the Swahili world (in press!)
+* Forced displacement and migration on the Swahili Coast from a long-term perspective (in review!)
+* Long-term urban trajectories in eastern Africa (in review!)
 
-I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Universitas 21, and the National Endowment for the Humanities. I am also an incoming Marie Curie postdoctoral fellow at Cambridge University.
+I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Universitas 21, the American Philosophical Society, and the National Endowment for the Humanities. 
 
 ## Projects
-- I am currently a visiting research scholar at the Institute for the Study of the Ancient World at New York University, where I am using remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
+- I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), creates models for exchange between urban groups and pastoral nomads on the Kenya coast, and develops predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks.
 
 - I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast.
+
+- I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
 
 - As a National Science Foundation Fellow at the Center for Advanced Spatial Technologies at the University of Arkansas, I directed the Zanzibar Urban-Rural Complexity Project (ZURCP) from 2022-2024. This project investigated urban emergence and change around Zanzibar Stone Town, one of the largest and longest-lasting urban centers on the Swahili Coast. We successfully leveraged satellite and drone imagery to model areas where archaeological surveys could detect archaeological sites within the interstices of the rapidly urbanizing modern city.
 
@@ -54,3 +58,4 @@ I am committed to collaborative engagements with local communities and stakehold
 
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_0156.JPG)
 Mangroves and the sea, Fuoni, Zanzibar
+
