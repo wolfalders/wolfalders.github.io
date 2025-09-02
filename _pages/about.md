@@ -24,7 +24,7 @@ I write about:
 * Forced displacement, disaster, and migration on the Swahili Coast from a long-term perspective (in review!)
 * Long-term urban trajectories in the eastern African tropics (in review!)
 
-I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities. 
+I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities. 
 
 ## Projects
 - I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), studies the intersection of climate, biogeography, and models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE. I will develop predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks, and theorize about the environmental conditions and anthropogenic legacies of urbanization in eastern Africa.
@@ -61,6 +61,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, Fuoni, Zanzibar
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
