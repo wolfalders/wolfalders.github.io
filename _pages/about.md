@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a geospatial archaeologist investigating urban settlement trajectories in tropical environments, with implications for understanding ancient urban evolution as well as sustainability in the modern cities of the rapidly urbanizing tropics, especially in Africa.
+I am a geospatial archaeologist investigating urban settlement trajectories in tropical environments, with implications for understanding ancient urban resilience as well as sustainability in the modern cities of the rapidly urbanizing tropics, especially in Africa.
 
 Archaeologically, I focus on the interconnected societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
@@ -60,6 +60,7 @@ I am committed to collaborative engagements with local communities and stakehold
 
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_0156.JPG)
 Mangroves and the sea, Fuoni, Zanzibar
+
 
 
 
