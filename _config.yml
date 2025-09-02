@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wolfgang Alders"
-  avatar           : "profilepicture.jpg"
+  avatar           : "newprofilepicture.jpg.jpeg"
   bio              : "PhD, Anthropology, UC Berkeley, 2022"
   location         : 
   employer         :
@@ -309,4 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
