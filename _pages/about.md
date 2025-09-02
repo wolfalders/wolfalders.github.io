@@ -38,7 +38,7 @@ I earned my PhD from the Department of Anthropology at the University of Califor
 - For my PhD thesis at UC Berkeley, I explored rural Swahili adaptations to elite emergence and colonialism in northern Zanzibar, using field surveys and satellite remote sensing to assess settlement reorganization and land-use change across diverse environments.
 
 ![Field team performing ceramic analysis](DSC_7859.JPG)
-Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities, summer 2023.
+Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities. Zanzibar, summer 2023.
 
 ## Why Africa?
 Why practice archaeology in Africa? As an archaeologist, I am motivated by big questions: What processes led humans to start intensifying food production? Why did people start living in large, specialized urban societies? Finally, how did people in the past exchange goods and ideas over vast distances, creating early globalized societies, and what types of environmental and climatic conditions impacted these changes? These complex activities are recent and emergent human experiments, the long-term outcomes of which are yet unclear. Likely, they will have drastic implications for the course of our species and planet, so it is vital to understand their timing, nature, and impacts for the present and future.
@@ -58,9 +58,10 @@ Methodologically, my engagement is with geospatial technologies for archaeology.
 I am committed to decolonial approaches to archaeological practice. This means collaborative research engagements with African academic institutions and local communities and stakeholders. For my PhD and subsequent postdoctoral work in Zanzibar, this meant practicing archaeology in the Swahili language, holding community meetings that shaped research design, disseminating archaeological reports in Swahili to local communities, and training Tanzanian archaeologists in partnership with the Zanzibar Department of Museums and Antiquities, with which I maintain strong connections. With my new project in Pangani, our CALOR team has ongoing collaborations with the Department of Archaeology and Heritage Management at the University of Dar es Salaam, where our [Tanzanian-American-Australian research team](https://www.calorarchaeology.com/team-1) is committed to building local research capacity and providing training for Tanzanian undergraduate and graduate level stuudents. We are also in the process of developing new community outreach programs and collaborations with local residents, officials, and other stakeholders in the Pangani region where the work is proceeding.
 
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_0156.JPG)
-Mangroves and the sea, Fuoni, Zanzibar
+Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
