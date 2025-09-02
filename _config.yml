@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wolfgang Alders"
   avatar           : "profilepicture.jpg"
-  bio              : "Visiting Research Scholar at New York University. PhD, Anthropology, UC Berkeley, 2022"
-  location         : "New York City, NY"
+  bio              : "PhD, Anthropology, UC Berkeley, 2022"
+  location         : 
   employer         :
   academia         : "https://uark.academia.edu/WolfgangAlders"
   googlescholar    : "https://scholar.google.com/citations?user=8OFVcwYAAAAJ"
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
