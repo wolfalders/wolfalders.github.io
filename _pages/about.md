@@ -8,27 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a geospatial archaeologist investigating urban settlement trajectories in tropical environments, with implications for understanding ancient urban resilience as well as sustainability in the modern cities of the rapidly urbanizing tropics, especially in Africa.
+I am a geospatial archaeologist investigating settlement trajectories in coastal and tropical environments, to understand urban resilience in the past and address Anthropocene challenges in the present. I focus on the emergence of the interconnected societies of the Swahili Coast in eastern Africa and across the Indian Ocean. My research has implications for sustainability and climate adaptation in modern tropical cities, especially in Africa where rapid urbanization will define the challenges and potentials of the 21st century.
 
-Archaeologically, I focus on the interconnected societies of the Swahili Coast in eastern Africa and across the Indian Ocean, drawing on perspectives in historical ecology and landscape archaeology. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
+I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
 I write about:
-* [social transformation](https://link.springer.com/article/10.1007/s10437-023-09523-y)
-* [archaeological predictive modeling](https://journal.caa-international.org/articles/10.5334/jcaa.107)
-* [non-elite political strategies](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
-* [studying archaeological landscapes with satellite imagery](https://link.springer.com/article/10.1007/s10816-024-09644-x)
-* [developing methods for doing archaeology in rapidly urbanizing environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
-* [drone imagery and the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
+* [social transformation and environmental diversification](https://link.springer.com/article/10.1007/s10437-023-09523-y)
+* [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
+* [material culture and non-elite political strategies](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
+* [studying archaeological landscape palimpsests with satellite imagery](https://link.springer.com/article/10.1007/s10816-024-09644-x)
+* [doing archaeology in rapidly urbanizing environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
+* [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
 * Raiding, refuge, and mobility in the Swahili world (in press!)
-* Forced displacement and migration on the Swahili Coast from a long-term perspective (in review!)
-* Long-term urban trajectories in eastern Africa (in review!)
+* Forced displacement, disaster, and migration on the Swahili Coast from a long-term perspective (in review!)
+* Long-term urban trajectories in the eastern African tropics (in review!)
 
 I received my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities. 
 
 ## Projects
-- I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), creates models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE, and develops predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks.
+- I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), studies the intersection of climate, biogeography, and models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE. I will develop predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks, and theorize about the environmental conditions and anthropogenic legacies of urbanization in eastern Africa.
 
-- I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast.
+- I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney). For my part, I am exploring conditions related to
 
 - I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
 
@@ -50,7 +50,7 @@ Africa has enormous global significance but it is understudied, and therefore mi
 Swahili tomb, Kunduchi, Tanzania.
 
 ## Research Agenda 
-My research spans the last 2000 years of East African history, from the earliest migrations of pastoralists, foragers, and agriculturalists to the eastern African coast to the emergence of socially stratified, urban mercantile societies and local responses to colonial rule. I investigate the factors that shaped sedentism, urbanism, and the formation of hierarchical and heterarchical social arrangements in Swahili towns and cities, and use regional-scale environmental data to theorize the anthropogenic impacts of these activities. This research highlights the agency of small-scale, non-elite, and rural societies in shaping transformations at the scale of landscapes, regions, and global socioecological systems.
+I research the emergence of socially stratified, urban mercantile societies in eastern Africa. I research the factors that shaped sedentism, urbanism, and the formation of hierarchical and heterarchical social arrangements in Swahili towns and cities, and use regional-scale environmental data to theorize the anthropogenic impacts of these activities. This research highlights the agency of small-scale, non-elite, and rural societies in shaping transformations at the scale of landscapes, regions, and global socioecological systems.
 
 This long-term approach bridges disciplinary siloes of prehistory-history or precolonial-colonial periodization which artificially limit our understandings of social processes. Furthermore, I draw on the insights of archaeological data in the longue durée to inform contemporary approaches to Anthropocene challenges like climate change.
 
@@ -60,9 +60,4 @@ I am committed to collaborative engagements with local communities and stakehold
 
 ![Swahili pillar tomb, recorded during survey, 2023](DSC_0156.JPG)
 Mangroves and the sea, Fuoni, Zanzibar
-
-
-
-
-
 
