@@ -29,7 +29,7 @@ I earned my PhD from the Department of Anthropology at the University of Califor
 ## Projects
 - I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), studies the intersection of climate, biogeography, and models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE. I will develop predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks, and theorize about the environmental conditions and anthropogenic legacies of urbanization in eastern Africa.
 
-- I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney). For my part, I am exploring conditions related to
+- I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
 
 - I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
 
@@ -61,6 +61,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
