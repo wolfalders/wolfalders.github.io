@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wolfgang Alders"
   avatar           : "newprofile.jpeg"
-  bio              : "PhD, Anthropology, UC Berkeley, 2022"
+  bio              : "PhD, Anthropology, UC Berkeley"
   location         : 
   employer         :
   academia         : "https://uark.academia.edu/WolfgangAlders"
@@ -309,6 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
