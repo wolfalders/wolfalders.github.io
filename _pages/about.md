@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an archaeologist investigating long-term societal responses to climatic, environmental, and sociopolitical change, in the context of emerging urbanism and early globalization in tropical eastern Africa.
 
-I focus on the emergence of interconnected urban societies on the Swahili Coast in eastern Africa and the broader Indian Ocean world over the last 2000 years. My research has implications for sustainability, climate adaptation, and natural disaster mitigation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century.
+I focus on the interconnected societies on the Swahili Coast in eastern Africa and the broader Indian Ocean world over the last 2000 years. My research has implications for sustainability, climate adaptation, and natural disaster mitigation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century.
 
 I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
@@ -20,16 +20,17 @@ I write about:
 * [studying coastal eastern African archaeological landscape palimpsests with satellite imagery](https://link.springer.com/article/10.1007/s10816-024-09644-x)
 * [archaeology and remote sensing in rapidly urbanizing tropical environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
 * [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
-* Raiding, refuge, and mobility in the Swahili world (in press!)
+* Raiding, refuge, and mobility in the Swahili world (accepted, in press!)
 * Forced displacement, disaster, and migration on the Swahili Coast from a long-term perspective (in review!)
 * Long-term urban trajectories in the eastern African tropics (in review!)
+* The effect of climate variation on early migrations to the eastern African coast (in review, co-author)
 
 I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities. 
 
 ## Projects
-- I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), studies the intersection of climate, biogeography, and models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE. I will develop predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks, and theorize about the environmental conditions and anthropogenic legacies of urbanization in eastern Africa.
+- I am an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (2026-2028). My project, Simulating African Agro-Pastoral Routes and Interactions (SAFARI), studies the intersection of climate, biogeography, and models for exchange between urbanites and agro-pastoral groups on the Kenya coast from 500-1500 CE. I will develop predictive models for site detection and field surveys to identify material culture exchanges between mobile societies and Indian Ocean trading networks, and theorize about the environmental conditions and anthropogenic legacies of pastoralism and urbanization in eastern Africa.
 
-- I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster on the eastern African Swahili Coast. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
+- I am co-directing the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disaster at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
 
 - I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
 
@@ -61,6 +62,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
