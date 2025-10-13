@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an archaeologist investigatin  societal responses to climatic, environmental, and political change, in the contexts of emerging urbanism, social inequality, and early globalization in tropical eastern Africa.
+I am an archaeologist investigating  societal responses to climatic, environmental, and political change, in the contexts of emerging urbanism, social inequality, and early globalization in tropical eastern Africa.
 
 I focus on the interconnected societies on the Swahili Coast and the broader Indian Ocean world over the last 2000 years. My research has implications for sustainability, climate adaptation, and natural disaster mitigation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century.
 
@@ -62,6 +62,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
