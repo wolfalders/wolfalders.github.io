@@ -13,6 +13,8 @@ I focus on the interconnected societies on the Swahili Coast and the broader Ind
 
 I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
+Currently, I am a [lecturer](https://ioa.ucla.edu/people/wolfgang-alders) teaching GIS for archaeology and cultural resource management at the UCLA Cotsen Institute of Archaeology.
+
 I write about:
 * [social transformation and environmental diversification](https://link.springer.com/article/10.1007/s10437-023-09523-y)
 * [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
@@ -62,6 +64,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
