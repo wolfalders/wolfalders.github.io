@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an archaeologist investigating  societal responses to climatic, environmental, and political change, in the contexts of emerging urbanism, social inequality, and early globalization in tropical eastern Africa.
+I am an archaeologist investigating societal responses to climatic, environmental, and political change, in the contexts of emerging urbanism, social inequality, and early globalization in tropical eastern Africa.
 
-I focus on the interconnected societies on the Swahili Coast and the broader Indian Ocean world over the last 2000 years. My research has implications for sustainability, climate adaptation, and natural disaster mitigation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century.
+I focus on the interconnected landscapes, polities, and interaction spheres of the eastern African Swahili Coast, within broader Indian Ocean world over the last 2000 years. My research has implications for sustainability, climate adaptation, and natural disaster mitigation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century.
 
 I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
