@@ -34,7 +34,7 @@ I earned my PhD from the Department of Anthropology at the University of Califor
 ![PanganiCeramics](PanganiServingBowl.jpeg)
 Medieval serving bowl from an archaeological site on the Pangani River, Tanzania.
 
-![ZanzibarCeramics](19thc_ceramics1.jpg) 
+![ZanzibarCeramics](ceramics1.jpg) 
 Imported ceramics from Zanzibar, 19th to early 20th centuries CE.
 
 ## Projects
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
