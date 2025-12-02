@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an archaeologist researching the historical archaeology and deep history of eastern Africa and the Indian Ocean from the medieval period to the 19th century. I use geospatial and archaeological methods to trace the impacts of globalization, statecraft, and colonialism on landscapes, economies, and societies. My research also addresses how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. While my fieldwork is primarily based on the Swahili Coast of Kenya and Tanzania, my projects aim at comparative understandings of the early modern world in global perspective.
+I am an archaeologist researching the historical archaeology and deep history of eastern Africa and the Indian Ocean from the medieval period to the 19th century. I use geospatial and archaeological methods to trace the impacts of globalization, statecraft, and colonialism on landscapes, environments, and societies. My research also addresses how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. While my fieldwork is primarily based on the Swahili Coast of Kenya and Tanzania, my projects aim at comparative understandings of the early modern world in global perspective.
 
 My research has implications for sustainability and heritage conservation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
@@ -64,6 +64,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
