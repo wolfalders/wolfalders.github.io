@@ -34,8 +34,8 @@ I earned my PhD from the Department of Anthropology at the University of Califor
 ![PanganiCeramics](PanganiServingBowl.jpeg)
 Medieval serving bowl from an archaeological site on the Pangani River, Tanzania.
 
-![ZanzibarCeramics](ceramics1.jpg) 
-Imported ceramics from Zanzibar, 19th to early 20th centuries CE.
+![ZanzibarCeramics](zanzibarceramics.jpeg) 
+Imported ceramics in Zanzibar. 19th to early 20th centuries CE.
 
 ## Projects
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
