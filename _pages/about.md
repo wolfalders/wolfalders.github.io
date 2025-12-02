@@ -15,6 +15,9 @@ My research draws on perspectives in historical ecology, landscape archaeology, 
 
 Currently, I am a [lecturer](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology. I am also an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (commencing January 2026).
 
+![PanganiCeramics](PanganiServingBowl.jpeg)
+Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
+
 I write about:
 * [social transformation and environmental diversification](https://link.springer.com/article/10.1007/s10437-023-09523-y)
 * [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
@@ -31,11 +34,8 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 
 I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities.
 
-![PanganiCeramics](PanganiServingBowl.jpeg)
-Medieval serving bowl from an archaeological site on the Pangani River, Tanzania.
-
 ![ZanzibarCeramics](zanzibarceramics.jpeg) 
-Imported ceramics in Zanzibar. 19th to early 20th centuries CE.
+Imported ceramics from a rural plantation site Zanzibar Stone Town. 19th to early 20th centuries CE.
 
 ## Projects
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
