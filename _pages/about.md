@@ -32,13 +32,13 @@ I earned my PhD from the Department of Anthropology at the University of Califor
 ## Projects
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
 
-- I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast, a key caravan node. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
+- I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast, a key caravan node, from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
 
 - I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the exchange between eastern Africa and the Indian Ocean economic system of late antiquity and the medieval period.
 
 - As a National Science Foundation Fellow at the Center for Advanced Spatial Technologies at the University of Arkansas, I directed the Zanzibar Urban-Rural Complexity Project (ZURCP) from 2022-2024. This project investigated urban emergence, change, and colonial transformations around Zanzibar Stone Town, one of the largest and longest-lasting urban centers on the Swahili Coast. We successfully leveraged satellite and drone imagery to model areas where archaeological surveys could detect archaeological sites within the interstices of the rapidly urbanizing modern city.
 
-- For my PhD thesis at UC Berkeley, I explored rural Swahili adaptations to elite emergence and colonialism in northern Zanzibar, using field surveys and satellite remote sensing to assess settlement reorganization and land-use change across diverse environments.
+- For my PhD work at UC Berkeley, I demonstrated the deep history of Indigenous adaptations to marginal environments in Zanzibar that enabled participation in Indian Ocean exchange systems, overturning colonial narratives about the pristine wilderness of areas that later became plantations.
 
 ![Field team performing ceramic analysis](DSC_7859.JPG)
 Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities. Zanzibar, summer 2023.
@@ -64,6 +64,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
