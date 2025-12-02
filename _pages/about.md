@@ -20,8 +20,8 @@ I write about:
 * [studying coastal eastern African archaeological landscape palimpsests with satellite imagery](https://link.springer.com/article/10.1007/s10816-024-09644-x)
 * [archaeology and remote sensing in rapidly urbanizing tropical environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
 * [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
-* Persistence on a perilous coast: Swahili responses to raiding, instability, and colonial violence in eastern Africa (accepted, in press!)
-* Long-term urban trajectories in the eastern African tropics (accepted, in press!)
+* Persistence on a perilous coast: Swahili responses to raiding, instability, and colonial violence in eastern Africa (accepted in _Current Anthropology_, in press!)
+* Long-term urban trajectories in the eastern African tropics (accepted in the _Journal of Archaeological Research_, in press!)
 * Forced displacement, disaster, and migration on the Swahili Coast (in review!)
 * The effect of climate variation on early migrations to the eastern African coast (in review, co-author)
 
@@ -64,6 +64,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
