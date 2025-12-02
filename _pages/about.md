@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an archaeologist researching the historical archaeology and deep history of eastern Africa and the Indian Ocean from the medieval period to the 19th century. I use geospatial and archaeological methods to trace the impacts of globalization, statecraft, and colonialism on landscapes, environments, and societies. My research also addresses how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. While my fieldwork is primarily based on the Swahili Coast of Kenya and Tanzania, my projects aim at comparative understandings of the early modern world in global perspective.
+I am an archaeologist researching the historical archaeology and deep history of eastern Africa and the Indian Ocean from the medieval period to the 19th century.
 
-My research has implications for sustainability and heritage conservation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
+My work traces the impacts of globalization, statecraft, and colonialism on landscapes, environments, and societies. I also address how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. While my fieldwork is primarily based on the Swahili Coast of Kenya and Tanzania, my projects aim at comparative understandings of the early modern world in global perspective.
+
+My research draws on perspectives in historical ecology, landscape archaeology, and geospatial science. It has implications for sustainability and heritage conservation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
 
 Currently, I am a [lecturer](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology. I am also an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (commencing January 2026).
 
@@ -28,6 +30,9 @@ I write about:
 Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996).
 
 I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities.
+
+
+Medieval serving bowl, from archaeological site on the Pangani River in Tanzania.
 
 ## Projects
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
@@ -59,6 +64,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
