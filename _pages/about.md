@@ -31,7 +31,7 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 
 I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities.
 
-![Medieval serving bowl from an archaeological site on the Pangani River, Tanzania](PanganiServingBowl.jpeg) ![19th century ceramics from Zanzibar](19thc_ceramics1.jpg) 
+![PanganiCeramics](PanganiServingBowl.jpeg) ![ZanzibarCeramics](19thc_ceramics1.jpg) 
 
 Left, medieval serving bowl from an archaeological site on the Pangani River, Tanzania. Right, imported ceramics from Zanzibar, 19th to early 20th centuries CE.
 
@@ -65,6 +65,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
