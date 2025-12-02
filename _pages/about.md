@@ -11,12 +11,10 @@ I am an archaeologist researching the historical archaeology and deep history of
 
 My work traces the impacts of globalization, statecraft, and colonialism on landscapes, environments, and societies. I also address how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. While my fieldwork is primarily based on the Swahili Coast of Kenya and Tanzania, my projects aim at comparative understandings of the early modern world in global perspective.
 
+Currently, I am a [lecturer](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology. I am also an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (commencing January 2026). I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities.
+
 ![PanganiCeramics](PanganiServingBowl.jpeg)
 Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
-
-My research draws on perspectives in historical ecology, landscape archaeology, and geospatial science. It has implications for sustainability and heritage conservation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
-
-Currently, I am a [lecturer](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology. I am also an incoming Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (commencing January 2026).
 
 I write about:
 * [social transformation and environmental diversification](https://link.springer.com/article/10.1007/s10437-023-09523-y)
@@ -31,8 +29,6 @@ I write about:
 * The effect of climate variation on early migrations to the eastern African coast (in review, co-author)
 
 Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996).
-
-I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities.
 
 ![ZanzibarCeramics](zanzibarceramics.jpeg) 
 Imported ceramics from a rural plantation site Zanzibar Stone Town. 19th to early 20th centuries CE.
@@ -61,12 +57,15 @@ Africa has enormous global significance but it is understudied, and therefore mi
 ![Swahili tomb, Kunduchi, Tanzania](DSC_0095.JPG)
 Swahili tomb, Kunduchi, Tanzania. The circular divots used to hold Chinese porcelain bowls, which have since been removed.
 
+My research draws on perspectives in historical ecology, landscape archaeology, and geospatial science. It has implications for sustainability and heritage conservation in modern tropical cities, especially in Africa where rapid urbanization will be a major factor in the sociopolitical and environmental transformations of the 21st century. I have extensive experience organizing and directing archaeological research projects. I integrate traditional survey and excavation techniques with computational and digital methods, advanced geospatial technologies, community-based research design, and training and mentoring for early career scholars from underrepresented and underserved backgrounds.
+
 I am committed to decolonial approaches to archaeological practice. This means collaborative research engagements with African academic institutions and local communities and stakeholders. For my PhD and subsequent postdoctoral work in Zanzibar, this meant practicing archaeology in the Swahili language, holding community meetings that shaped research design, disseminating archaeological reports in Swahili to local communities, and training Tanzanian archaeologists in partnership with the Zanzibar Department of Museums and Antiquities, with which I maintain strong connections. With my new project in Pangani, our CALOR team has ongoing collaborations with the Department of Archaeology and Heritage Management at the University of Dar es Salaam, where our [Tanzanian-American-Australian research team](https://www.calorarchaeology.com/team-1) is committed to building local research capacity and providing training for Tanzanian undergraduate and graduate level stuudents. We are also in the process of developing new community outreach programs and collaborations with local residents, officials, and other stakeholders in the Pangani region where the work is proceeding.
 
 ![mangroves3](DSC_0156.JPG)
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
