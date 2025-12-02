@@ -31,8 +31,9 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 
 I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities.
 
-![Medieval serving bowl from an archaeological site on the Pangani River, Tanzania](PanganiServingBowl.jpeg)
-Medieval serving bowl from an archaeological site on the Pangani River, Tanzania. Summer, 2024.
+![Medieval serving bowl from an archaeological site on the Pangani River, Tanzania](PanganiServingBowl.jpeg) ![19th century ceramics from Zanzibar](19thc_ceramics1.jpg) 
+
+Left, medieval serving bowl from an archaeological site on the Pangani River, Tanzania. Right, imported ceramics from Zanzibar, 19th to early 20th centuries CE.
 
 ## Projects
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
@@ -46,7 +47,7 @@ Medieval serving bowl from an archaeological site on the Pangani River, Tanzania
 - For my PhD work at UC Berkeley, I demonstrated the deep history of Indigenous adaptations to marginal environments in Zanzibar that enabled participation in Indian Ocean exchange systems, overturning colonial narratives about the pristine wilderness of areas that later became plantations.
 
 ![Field team performing ceramic analysis](DSC_7859.JPG)
-Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities. Zanzibar, summer 2023.
+Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.
 
 ## Why Africa?
 Why practice archaeology in Africa? As an archaeologist, I am motivated by big questions. Why did people start living in large, specialized urban societies? How did people in the past exchange goods and ideas over vast distances, creating globalized societies? What types of environmental and climatic conditions impacted these changes, and how did people collectively shape and adapt to challenging environmental conditions? These complex activities are recent and emergent human experiments, the long-term outcomes of which are yet unclear. Likely, they will have drastic implications for the course of our species and planet, so it is vital to understand their timing, nature, and impacts for the present and future.
@@ -64,6 +65,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
