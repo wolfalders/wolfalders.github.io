@@ -34,7 +34,7 @@ I earned my PhD from the Department of Anthropology at the University of Califor
 
 - I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast, a key caravan node. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
 
-- I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the earliest exchanges between eastern Africa and the Indian Ocean economic system of late antiquity.
+- I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the exchange between eastern Africa and the Indian Ocean economic system of late antiquity and the medieval period.
 
 - As a National Science Foundation Fellow at the Center for Advanced Spatial Technologies at the University of Arkansas, I directed the Zanzibar Urban-Rural Complexity Project (ZURCP) from 2022-2024. This project investigated urban emergence and change around Zanzibar Stone Town, one of the largest and longest-lasting urban centers on the Swahili Coast. We successfully leveraged satellite and drone imagery to model areas where archaeological surveys could detect archaeological sites within the interstices of the rapidly urbanizing modern city.
 
@@ -64,6 +64,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated September 2025, Wolfgang Alders
+
 
 
 
