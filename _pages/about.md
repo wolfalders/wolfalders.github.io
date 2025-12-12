@@ -13,7 +13,7 @@ My work traces the impacts of globalization and colonialism on landscapes, envir
 
 I am a Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (commencing January 2026). I just finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
 
-My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, Universitas 21, the American Philosophical Society, and the US National Endowment for the Humanities.
+My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
 ![PanganiCeramics](PanganiServingBowl.jpeg)
 Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
