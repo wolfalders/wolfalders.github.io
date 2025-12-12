@@ -9,7 +9,7 @@ redirect_from:
 ---
 I research the historical archaeology and deep history of eastern Africa and the Indian Ocean.
 
-My work traces the impacts of globalization, statecraft, and colonialism on landscapes, environments, and societies from the medieval period to the 19th century. I also address how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. While my fieldwork is primarily based on the Swahili Coast of Kenya and Tanzania, my projects aim at comparative understandings of the early modern world in global perspective.
+My work traces the impacts of globalization and colonialism on landscapes, environments, and societies from the medieval period to the 19th century. I also address how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. While my fieldwork is primarily based on the Swahili Coast of Kenya and Tanzania, my projects aim at comparative understandings of the early modern world in global perspective.
 
 I am a Marie-Skłodowska Curie (MSCA) postdoctoral fellow at the McDonald Institute for Archaeological Research at Cambridge University (commencing January 2026). I am also currently [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
 
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Mangroves and the sea, taken on field survey. Fuoni, Zanzibar.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
