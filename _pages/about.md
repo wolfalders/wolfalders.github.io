@@ -25,9 +25,9 @@ I write about:
 * [studying coastal eastern African archaeological landscape palimpsests with satellite imagery](https://link.springer.com/article/10.1007/s10816-024-09644-x)
 * [archaeology and remote sensing in rapidly urbanizing tropical environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
 * [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
+* [urban trajectories on the Swahili Coast, from 1000-1900 CE](https://link.springer.com/article/10.1007/s10814-025-09218-9)
 * Persistence on a perilous coast: Swahili responses to raiding, instability, and colonial violence in eastern Africa (accepted in _Current Anthropology_, in press!)
-* Long-term urban trajectories in the eastern African tropics (accepted in the _Journal of Archaeological Research_, in press!)
-* Forced displacement, disaster, and migration on the Swahili Coast (in review!)
+* Forced displacement, disaster, and migration on the Swahili Coast, from 500-1900 CE (in review!)
 * The effect of climate variation on early migrations to the eastern African coast (in review, co-author)
 
 Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996).
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
