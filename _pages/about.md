@@ -9,7 +9,7 @@ redirect_from:
 ---
 I research the historical archaeology and deep history of eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania.
 
-My work traces the impacts of globalization and colonialism on landscapes, environments, and societies from the medieval period to the 19th century. I address how small, mobile non-elite groups like fishers, farmers, hunters, merchants and pastoralists adapted to and shaped these processes. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and urban and rural landscapes on the tropical Indian Ocean rim. My projects aim at comparative understandings of the shaping of the early modern world in global perspective, highlighting African contributions.
+My work traces the impacts of globalization and colonialism. Research in eastern Africa offers a chance to diversify understandings of how these forces reshaped landscapes, environments, and societies. I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of this region into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. My projects bring material analysis and landscape-scale research to comparative understandings of the shaping of the early modern world in global perspective, highlighting experiences of modernity from the Global South.
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
 
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
