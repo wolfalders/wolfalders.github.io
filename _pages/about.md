@@ -20,7 +20,7 @@ Medieval serving bowl from an archaeological site on the Pangani River in coasta
 
 I write about:
 * [social transformation and the commodification of landscapes under colonialism](https://link.springer.com/article/10.1007/s10437-023-09523-y)
-* [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
+* [open-access methods for archaeological predictive modeling with environmental datasets and a 19th-century historical map](https://journal.caa-international.org/articles/10.5334/jcaa.107)
 * [material culture, economic networks, and non-elite political strategies from the medieval period to the 19th century in Zanzibar](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
 * [studying landscape palimpsests with satellite imagery in Indian Ocean historical contexts](https://link.springer.com/article/10.1007/s10816-024-09644-x)
 * [archaeology and remote sensing in rapidly urbanizing tropical environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
