@@ -19,10 +19,10 @@ My research has been funded by the US National Science Foundation, the Wenner-Gr
 Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
 
 I write about:
-* [social transformation and environmental diversification](https://link.springer.com/article/10.1007/s10437-023-09523-y)
+* [social transformation and the commodification of landscapes under colonialism](https://link.springer.com/article/10.1007/s10437-023-09523-y)
 * [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
-* [material culture, economic networks, and non-elite political strategies](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
-* [studying coastal eastern African archaeological landscape palimpsests with satellite imagery](https://link.springer.com/article/10.1007/s10816-024-09644-x)
+* [material culture, economic networks, and non-elite political strategies from the medieval period to the 19th century in Zanzibar](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
+* [studying landscape palimpsests with satellite imagery in Indian Ocean historical contexts](https://link.springer.com/article/10.1007/s10816-024-09644-x)
 * [archaeology and remote sensing in rapidly urbanizing tropical environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
 * [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
 * [urban trajectories on the Swahili Coast, from 1000-1900 CE](https://link.springer.com/article/10.1007/s10814-025-09218-9)
@@ -67,6 +67,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
