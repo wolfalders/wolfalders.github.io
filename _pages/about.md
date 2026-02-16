@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist researching the material and socioecological impacts of globalization, long-distance exchange, and colonization in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania. My projects bring material analysis, geospatial science, and landscape-scale field research to comparative understandings of the shaping of medieval and early modern worlds in global perspective.
+I am an archaeologist researching the material and socioecological impacts of globalization, long-distance exchange, and colonization in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania. My projects bring material analysis, geospatial science, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
 
 I draw on multiple theoretical and methdological perspectives from historical archaeology, landscape archaeology, GIS, satellite remote sensing, and historical ecology. I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of eastern Africa into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
@@ -70,6 +70,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
