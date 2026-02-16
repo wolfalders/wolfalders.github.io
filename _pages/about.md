@@ -10,14 +10,14 @@ redirect_from:
 
 I am an archaeologist researching the material and socioecological impacts of globalization, long-distance exchange, and colonization in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania. My projects bring material analysis, geospatial science, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
 
+![PanganiCeramics](PanganiServingBowl.jpeg)
+Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
+
 I draw on multiple theoretical and methdological perspectives from historical archaeology, landscape archaeology, GIS, satellite remote sensing, and historical ecology. I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of eastern Africa into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
 
 My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
-
-![PanganiCeramics](PanganiServingBowl.jpeg)
-Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
 
 I write about:
 * [social transformation and the commodification of landscapes under colonialism](https://link.springer.com/article/10.1007/s10437-023-09523-y)
@@ -68,6 +68,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
