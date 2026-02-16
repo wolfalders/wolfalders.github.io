@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I research the historical archaeology and deep history of eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania.
 
-My work traces the impacts of globalization and colonialism. Research in eastern Africa offers a chance to diversify understandings of how these forces reshaped landscapes, environments, and societies. I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of this region into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. My projects bring material analysis and landscape-scale research to comparative understandings of the shaping of the early modern world in global perspective, highlighting experiences of modernity from the Global South. Collaboration with local stakeholders and community engagement are critical parts of my research process.
+I am an archaeologist researching the material and socioecological impacts of globalization, long-distance exchange, and colonization in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania. My projects bring material analysis, geospatial science, and landscape-scale field research to comparative understandings of the shaping of medieval and early modern worlds in global perspective.
+
+I draw on multiple theoretical and methdological perspectives from historical archaeology, landscape archaeology, GIS, satellite remote sensing, and historical ecology. I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of eastern Africa into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
 
@@ -37,6 +38,8 @@ Imported ceramics from a rural plantation site near Zanzibar Stone Town. 18th to
 
 ## Projects
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
+
+- I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, and their conservation role in rural sustainability in the present.
 
 - I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast, a key caravan node, from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney). This work is directly designed as a community-based research project, engaging local stakeholders in Pangani and surrounding towns.
 
@@ -67,6 +70,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
