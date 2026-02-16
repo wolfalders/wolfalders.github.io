@@ -39,7 +39,7 @@ Imported ceramics from a rural plantation site near Zanzibar Stone Town. 18th to
 ## Projects
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
 
-- I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, and their conservation role in rural sustainability in the present.
+- I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present.
 
 - I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast, a key caravan node, from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney). This work is directly designed as a community-based research project, engaging local stakeholders in Pangani and surrounding towns.
 
@@ -70,6 +70,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated December 2025, Wolfgang Alders
+
 
 
 
