@@ -34,14 +34,14 @@ I write about:
 Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996).
 
 ![ZanzibarCeramics](zanzibarceramics.jpeg) 
-Imported ceramics from a rural plantation site near Zanzibar Stone Town. 18th to early 20th centuries CE.
+Imported ceramics from a rural plantation site near Zanzibar Stone Town.
 
 ## Projects
-- My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the 19th-century caravan routes that connected eastern Africa to the Indian Ocean.
+- My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
 
 - I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present.
 
-- I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast, a key caravan node, from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney). This work is directly designed as a community-based research project, engaging local stakeholders in Pangani and surrounding towns.
+- I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney). This work is directly designed as a community-based research project, engaging local stakeholders in Pangani and surrounding towns.
 
 - I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the exchange between eastern Africa and the Indian Ocean economic system of late antiquity and the medieval period.
 
@@ -68,6 +68,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated February 2026, Wolfgang Alders
+
 
 
 
