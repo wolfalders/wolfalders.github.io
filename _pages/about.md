@@ -20,13 +20,13 @@ I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at th
 My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
 I write about:
-* [social transformation and the commodification of landscapes under colonialism](https://link.springer.com/article/10.1007/s10437-023-09523-y)
-* [open-access methods for archaeological predictive modeling with environmental datasets and a 19th-century historical map](https://journal.caa-international.org/articles/10.5334/jcaa.107)
-* [material culture, economic networks, and non-elite political strategies from the medieval period to the 19th century in Zanzibar](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
-* [studying landscape palimpsests with satellite imagery in Indian Ocean historical contexts](https://link.springer.com/article/10.1007/s10816-024-09644-x)
-* [archaeology and remote sensing in rapidly urbanizing tropical environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
+* [social transformation and landscape change](https://link.springer.com/article/10.1007/s10437-023-09523-y)
+* [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
+* [material culture, economic networks, and non-elite political strategies in Zanzibar](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
+* [studying landscape palimpsests with satellite imagery in tropical environments](https://link.springer.com/article/10.1007/s10816-024-09644-x)
+* [archaeological survey and remote sensing in rapidly urbanizing environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
 * [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
-* [urban trajectories on the Swahili Coast, from 1000-1900 CE](https://link.springer.com/article/10.1007/s10814-025-09218-9)
+* [urban trajectories on the Swahili Coast from 800-1900 CE](https://link.springer.com/article/10.1007/s10814-025-09218-9)
 * Persistence on a perilous coast: Swahili responses to raiding, instability, and colonial violence in eastern Africa (accepted in _Current Anthropology_, in press!)
 * Forced displacement, disaster, and migration on the Swahili Coast, from 500-1900 CE (in review!)
 * The effect of climate variation on early migrations to the eastern African coast (in review, co-author)
@@ -68,6 +68,7 @@ I am committed to decolonial approaches to archaeological practice. This means c
 Myself and team members on survey in 2024 in Pangani, Tanzania.
 
 Last updated February 2026, Wolfgang Alders
+
 
 
 
