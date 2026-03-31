@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist researching the material and socioecological impacts of globalization, long-distance exchange, and colonization in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania. My projects bring material analysis, geospatial science, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
+I am an archaeologist drawing on perspectives in historical ecology, landscape archaeology, and geospatial science.
+
+I research the material and socioecological impacts of globalization, long-distance exchange, and colonization in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania. My projects bring artifactual analysis, satellite remote sensing, GIS analysis, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
 
 ![PanganiCeramics](PanganiServingBowl.jpeg)
 Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
 
-I draw on multiple theoretical and methdological perspectives from historical archaeology, landscape archaeology, GIS, satellite remote sensing, and historical ecology. I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of eastern Africa into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
+I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of eastern Africa into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
 
