@@ -10,7 +10,7 @@ redirect_from:
 
 I am an archaeologist drawing on perspectives in historical ecology, landscape archaeology, and geospatial science.
 
-I research the material and socioecological impacts of globalization, long-distance exchange, and colonization in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania. My projects bring artifactual analysis, satellite remote sensing, GIS analysis, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
+I research early globalization and its social, environmental and landscape impacts in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania on the coastal urban port communities of the ancient and historical Swahili. My projects bring artifactual analysis, satellite remote sensing, GIS analysis, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
 
 ![PanganiCeramics](PanganiServingBowl.jpeg)
 Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
