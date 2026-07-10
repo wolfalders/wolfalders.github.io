@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an archaeologist drawing on perspectives in historical ecology, landscape archaeology, and geospatial science.
-
-I research early globalization and its social, environmental and landscape impacts in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania on the coastal urban port communities of the ancient and historical Swahili. My projects bring artifactual analysis, satellite remote sensing, GIS analysis, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
+I am an archaeologist researching early globalization and its social, environmental and landscape impacts in eastern Africa and the Indian Ocean, with fieldwork primarily based in Kenya and Tanzania on the coastal communities of the ancient and historical Swahili. My projects bring artifact analysis (especially of ceramics), GIS, satellite remote sensing, and landscape-scale field research to comparative understandings of the shaping of ancient, medieval and early modern worlds in global perspective.
 
 ![PanganiCeramics](PanganiServingBowl.jpeg)
 Medieval serving bowl from an archaeological site on the Pangani River in coastal Tanzania.
 
-I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the integration of eastern Africa into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
+I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the progressive integration of eastern Africa into global economic and political systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and socioecological landscapes on the tropical Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
 
@@ -29,9 +27,10 @@ I write about:
 * [archaeological survey and remote sensing in rapidly urbanizing environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
 * [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
 * [urban trajectories on the Swahili Coast from 800-1900 CE](https://link.springer.com/article/10.1007/s10814-025-09218-9)
-* Persistence on a perilous coast: Swahili responses to raiding, instability, and colonial violence in eastern Africa (accepted in _Current Anthropology_, in press!)
+* [Persistence on a perilous coast: Swahili responses to raiding, instability, and colonial violence in eastern Africa](https://www.journals.uchicago.edu/doi/10.1086/742009)
 * Forced displacement, disaster, and migration on the Swahili Coast, from 500-1900 CE (in review!)
 * The effect of climate variation on early migrations to the eastern African coast (in review, co-author)
+* Spatial and environmental analyses of Swahili port communities (in prep!)
 
 Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996).
 
