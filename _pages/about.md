@@ -19,12 +19,12 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
   <img src="RiverSurvey1.jpeg" alt="Survey along the Pangani River">
   <img src="RiverSurvey2.jpeg" alt="Survey along the Pangani River">
   <img src="RiverSurvey3.jpeg" alt="Survey along the Pangani River">
-  <figcaption>[Add a caption for the survey photos, or delete this line.]</figcaption>
+  <figcaption>[Survey on the Pangani River, northern Tanzania.]</figcaption>
 </figure>
 
 <figure class="align-right" style="max-width: 260px;">
   <img src="redbowl.jpeg" alt="Red-slipped ceramic bowl">
-  <figcaption>[Add a caption, or delete this line.]</figcaption>
+  <figcaption>[Red hematite burnished and graphited serving bowl, from the earliest phases of elite formation and urban growth on the Swahili Coast (10th/11th c. AD).]</figcaption>
 </figure>
 
 I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the progressive integration of eastern Africa into global political, environmental, and economic systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and the tropical socioecological landscapes of the Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
