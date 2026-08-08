@@ -13,6 +13,11 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
 ![geoarch](geoarch.jpeg)
 Taking micromorphology samples from a profile wall at a site on the Pangani River, in northern coastal Tanzania.
 
+![riversurvey1](RiverSurvey1.jpeg)
+![riversurvey2](RiverSurvey2.jpeg)
+![riversurvey3](RiverSurvey3.jpeg)
+![redbowl](redbowl.jpeg)
+
 I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the progressive integration of eastern Africa into global political, environmental, and economic systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and the tropical socioecological landscapes of the Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
