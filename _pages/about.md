@@ -15,8 +15,7 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
   <figcaption>Taking micromorphology samples from a profile wall at a site on the Pangani River, in northern coastal Tanzania.</figcaption>
 </figure>
 
-<figure class="half align-left" style="max-width: 260px;">
-  <img src="/images/RiverSurvey1.JPG" alt="Survey along the Pangani River">
+<figure class="align-left" style="max-width: 200px;">
   <img src="/images/RiverSurvey2.JPG" alt="Survey along the Pangani River">
   <figcaption>[Survey along the Pangani River, northern Tanzania]</figcaption>
 </figure>
@@ -24,18 +23,18 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
 I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the progressive integration of eastern Africa into global political, environmental, and economic systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and the tropical socioecological landscapes of the Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
 <figure class="align-right" style="max-width: 140px;">
-  <img src="/images/redbowl.jpeg" alt="Red-slipped ceramic bowl">
+  <img src="/images/redbowl.jpeg" alt="Red-slipped ceramic bowl" style="width:100%; height:auto; object-fit:contain;">
   <figcaption>[Red hematite burnished and graphited serving bowl, 950-1150 AD, from the earliest phase of Swahili elite formation and urban growth.]</figcaption>
 </figure>
-
-I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
-
-My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
 <figure class="align-left" style="max-width: 185px;">
   <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
   <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
+
+I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022.
+
+My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
 I write about:
 * [social transformation and landscape change](https://link.springer.com/article/10.1007/s10437-023-09523-y)
