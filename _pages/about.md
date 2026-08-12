@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively shaped and adapted to Indian Ocean socioecological systems over the last 1500 years. I have also worked in Oman, the Philippines, Kazakhstan, Morocco, and the American West. My projects bring artifact analysis (especially of ceramics), GIS, satellite remote sensing, and landscape-scale field research to comparative understandings of human-environmental relationships across ancient, medieval and early modern worlds.
+I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively shaped and adapted to Indian Ocean sociopolitical and environmental systems over the last 1500 years. I have expertise in GIS, satellite remote sensing, archaeological field methods, and ceramic analysis. I have also worked in Oman, the Philippines, Kazakhstan, Morocco, and the American West.
 
 <figure class="align-left" style="max-width: 300px;">
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
@@ -20,7 +20,7 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
   <figcaption>Taking micromorphology samples from a profile wall at a site on the Pangani River, in northern coastal Tanzania.</figcaption>
 </figure>
 
-I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the progressive integration of eastern Africa into global political, environmental, and economic systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and the tropical socioecological landscapes of the Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
+A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and the tropical socioecological landscapes of the Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
 
 
 <figure class="align-left" style="max-width: 210px;">
