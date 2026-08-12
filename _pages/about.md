@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively shaped and adapted to Indian Ocean sociopolitical and environmental systems over the last 1500 years. I have expertise in GIS, satellite remote sensing, archaeological field methods, and ceramic analysis. I have also worked in Oman, the Philippines, Kazakhstan, and the American West.
+I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively integrated within Indian Ocean sociopolitical and environmental systems over the last 1500 years. I have expertise in GIS, satellite remote sensing, archaeological field methods, and ceramic analysis. I have also worked in Oman, the Philippines, Kazakhstan, and the American West.
 
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
@@ -19,9 +19,6 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
   <img src="/images/geoarch.jpeg" alt="Taking micromorphology samples on the Pangani River">
   <figcaption>Taking micromorphology samples from a profile wall at a site on the Pangani River, in northern coastal Tanzania.</figcaption>
 </figure>
-
-A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and the tropical socioecological landscapes of the Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
-
 
 <figure class="align-left" style="max-width: 210px;">
   <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
