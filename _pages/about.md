@@ -15,9 +15,9 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
   <figcaption>Taking micromorphology samples from a profile wall at a site on the Pangani River, in northern coastal Tanzania.</figcaption>
 </figure>
 
-<figure class="align-left" style="max-width: 230px;">
-  <img src="/images/RiverSurvey2.JPG" alt="Survey along the Pangani River">
-  <figcaption>[Survey along the Pangani River, northern Tanzania]</figcaption>
+<figure class="align-left" style="max-width: 300px;">
+  <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
+  <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
 </figure>
 
 I address how farmers, fishers, hunters and pastoralists experienced, adapted to, and shaped the progressive integration of eastern Africa into global political, environmental, and economic systems. A key theme in my work is the tension between integration and autonomy in the way that people related to sociopolitical institutions, material worlds (including consumer cultures), and the tropical socioecological landscapes of the Indian Ocean rim. Research in this region offers a chance to diversify and reframe understandings of how these processes shaped landscapes, environments, and societies.  Collaboration with local stakeholders and community engagement are critical parts of my research process.
@@ -51,9 +51,9 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 
 ## Projects
 
-<figure class="align-right" style="max-width: 240px;">
-  <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
-  <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
+<figure class="align-right" style="max-width: 230px;">
+  <img src="/images/RiverSurvey2.JPG" alt="Survey along the Pangani River">
+  <figcaption>[Survey along the Pangani River, northern Tanzania]</figcaption>
 </figure>
 
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
