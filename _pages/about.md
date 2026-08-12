@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively integrated within Indian Ocean sociopolitical and environmental systems over the last 1500 years. I have expertise in GIS, satellite remote sensing, archaeological field methods, and ceramic analysis. I have also worked in Oman, the Philippines, Kazakhstan, and the American West.
+I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as they progressively integrated within Indian Ocean systems over the last 1500 years. I have expertise in geographic information systems, satellite and drone remote sensing, archaeological field methods, and pottery analysis. I have also worked in Oman, the Philippines, Kazakhstan, and the American West.
 
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
@@ -57,7 +57,7 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 
 - I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present.
 
-- I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney). This work is directly designed as a community-based research project, engaging local stakeholders in Pangani and surrounding towns.
+- I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
 
 - I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the exchange between eastern Africa and the Indian Ocean economic system of late antiquity and the medieval period.
 
@@ -89,4 +89,4 @@ I am committed to decolonial approaches to archaeological practice. This means c
 
 <div style="clear: both;"></div>
 
-Last updated February 2026, Wolfgang Alders
+Last updated August 2026 by Wolfgang Alders
