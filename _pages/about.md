@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively shaped and adapted to Indian Ocean sociopolitical and environmental systems over the last 1500 years. I have expertise in GIS, satellite remote sensing, archaeological field methods, and ceramic analysis. I have also worked in Oman, the Philippines, Kazakhstan, Morocco, and the American West.
+I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively shaped and adapted to Indian Ocean sociopolitical and environmental systems over the last 1500 years. I have expertise in GIS, satellite remote sensing, archaeological field methods, and ceramic analysis. I have also worked in Oman, the Philippines, Kazakhstan, and the American West.
 
-<figure class="align-left" style="max-width: 300px;">
+<figure class="align-right" style="max-width: 300px;">
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
   <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
 </figure>
