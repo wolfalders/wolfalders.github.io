@@ -97,4 +97,4 @@ I am committed to decolonial approaches to archaeological practice. This means c
 
 <div style="clear: both;"></div>
 
-Last updated February 2026, Wolfgang Alders
+Last updated August 2026, Wolfgang Alders
