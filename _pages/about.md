@@ -20,7 +20,7 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
   <figcaption>Taking micromorphology samples from a profile wall at a site on the Pangani River, in northern coastal Tanzania.</figcaption>
 </figure>
 
-<figure class="align-left" style="max-width: 210px;">
+<figure class="align-right" style="max-width: 210px;">
   <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
   <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
