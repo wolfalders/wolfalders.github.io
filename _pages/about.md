@@ -11,19 +11,18 @@ redirect_from:
 I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on early globalization and its sociopolitical, environmental and landscape impacts. My current projects focus on the coastal communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts as their societies progressively shaped and adapted to Indian Ocean socioecological systems over the last 1500 years. I have also worked in Oman, the Philippines, Kazakhstan, Morocco, and the American West. My projects bring artifact analysis (especially of ceramics), GIS, satellite remote sensing, and landscape-scale field research to comparative understandings of human-environmental relationships across ancient, medieval and early modern worlds.
 
 <figure class="align-right" style="max-width: 240px;">
-  <img src="geoarch.jpeg" alt="Taking micromorphology samples on the Pangani River">
+  <img src="/images/geoarch.jpeg" alt="Taking micromorphology samples on the Pangani River">
   <figcaption>Taking micromorphology samples from a profile wall at a site on the Pangani River, in northern coastal Tanzania.</figcaption>
 </figure>
 
-<figure class="third align-left" style="max-width: 280px;">
-  <img src="RiverSurvey1.jpeg" alt="Survey along the Pangani River">
-  <img src="RiverSurvey2.jpeg" alt="Survey along the Pangani River">
-  <img src="RiverSurvey3.jpeg" alt="Survey along the Pangani River">
+<figure class="half align-left" style="max-width: 300px;">
+  <img src="/images/RiverSurvey1.JPG" alt="Survey along the Pangani River">
+  <img src="/images/RiverSurvey2.JPG" alt="Survey along the Pangani River">
   <figcaption>[Survey along the Pangani River, northern Tanzania]</figcaption>
 </figure>
 
 <figure class="align-right" style="max-width: 160px;">
-  <img src="redbowl.jpeg" alt="Red-slipped ceramic bowl">
+  <img src="/images/redbowl.jpeg" alt="Red-slipped ceramic bowl">
   <figcaption>[Red hematite burnished and graphited serving bowl, 950-1150 AD, from the earliest phase of Swahili elite formation and urban growth.]</figcaption>
 </figure>
 
@@ -47,8 +46,8 @@ I write about:
 * Spatial and environmental analyses of Swahili port communities (in prep!)
 
 <figure class="align-left" style="max-width: 220px;">
-  <img src="zanzibarceramics.jpeg" alt="Imported ceramics near Zanzibar Stone Town">
-  <figcaption>Imported ceramics from a rural plantation site near Zanzibar Stone Town.</figcaption>
+  <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
+  <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
 
 Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996).
@@ -56,11 +55,6 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 <div style="clear: both;"></div>
 
 ## Projects
-
-<figure class="align-right" style="max-width: 240px;">
-  <img src="DSC_7859.JPG" alt="Analyzing ceramics with the field team">
-  <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
-</figure>
 
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
 
@@ -79,7 +73,7 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 ## Why Africa?
 
 <figure class="align-right" style="max-width: 260px;">
-  <img src="DSC_0095.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
+  <img src="/images/SwahiliTomb.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
   <figcaption>Swahili tomb, Kunduchi, Tanzania. The circular divots used to hold Chinese porcelain bowls, which have since been removed.</figcaption>
 </figure>
 
@@ -88,11 +82,6 @@ Why practice archaeology in Africa? As an archaeologist, I am motivated by big q
 African archaeology demonstrates that processes leading to environmental change, food production, connectivity, and urbanism developed along unique and diverse pathways on the continent, in ways that continually force us to rethink global anthropological understandings of these trajectories. For instance, in East Africa, urban mercantile societies coexisted alongside hunter-gatherer, pastoralist, and intensified agriculturalist foodways for many centuries, and class stratification occurred in the absence of any overarching territorial state. Tropical environmental conditions also created unique urban-rural settlement arrangements that differ from comparable urban developments in other parts of the world. Finally, while African societies developed along unique trajectories, archaeology also shows that vast regions of the continent were deeply connected to the globalizing processes that shaped the modern world from a very early period. Archaeology is crucial for revealing connections that place African societies in global historical context.
 
 Africa has enormous global significance but it is understudied, and therefore misunderstood. Investigating anthropological questions in Africa also means countering outdated assumptions about the region, like the notion that African societies were historically static, were dominated by environmental factors, or were outside of the global circuits of exchange that produced the modern world. These ideas could not be further from the truth. Archaeology, done in collaboration with African institutions and local communities, is uniquely suited to shed light on the dynamic societies of the African past within world history, to help address challenges of the African and global present.
-
-<figure class="align-left" style="max-width: 260px;">
-  <img src="team.jpeg" alt="Survey team in Pangani, 2024">
-  <figcaption>Myself and team members on survey in 2024 in Pangani, Tanzania.</figcaption>
-</figure>
 
 I am committed to decolonial approaches to archaeological practice. This means collaborative research engagements with African academic institutions and local communities and stakeholders. For my PhD and subsequent postdoctoral work in Zanzibar, this meant practicing archaeology in the Swahili language, holding community meetings that shaped research design, disseminating archaeological reports in Swahili to local communities, and training Tanzanian archaeologists in partnership with the Zanzibar Department of Museums and Antiquities, with which I maintain strong connections. With my new project in Pangani, our CALOR team has ongoing collaborations with the Department of Archaeology and Heritage Management at the University of Dar es Salaam, where our [Tanzanian-American-Australian research team](https://www.calorarchaeology.com/team-1) is committed to building local research capacity and providing training for Tanzanian undergraduate and graduate level stuudents. We are also in the process of developing new community outreach programs and collaborations with local residents, officials, and other stakeholders in the Pangani region where the work is proceeding.
 
