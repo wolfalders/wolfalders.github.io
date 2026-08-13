@@ -11,6 +11,11 @@ redirect_from:
 I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry.
 
 <figure class="align-right" style="max-width: 300px;">
+  <img src="/images/baobab_droneimagery.jpg" alt="imagery of baobab trees from a drone">
+  <figcaption>Zanzibar Mapping Initiative (ZMI) drone images showing examples of baobab visibility in Zanzibar in four different meteorological seasons, and a map showing the seasonal distribution of all 238 ZMI images (Alders et al. 2025)</figcaption>
+</figure>
+
+<figure class="align-right" style="max-width: 300px;">
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
   <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
 </figure>
