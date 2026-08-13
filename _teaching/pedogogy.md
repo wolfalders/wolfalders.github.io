@@ -1,60 +1,58 @@
 ---
 layout: archive
-title: "Teaching and Mentorship"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
----
+
+{% include base_path %}
 
 ### Teaching Philosophy
-Broadening access to archaeology and higher education for students from diverse walks of life is imperative. In my teaching, I draw on universal design for learning (UDL) approaches to make class lectures and assignments accessible to students with different backgrounds and learning styles. I also emphasize writing, peer-editing, and re-writing in a supportive environment as a critical method for helping students become independent thinkers and scholars. Finally, I am committed to mentoring and advancing the capacities of African students and researchers, who are underserved compared to their colleagues in the US and Europe.
 
-### Sample Courses
-Cities, Past and Present
+Broadening access to archaeology and higher education for students from diverse walks of life is imperative. In my teaching, I draw on universal design for learning (UDL) approaches to make lectures and assignments accessible to students with different backgrounds and learning styles. I emphasize writing, peer-editing, and re-writing in a supportive environment as a critical method for helping students become independent thinkers and scholars. I am also committed to mentoring African students and researchers, to build archaeological capacity in African institutions.
 
-Society and the Environment
+### Courses Taught (Instructor of Record)
 
-Landscape Archaeology
+**2025** &nbsp; GIS for Archaeology and Cultural Resource Management (Anthro C117). Cotsen Institute of Archaeology, University of California, Los Angeles.
 
-GIS and Remote Sensing in Archaeology
+**2024** &nbsp; Landscape Archaeology (Anth-UA 213). Department of Anthropology, New York University.
 
-African Archaeology
-
-The Archaeology of Slavery in Africa
-
-World Prehistory
-
-Archaeological Method and Theory
-
-
-### Teaching and Mentoring Experience
-
-### Instructor of Record
-Department of Anthropology, New York University
-Undergraduate Course: Anth-UA 213, Topics in Archaeology, “Landscape Archaeology” (Fall 2024)
-
-Department of Anthropology, University of California, Berkeley.  
-Undergraduate Course: R5B Freshman Writing Seminar, “Politics of African Archaeology and Heritage” (Spring 2022)
+**2022** &nbsp; Politics of African Archaeology and Heritage (R5B Freshman Writing Seminar). Department of Anthropology, University of California, Berkeley.
 
 ### Teaching Assistant
-Department of Environmental Science, Policy, and Management, University of California, Berkeley.  
-Undergraduate Course: 	ESPM 72 – Intro to Geographic Information Systems (Summer 2021) 
 
-Department of Anthropology, University of California, Berkeley.  
-Undergraduate Courses: Anth 2AC: Intro to Archaeology (Fall 2015, Fall 2018, Fall 2020) 
+**2021** &nbsp; Introduction to Geographic Information Systems (ESPM 72). Department of Environmental Science, Policy, and Management, UC Berkeley.
 
-Department of Near Eastern Studies, University of California, Berkeley.  
-Undergraduate Courses: MES 15: Intro to Middle Eastern Art and Archaeology (Spring 2016, Spring 2017, Spring 2018).
+**2015–2020** &nbsp; Introduction to Archaeology (Anth 2AC). Department of Anthropology, UC Berkeley (Fall 2015, 2018, 2020).
+
+**2016–2018** &nbsp; Introduction to Near Eastern Art and Archaeology (MES 15). Department of Middle Eastern Studies, UC Berkeley (Spring 2016, 2017, 2018).
+
+### Workshops and Training
+
+**2025** &nbsp; Created QGIS for Archaeology modules for community-engaged research in Cambodia (UCLA, for Dr. Stephen Acabado).
+
+**2025** &nbsp; Workshop: "Detecting Archaeologically Significant Trees in Drone Imagery with Automated Methods." Automated Methods in Archaeology, Department of Anthropology, New York University.
+
+**2024** &nbsp; Trained two MA students, two undergraduates, and two heritage officers in survey methods, GNSS, GIS, and ceramic analysis in Pangani and Zanzibar, Tanzania.
+
+**2024** &nbsp; Workshop: "Archaeology in the Fourth Dimension: CORONA, HEXAGON, and Other Multitemporal Satellite Imagery." Archaeology of China graduate seminar, Cotsen Institute, UCLA.
+
+**2023** &nbsp; Workshop: "GIS and GNSS for Archaeology." Department of Museums and Antiquities, Zanzibar, Tanzania.
+
+**2023** &nbsp; Trained two PhD and three undergraduate students in survey methods, GNSS, GIS, and ceramic analysis during fieldwork in Zanzibar, Tanzania.
+
+**2019** &nbsp; Trained five students from the State University of Zanzibar in archaeological field methods, remote sensing, and ceramic analysis.
 
 ### Mentorship and Undergraduate Training
-Trained students from the US and from the State University of Zanzibar in archaeological field methods, remote sensing, and ceramic analysis (Summer 2019, Summer 2023, Summer 2024).
 
-Supervised undergraduates in managing field data. PI: Lisa Maher (Fall 2020)
+Supervised undergraduates in managing field data. PI: Lisa Maher (Fall 2020).
 
 Supervised undergraduates in soil analysis of sediments from Zanzibar, Tanzania. PI: Lisa Maher (Spring 2018).
 
-Supervised undergraduates doing structure-from-motion photogrammetry of Iron Age ceramics from Jordan. PI: Ben Porter (Fall 2016, Fall 2017).
+Supervised undergraduates doing structure-from-motion photogrammetry of Iron Age ceramics from Jordan. PI: Ben Porter (Fall 2016, 2017).
 
 Supervised undergraduates in a collaborative research project with the Musanda Royal Council of Tsimbupfe, South Africa. PI: Jun Sunseri (Spring 2015).
 
-Wolfgang Alders, 2024
+### Courses Developed and Prepared to Teach
+
+Cities, Past and Present &middot; Society and the Environment &middot; Landscape Archaeology &middot; GIS and Remote Sensing in Archaeology &middot; African Archaeology &middot; The Archaeology of Slavery in Africa &middot; World Prehistory &middot; Archaeological Method and Theory
