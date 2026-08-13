@@ -47,12 +47,6 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 <div style="clear: both;"></div>
 
 ## Projects
-
-<figure class="align-right" style="max-width: 230px;">
-  <img src="/images/RiverSurvey2.JPG" alt="Survey along the Pangani River">
-  <figcaption>[River boat survey, northern Tanzania]</figcaption>
-</figure>
-
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
   <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
