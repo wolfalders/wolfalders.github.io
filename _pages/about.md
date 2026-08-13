@@ -10,7 +10,7 @@ redirect_from:
 
 I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry.
 
-<figure class="align-right" style="max-width: 300px;">
+<figure class="align-right" style="max-width: 400px;">
   <img src="/images/baobab_droneimagery.jpg" alt="imagery of baobab trees from a drone">
   <figcaption>Zanzibar Mapping Initiative (ZMI) drone images showing examples of baobab tree visibility in Zanzibar in four different meteorological seasons, and a map showing the seasonal distribution of all 238 ZMI images (Alders et al. 2025)</figcaption>
 </figure>
@@ -24,7 +24,7 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
-<figure class="align-right" style="max-width: 300px;">
+<figure class="align-left" style="max-width: 300px;">
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
   <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
 </figure>
