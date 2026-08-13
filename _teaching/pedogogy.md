@@ -11,6 +11,11 @@ author_profile: true
 
 Broadening access to archaeology and higher education for students from diverse walks of life is imperative. In my teaching, I draw on universal design for learning (UDL) approaches to make lectures and assignments accessible to students with different backgrounds and learning styles. I emphasize writing, peer-editing, and re-writing in a supportive environment as a critical method for helping students become independent thinkers and scholars. I am also committed to mentoring African students and researchers, to build archaeological capacity in African institutions.
 
+<figure>
+  <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
+  <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
+</figure>
+
 ### Courses Taught (Instructor of Record)
 
 **2025** &nbsp; GIS for Archaeology and Cultural Resource Management (Anthro C117). Cotsen Institute of Archaeology, University of California, Los Angeles.
