@@ -12,7 +12,7 @@ I am a landscape archaeologist with expertise in geospatial and digital archaeol
 
 <figure style="max-width: 300px;">
   <img src="/images/baobab_droneimagery.jpg" alt="imagery of baobab trees from a drone">
-  <figcaption>Zanzibar Mapping Initiative (ZMI) drone images showing examples of baobab visibility in Zanzibar in four different meteorological seasons, and a map showing the seasonal distribution of all 238 ZMI images (Alders et al. 2025)</figcaption>
+  <figcaption>Zanzibar Mapping Initiative (ZMI) drone images showing examples of baobab tree visibility in Zanzibar in four different meteorological seasons, and a map showing the seasonal distribution of all 238 ZMI images (Alders et al. 2025)</figcaption>
 </figure>
 
 <figure style="max-width: 300px;">
