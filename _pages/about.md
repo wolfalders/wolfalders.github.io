@@ -10,17 +10,12 @@ redirect_from:
 
 I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry.
 
-<figure class="align-left" style="max-width: 300px;">
-  <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
-  <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
-</figure>
-
-I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on how ancient globalization reshaped tropical coastal environments and influenced settlement growth, adaptation, and sustainability over the last 1500 years. My current projects focus on the coastal port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts, but I have also worked in Oman, the Philippines, Kazakhstan, and the American West. In addition to geospatial techniques, my projects employ multidisciplinary methods including archival, historical, and ethnographic research, ceramic analysis, geoarchaeological methods, and other aspects of archaeological science.
-
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
   <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
 </figure>
+
+I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on how ancient globalization reshaped tropical coastal environments and influenced settlement growth, adaptation, and sustainability over the last 1500 years. My current projects focus on the coastal port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts, but I have also worked in Oman, the Philippines, Kazakhstan, and the American West. In addition to geospatial techniques, my projects employ multidisciplinary methods including archival, historical, and ethnographic research, ceramic analysis, geoarchaeological methods, and other aspects of archaeological science.
 
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/geoarch.jpeg" alt="Taking micromorphology samples on the Pangani River">
@@ -51,6 +46,11 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
 <figure class="align-right" style="max-width: 230px;">
   <img src="/images/RiverSurvey2.JPG" alt="Survey along the Pangani River">
   <figcaption>[River boat survey, northern Tanzania]</figcaption>
+</figure>
+
+<figure class="align-left" style="max-width: 300px;">
+  <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
+  <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
 
 - My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
