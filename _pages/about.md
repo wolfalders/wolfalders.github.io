@@ -24,11 +24,6 @@ I research the archaeology and deep history of eastern Africa and the Indian Oce
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
-<figure class="align-left" style="max-width: 300px;">
-  <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
-  <figcaption>Analyzing ceramics with students and members of the Zanzibar Department of Museums and Antiquities.</figcaption>
-</figure>
-
 I write about:
 * [social transformation and landscape change](https://link.springer.com/article/10.1007/s10437-023-09523-y)
 * [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
