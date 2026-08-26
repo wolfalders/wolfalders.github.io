@@ -24,40 +24,27 @@ I am interested in how archaeology can recover overlooked experiences of the glo
 
 I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
-I write about:
-* [social transformation and landscape change](https://link.springer.com/article/10.1007/s10437-023-09523-y)
-* [open-access methods for archaeological predictive modeling with environmental datasets](https://journal.caa-international.org/articles/10.5334/jcaa.107)
-* [material culture, economic networks, and non-elite political strategies in Zanzibar](https://www.sciencedirect.com/science/article/pii/S0278416523000697)
-* [studying landscape palimpsests with satellite imagery in tropical environments](https://link.springer.com/article/10.1007/s10816-024-09644-x)
-* [archaeological survey and remote sensing in rapidly urbanizing environments](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962)
-* [using drone imagery to assess the anthropogenic legacies of baobab trees in eastern Africa](https://www.sciencedirect.com/science/article/pii/S0305440325001293)
-* [urban trajectories on the Swahili Coast from 800-1900 CE](https://link.springer.com/article/10.1007/s10814-025-09218-9)
-* [Persistence on a perilous coast: Swahili responses to raiding, instability, and colonial violence in eastern Africa](https://www.journals.uchicago.edu/doi/10.1086/742009)
-* Forced displacement, disaster, and migration on the Swahili Coast, from 500-1900 CE (in review!)
-* The effect of climate variation on early migrations to the eastern African coast (in review, co-author)
-* Spatial and environmental analyses of Swahili port communities (in prep!)
-
-Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996).
-
 <div style="clear: both;"></div>
 
-## Projects
+### Projects
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
   <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
 
-- My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
+## SAFARI (Simulating African Agro-Pastoralist Routes and Interactions) - Ongoing
+My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
 
-- I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present.
+## BAOBAB (Bridging Ancient Origins and Biocultural Aspects of Baobab Trees) - Ongoing
+I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present. Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996), based on a paper I published in the [Journal of Archaeological Science](https://www.sciencedirect.com/science/article/pii/S0305440325001293).
 
-- I am also co-director of the [CALOR project in Tanzania](https://www.calorarchaeology.com), exploring social reorganization, connectivity, and adaptations to climate change and environmental disasters at the river-oceanic interface of Pangani Bay on the eastern African Swahili Coast from 600-1900 CE. My co-directors are Elinaza Mjema (University of Dar Es Salaam) and Ioana Dumitru (University of Sydney).
+## CALOR (Dynamic Coasts and Landscapes of Resilience) - Ongoing
+With grants from the American Philosophical Society, the African Research Universities Alliance, and National Geographic, I am co-directing (with Ioana Dumitru, University of Sydney, and Elinaza Mjema, University of Dar Es Salaam) field research at the nexus of the Indian Ocean and one Tanzania's largest rivers, the Pangani. This research is investigating how ancient Swahili communities adapted to extreme environmental conditions, like floods, droughts, and a potential tsunami event that struck Pangani Bay around 1000 CE. My co-director Ioana Dumitru runs a fantastic [Instagram account for this project](https://www.instagram.com/calor_archaeology/), or check out [our project website](https://www.calorarchaeology.com/).
 
-- I was a visiting research scholar (2024-2025) at the Institute for the Study of the Ancient World at New York University, where I used remote sensing and environmental datasets to model resource landscapes related to the exchange between eastern Africa and the Indian Ocean economic system of late antiquity and the medieval period.
-
-- As a National Science Foundation Fellow at the Center for Advanced Spatial Technologies at the University of Arkansas, I directed the Zanzibar Urban-Rural Complexity Project (ZURCP) from 2022-2024. This project investigated urban emergence, change, and colonial transformations around Zanzibar Stone Town, one of the largest and longest-lasting urban centers on the Swahili Coast. We successfully leveraged satellite and drone imagery to model areas where archaeological surveys could detect archaeological sites within the interstices of the rapidly urbanizing modern city.
-
-- For my PhD work at UC Berkeley, I demonstrated the deep history of Indigenous adaptations to marginal environments in Zanzibar that enabled participation in Indian Ocean exchange systems, overturning colonial narratives about the pristine wilderness of areas that later became plantations.
+## ZURCP (Zanzibar Urban-Rural Complexity Project) and IZAS (Inland Zanzibar Archaeological Survey), 2016-2023
+From 2016 to 2023, I directed archaeological field surveys and excavations on Unguja Island in Zanzibar, Tanzania, to investigate urban emergence, change, and colonial transformations around Zanzibar Stone Town, one of the largest and longest-lasting urban centers on the Swahili Coast. This work occurred during my PhD at UC Berkeley, as well as while I was a National Science Foundation Fellow at the Center for Advanced Spatial Technologies at the University of Arkansas. My research demonstrated the deep history of Indigenous adaptations to marginal environments in Zanzibar that enabled participation in Indian Ocean exchange systems, overturning colonial narratives about the pristine wilderness of areas that later became plantations. These projects recorded over a hundred new archaeological sites in Zanzibar, and also provided significant training and support for Zanzibari students and heritage officers. Publications related to this work appear in [the African Archaeological Review](https://link.springer.com/article/10.1007/s10437-023-09523-y), the [Journal of Computer Applications for Archaeology](https://journal.caa-international.org/articles/10.5334/jcaa.107), the
+[Journal of Anthropological Archaeology](https://www.sciencedirect.com/science/article/pii/S0278416523000697), the [Journal of Archaeological Method and Theory](https://link.springer.com/article/10.1007/s10816-024-09644-x), the [Journal of Field Archaeology](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962), the 
+[Journal of Archaeological Research](https://link.springer.com/article/10.1007/s10814-025-09218-9), and [Current Anthropology](https://www.journals.uchicago.edu/doi/10.1086/742009).
 
 <div style="clear: both;"></div>
 
@@ -67,10 +54,6 @@ Recently, my work on human-baobab tree entanglements was featured in [The Conver
   <img src="/images/SwahiliTomb.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
   <figcaption>Swahili tomb, Kunduchi, Tanzania. The circular divots used to hold Chinese porcelain bowls, which have since been removed.</figcaption>
 </figure>
-
-Why practice archaeology in Africa? As an archaeologist, I am motivated by big questions. Why did people start living in large, specialized urban societies? How did people in the past exchange goods and ideas over vast distances, creating globalized societies? What types of environmental and climatic conditions impacted these changes, and how did people collectively shape and adapt to challenging environmental conditions? These complex activities are recent and emergent human experiments, the long-term outcomes of which are yet unclear. Likely, they will have drastic implications for the course of our species and planet, so it is vital to understand their timing, nature, and impacts for the present and future.
-
-African archaeology demonstrates that processes leading to environmental change, food production, connectivity, and urbanism developed along unique and diverse pathways on the continent, in ways that continually force us to rethink global anthropological understandings of these trajectories. For instance, in East Africa, urban mercantile societies coexisted alongside hunter-gatherer, pastoralist, and intensified agriculturalist foodways for many centuries, and class stratification occurred in the absence of any overarching territorial state. Tropical environmental conditions also created unique urban-rural settlement arrangements that differ from comparable urban developments in other parts of the world. Finally, while African societies developed along unique trajectories, archaeology also shows that vast regions of the continent were deeply connected to the globalizing processes that shaped the modern world from a very early period. Archaeology is crucial for revealing connections that place African societies in global historical context.
 
 <figure class="align-left" style="max-width: 240px;">
   <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
