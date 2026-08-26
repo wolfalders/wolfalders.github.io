@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry. I am interested in how archaeology can recover overlooked experiences of the processes that shaped the deep global Anthropocene.
+I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry.
 
 <figure class="align-right" style="max-width: 400px;">
   <img src="/images/baobab_droneimagery.jpg" alt="imagery of baobab trees from a drone">
   <figcaption>Zanzibar Mapping Initiative (ZMI) drone images showing examples of baobab tree visibility in Zanzibar in four different meteorological seasons, and a map showing the seasonal distribution of all 238 ZMI images (Alders et al. 2025)</figcaption>
 </figure>
 
-I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on how ancient globalization reshaped tropical coastal environments and influenced settlement growth, adaptation, and sustainability over the last 1500 years. My current projects focus on the port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts, but I have also worked in Oman, the Philippines, Kazakhstan, and the American West. In addition to geospatial techniques, my projects employ multidisciplinary methods including archival, historical, and ethnographic research, ceramic analysis, geoarchaeological methods, and other aspects of archaeological science.
+I am interested in how archaeology can recover overlooked experiences of global Anthropocene. I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on how ancient globalization reshaped tropical coastal environments and influenced settlement growth, adaptation, and sustainability over the last 1500 years. My current projects focus on the port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts, but I have also worked in Oman, the Philippines, Kazakhstan, and the American West. In addition to geospatial techniques, my projects employ multidisciplinary methods including archival, historical, and ethnographic research, ceramic analysis, geoarchaeological methods, and other aspects of archaeological science.
 
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/geoarch.jpeg" alt="Taking micromorphology samples on the Pangani River">
