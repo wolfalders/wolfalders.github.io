@@ -26,22 +26,22 @@ I earned my PhD from the Department of Anthropology at the University of Califor
 
 <div style="clear: both;"></div>
 
-### Projects
+## Projects
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
   <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
 
-## SAFARI (Simulating African Agro-Pastoralist Routes and Interactions) - Ongoing
+### SAFARI (Simulating African Agro-Pastoralist Routes and Interactions) - Ongoing
 My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
 
-## BAOBAB (Bridging Ancient Origins and Biocultural Aspects of Baobab Trees) - Ongoing
+### BAOBAB (Bridging Ancient Origins and Biocultural Aspects of Baobab Trees) - Ongoing
 I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present. Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996), based on a paper I published in the [Journal of Archaeological Science](https://www.sciencedirect.com/science/article/pii/S0305440325001293).
 
-## CALOR (Dynamic Coasts and Landscapes of Resilience) - Ongoing
+### CALOR (Dynamic Coasts and Landscapes of Resilience) - Ongoing
 With grants from the American Philosophical Society, the African Research Universities Alliance, and National Geographic, I am co-directing (with Ioana Dumitru, University of Sydney, and Elinaza Mjema, University of Dar Es Salaam) field research at the nexus of the Indian Ocean and one Tanzania's largest rivers, the Pangani. This research is investigating how ancient Swahili communities adapted to extreme environmental conditions, like floods, droughts, and a potential tsunami event that struck Pangani Bay around 1000 CE. My co-director Ioana Dumitru runs a fantastic [Instagram account for this project](https://www.instagram.com/calor_archaeology/), or check out [our project website](https://www.calorarchaeology.com/).
 
-## ZURCP (Zanzibar Urban-Rural Complexity Project) and IZAS (Inland Zanzibar Archaeological Survey), 2016-2023
+### ZURCP (Zanzibar Urban-Rural Complexity Project) and IZAS (Inland Zanzibar Archaeological Survey), 2016-2023
 From 2016 to 2023, I directed archaeological field surveys and excavations on Unguja Island in Zanzibar, Tanzania, to investigate urban emergence, change, and colonial transformations around Zanzibar Stone Town, one of the largest and longest-lasting urban centers on the Swahili Coast. This work occurred during my PhD at UC Berkeley, as well as while I was a National Science Foundation Fellow at the Center for Advanced Spatial Technologies at the University of Arkansas. My research demonstrated the deep history of Indigenous adaptations to marginal environments in Zanzibar that enabled participation in Indian Ocean exchange systems, overturning colonial narratives about the pristine wilderness of areas that later became plantations. These projects recorded over a hundred new archaeological sites in Zanzibar, and also provided significant training and support for Zanzibari students and heritage officers. Publications related to this work appear in [the African Archaeological Review](https://link.springer.com/article/10.1007/s10437-023-09523-y), the [Journal of Computer Applications for Archaeology](https://journal.caa-international.org/articles/10.5334/jcaa.107), the
 [Journal of Anthropological Archaeology](https://www.sciencedirect.com/science/article/pii/S0278416523000697), the [Journal of Archaeological Method and Theory](https://link.springer.com/article/10.1007/s10816-024-09644-x), the [Journal of Field Archaeology](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2402962), the 
 [Journal of Archaeological Research](https://link.springer.com/article/10.1007/s10814-025-09218-9), and [Current Anthropology](https://www.journals.uchicago.edu/doi/10.1086/742009).
