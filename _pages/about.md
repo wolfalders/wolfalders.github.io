@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
+I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities. <figure class="align-left" style="max-width: 240px;">
+  <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
+  <figcaption>Myself and team members on survey in 2024 in Pangani, Tanzania.</figcaption>
+</figure>
 
 I am interested in how archaeology can recover overlooked experiences of the global Anthropocene. I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on how ancient globalization reshaped tropical coastal environments and influenced settlement growth, adaptation, and sustainability over the last 1500 years. My current projects focus on the port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts, but I have also worked in Oman, the Philippines, Kazakhstan, and the American West. In addition to geospatial techniques, my projects employ multidisciplinary methods including archival, historical, and ethnographic research, ceramic analysis, geoarchaeological methods, and other aspects of archaeological science.
 
@@ -67,11 +70,6 @@ From 2016 to 2023, I directed archaeological field surveys and excavations on Un
 <figure class="align-right" style="max-width: 300px;">
   <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
   <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
-</figure>
-
-<figure class="align-left" style="max-width: 240px;">
-  <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
-  <figcaption>Myself and team members on survey in 2024 in Pangani, Tanzania.</figcaption>
 </figure>
 
 Africa has enormous global significance but it is understudied, and therefore misunderstood. Investigating anthropological questions in Africa also means countering outdated assumptions about the region, like the notion that African societies were historically static, were dominated by environmental factors, or were outside of the global circuits of exchange that produced the modern world. These ideas could not be further from the truth. Archaeology, done in collaboration with African institutions and local communities, is uniquely suited to shed light on the dynamic societies of the African past within world history, to help address challenges of the African and global present.
