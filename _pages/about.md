@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities. 
-<figure class="align-left" style="max-width: 240px;">
+<figure class="align-right" style="max-width: 240px;">
   <a href="/images/team.jpeg" target="_blank" rel="noopener">
     <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
   </a>
