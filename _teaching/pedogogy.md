@@ -21,7 +21,7 @@ Broadening access to archaeology and higher education for students from diverse 
 
 ### Other Courses I Can Teach
 
-Cities, Past and Present &middot; The Archaeology of Rivers &middot; Society and the Environment &middot; Landscape Archaeology &middot; The Anthropocene &middot; GIS and Remote Sensing in Archaeology &middot; African Archaeology &middot; The Archaeology of the Indian Ocean &middot; World Prehistory &middot; Archaeological Method and Theory
+Cities, Past and Present &middot; Trade and Exchange &middot; Society and the Environment &middot; Landscape Archaeology &middot; The Anthropocene &middot; GIS and Remote Sensing in Archaeology &middot; African Archaeology &middot; The Archaeology of the Indian Ocean &middot; World Prehistory &middot; Archaeological Method and Theory
 
 <figure>
   <img src="/images/teachingceramics.JPG" alt="Analyzing ceramics with the field team">
