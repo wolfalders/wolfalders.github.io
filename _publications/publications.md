@@ -35,6 +35,13 @@ author_profile: true
 
 **2016** &nbsp; **Alders, W.** Archaeological survey and landscape history at Gede, Kenya. *Nyame Akuma* 85: 33–43.
 
+<figure class="align-right" style="max-width: 240px;">
+  <a href="/images/SwahiliTomb.JPG" target="_blank" rel="noopener">
+    <img src="/images/SwahiliTomb.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
+  </a>
+  <figcaption>Swahili tomb, Kunduchi, Tanzania. The circular divots used to hold Chinese porcelain bowls, which have since been removed.</figcaption>
+</figure>
+
 ### Manuscripts in Progress
 
 *In prep.* &nbsp; **Alders, W.,** Dumitru, I., Mjema, E. Coral harbors of Africa's Indian Ocean Coast: Evaluating site selection factors for ancient Swahili settlements. In preparation for *Archaeological Prospection.*
