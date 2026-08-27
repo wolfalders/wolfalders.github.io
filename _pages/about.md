@@ -13,24 +13,19 @@ I am interested in how archaeology can recover overlooked experiences of the glo
 
 ## Projects
 ### SAFARI (Simulating African Agro-Pastoralist Routes and Interactions) - Ongoing
-My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean.
-<figure class="align-right" style="max-width: 300px;">
+My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fellowship at Cambridge University, is called Simulating African Agro-Pastoral Routes and Interactions (SAFARI). I am using archaeological, historical and geospatial methods to investigate the deep history of long-distance exchange among historical cattle pastoralists in Kenya, their interactions with urban societies, and their role in shaping the caravan routes that connected eastern Africa to the Indian Ocean. <figure class="align-right" style="max-width: 300px;">
   <img src="/images/cattle_pangani.jpeg" alt="cows">
   <figcaption>Zebu cattle grazing near the Pangani River, northern Tanzania</figcaption>
 </figure>
 
 ### BAOBAB (Bridging Ancient Origins and Biocultural Aspects of Baobab Trees) - Ongoing
-I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present. Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996), based on a paper I published in the [Journal of Archaeological Science](https://www.sciencedirect.com/science/article/pii/S0305440325001293).
-
-<figure class="align-right" style="max-width: 3000px;">
+I have ongoing collaborations related to my research on remote sensing and detection of African baobab trees, their status as an anthropogenic legacy of ancient and historical eastern African coastal societies, their conservation, and their role in rural sustainability in the present. Recently, my work on human-baobab tree entanglements was featured in [The Conversation](https://theconversation.com/zanzibars-baobab-trees-used-to-be-a-valued-part-of-society-drone-images-help-prove-it-258996), based on a paper I published in the [Journal of Archaeological Science](https://www.sciencedirect.com/science/article/pii/S0305440325001293). <figure class="align-right" style="max-width: 300px;">
   <img src="/images/baobab_droneimagery.jpg" alt="imagery of baobab trees from a drone">
   <figcaption>Zanzibar Mapping Initiative (ZMI) drone images showing examples of baobab tree visibility in Zanzibar in four different meteorological seasons, and a map showing the seasonal distribution of all 238 ZMI images (Alders et al. 2025)</figcaption>
 </figure>
 
 ### CALOR (Dynamic Coasts and Landscapes of Resilience) - Ongoing
-With grants from the American Philosophical Society, the African Research Universities Alliance, and National Geographic, I am co-directing (with Ioana Dumitru, University of Sydney, and Elinaza Mjema, University of Dar Es Salaam) field research at the nexus of the Indian Ocean and one Tanzania's largest rivers, the Pangani. This research is investigating how ancient Swahili communities adapted to extreme environmental conditions, like floods, droughts, and a potential tsunami event that struck Pangani Bay around 1000 CE. My co-director Ioana Dumitru runs a fantastic [Instagram account for this project](https://www.instagram.com/calor_archaeology/), or check out [our project website](https://www.calorarchaeology.com/). 
-
-<figure class="align-right" style="max-width: 300px;">
+With grants from the American Philosophical Society, the African Research Universities Alliance, and National Geographic, I am co-directing (with Ioana Dumitru, University of Sydney, and Elinaza Mjema, University of Dar Es Salaam) field research at the nexus of the Indian Ocean and one Tanzania's largest rivers, the Pangani. This research is investigating how ancient Swahili communities adapted to extreme environmental conditions, like floods, droughts, and a potential tsunami event that struck Pangani Bay around 1000 CE. My co-director Ioana Dumitru runs a fantastic [Instagram account for this project](https://www.instagram.com/calor_archaeology/), or check out [our project website](https://www.calorarchaeology.com/). <figure class="align-right" style="max-width: 300px;">
   <img src="/images/RiverSurvey2.JPG" alt="survey">
   <figcaption>Survey up the Pangani River by boat, 2026.</figcaption>
 </figure>
