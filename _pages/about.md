@@ -1,4 +1,3 @@
-<img width="6000" height="4000" alt="DSC_9187" src="https://github.com/user-attachments/assets/21b464a1-0630-4544-8daf-687d52837544" />---
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -33,9 +32,9 @@ I have ongoing collaborations related to my research on remote sensing and detec
 </figure>
 
 ### CALOR (Dynamic Coasts and Landscapes of Resilience) - Ongoing
-With grants from the American Philosophical Society, the African Research Universities Alliance, and National Geographic, I am co-directing (with Ioana Dumitru, University of Sydney, and Elinaza Mjema, University of Dar Es Salaam) field research at the nexus of the Indian Ocean and one Tanzania's largest rivers, the Pangani. This research is investigating how ancient Swahili communities adapted to extreme environmental conditions, like floods, droughts, and a potential tsunami event that struck Pangani Bay around 1000 CE. My co-director Ioana Dumitru runs a fantastic [Instagram account for this project](https://www.instagram.com/calor_archaeology/), or check out [our project website](https://www.calorarchaeology.com/). <figure class="align-right" style="max-width: 300px;">
-  <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
-  <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
+With grants from the American Philosophical Society, the African Research Universities Alliance, and National Geographic, I am co-directing (with Ioana Dumitru, University of Sydney, and Elinaza Mjema, University of Dar Es Salaam) field research at the nexus of the Indian Ocean and one Tanzania's largest rivers, the Pangani. This research is investigating how ancient Swahili communities adapted to extreme environmental conditions, like floods, droughts, and a potential tsunami event that struck Pangani Bay around 1000 CE. My co-director Ioana Dumitru runs a fantastic [Instagram account for this project](https://www.instagram.com/calor_archaeology/), or check out [our project website](https://www.calorarchaeology.com/). <figure class="align-right" style="max-width: 400px;">
+  <img src="/images/RiverSurvey2.JPG" alt="survey">
+  <figcaption>Survey up the Pangani River by boat, 2026.</figcaption>
 </figure>
 
 ### ZURCP (Zanzibar Urban-Rural Complexity Project) and IZAS (Inland Zanzibar Archaeological Survey), 2016-2023
@@ -54,6 +53,11 @@ From 2016 to 2023, I directed archaeological field surveys and excavations on Un
 <figure class="align-right" style="max-width: 240px;">
   <img src="/images/SwahiliTomb.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
   <figcaption>Swahili tomb, Kunduchi, Tanzania. The circular divots used to hold Chinese porcelain bowls, which have since been removed.</figcaption>
+</figure>
+
+<figure class="align-right" style="max-width: 300px;">
+  <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
+  <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
 
 <figure class="align-left" style="max-width: 240px;">
