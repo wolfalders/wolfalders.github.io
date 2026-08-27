@@ -66,21 +66,6 @@ From 2016 to 2024, I directed archaeological field surveys and excavations on Un
 <div style="clear: both;"></div>
 
 ## Africa and the Anthropocene
-
-<figure class="align-right" style="max-width: 240px;">
-  <a href="/images/SwahiliTomb.JPG" target="_blank" rel="noopener">
-    <img src="/images/SwahiliTomb.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
-  </a>
-  <figcaption>Swahili tomb, Kunduchi, Tanzania. The circular divots used to hold Chinese porcelain bowls, which have since been removed.</figcaption>
-</figure>
-
-<figure class="align-right" style="max-width: 300px;">
-  <a href="/images/PanganiServingBowl.jpeg" target="_blank" rel="noopener">
-    <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
-  </a>
-  <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
-</figure>
-
 Archaeology, with its deep time focus and emphasis on the collective activities and experiences of daily life, is uniquely suited for understanding the trajectories that have produced the Anthropocene, the recent period of Earth's history that has been predominately shaped by human activities. Most recently, these include the extractive processes of colonialism and modern industrial capitalism, but researchers have also increasingly revealed deeper histories of intensive landscape modification that extend back thousands of years. 
 
 Though the Anthropocene is a global process, research on the Anthropocene tends to overlook the experiences, contributions, and adaptations of societies in the Global South, despite the fact that modern populations in these places are most acutely affected by extreme climate changes directly caused by human influence. The archaeology of human-environment interactions in places like eastern Africa and the Indian Ocean, therefore, offers the chance to diversify and reshape collective understandings of the shared global events which have reshaped our Earth and which will be enormously consequential for the future of our species.
