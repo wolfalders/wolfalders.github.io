@@ -68,7 +68,7 @@ I have ongoing collaborations related to my research on remote sensing and detec
 With grants from the American Philosophical Society, the African Research Universities Alliance, and National Geographic, I am co-directing (with Ioana Dumitru, University of Sydney, and Elinaza Mjema, University of Dar Es Salaam) field research at the nexus of the Indian Ocean and one Tanzania's largest rivers, the Pangani. This research is investigating how ancient Swahili communities adapted to extreme environmental conditions, like floods, droughts, and a potential tsunami event that struck Pangani Bay around 1000 CE. My co-director Ioana Dumitru runs a fantastic [Instagram account for this project](https://www.instagram.com/calor_archaeology/), or check out [our project website](https://www.calorarchaeology.com/).
 <div style="clear: both;"></div>
 
-### ZURCP (Zanzibar Urban-Rural Complexity Project) and IZAS (Inland Zanzibar Archaeological Survey), 2016-2023
+### ZURCP (Zanzibar Urban-Rural Complexity Project) and IZAS (Inland Zanzibar Archaeological Survey), 2016-2024
 
 <figure class="align-right" style="max-width: 300px;">
   <a href="/images/MzimuniBuyu_tombs.JPG" target="_blank" rel="noopener">
