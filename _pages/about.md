@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities. <figure class="align-left" style="max-width: 240px;">
-  <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
-  <figcaption>Myself and team members on survey in 2024 in Pangani, Tanzania.</figcaption>
-</figure>
+I am a landscape archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities. 
+<figure class="align-left" style="max-width: 240px;">
+  <a href="/images/team.jpeg" target="_blank" rel="noopener">
+    <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
+  </a>
+  <figcaption>Myself and team members on survey in 2024 in Pangani, Tanzania.</figcaption></figure>
 
 I am interested in how archaeology can recover overlooked experiences of the global Anthropocene. I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on how ancient globalization reshaped tropical coastal environments and influenced settlement growth, adaptation, and sustainability over the last 1500 years. My current projects focus on the port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts, but I have also worked in Oman, the Philippines, Kazakhstan, and the American West. In addition to geospatial techniques, my projects employ multidisciplinary methods including archival, historical, and ethnographic research, ceramic analysis, geoarchaeological methods, and other aspects of archaeological science.
 
@@ -19,7 +21,9 @@ I am interested in how archaeology can recover overlooked experiences of the glo
 ### SAFARI (Simulating African Agro-Pastoralist Routes and Interactions) - Ongoing
 
 <figure class="align-right" style="max-width: 300px;">
-  <img src="/images/cattle_pangani.jpeg" alt="Zebu cattle grazing near the Pangani River, northern Tanzania">
+  <a href="/images/cattle_pangani.jpeg" target="_blank" rel="noopener">
+    <img src="/images/cattle_pangani.jpeg" alt="Zebu cattle grazing near the Pangani River, northern Tanzania">
+  </a>
   <figcaption>Zebu cattle grazing near the Pangani River, northern Tanzania</figcaption>
 </figure>
 
@@ -29,7 +33,9 @@ My newest project, funded by Horizon Europe through a Marie-Skłodowska Curie fe
 ### BAOBAB (Bridging Ancient Origins and Biocultural Aspects of Baobab Trees) - Ongoing
 
 <figure class="align-right" style="max-width: 300px;">
-  <img src="/images/baobab_droneimagery.jpg" alt="imagery of baobab trees from a drone">
+  <a href="/images/baobab_droneimagery.jpg" target="_blank" rel="noopener">
+    <img src="/images/baobab_droneimagery.jpg" alt="imagery of baobab trees from a drone">
+  </a>
   <figcaption>Zanzibar Mapping Initiative (ZMI) drone images showing examples of baobab tree visibility in Zanzibar in four different meteorological seasons, and a map showing the seasonal distribution of all 238 ZMI images (Alders et al. 2025)</figcaption>
 </figure>
 
@@ -39,7 +45,9 @@ I have ongoing collaborations related to my research on remote sensing and detec
 ### CALOR (Dynamic Coasts and Landscapes of Resilience) - Ongoing
 
 <figure class="align-right" style="max-width: 300px;">
-  <img src="/images/RiverSurvey2.JPG" alt="Survey up the Pangani River by boat, 2026">
+  <a href="/images/RiverSurvey2.JPG" target="_blank" rel="noopener">
+    <img src="/images/RiverSurvey2.JPG" alt="Survey up the Pangani River by boat, 2026">
+  </a>
   <figcaption>Survey up the Pangani River by boat, 2026.</figcaption>
 </figure>
 
@@ -49,7 +57,9 @@ With grants from the American Philosophical Society, the African Research Univer
 ### ZURCP (Zanzibar Urban-Rural Complexity Project) and IZAS (Inland Zanzibar Archaeological Survey), 2016-2023
 
 <figure class="align-right" style="max-width: 300px;">
-  <img src="/images/MzimuniBuyu_tombs.JPG" alt="Recording stone tombs south of Zanzibar Stone Town">
+  <a href="/images/MzimuniBuyu_tombs.JPG" target="_blank" rel="noopener">
+    <img src="/images/MzimuniBuyu_tombs.JPG" alt="Recording stone tombs south of Zanzibar Stone Town">
+  </a>
   <figcaption>Recording stone tombs south of Zanzibar Stone Town in 2024.</figcaption>
 </figure>
 
@@ -59,12 +69,16 @@ From 2016 to 2024, I directed archaeological field surveys and excavations on Un
 ## Why Africa?
 
 <figure class="align-right" style="max-width: 240px;">
-  <img src="/images/SwahiliTomb.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
+  <a href="/images/SwahiliTomb.JPG" target="_blank" rel="noopener">
+    <img src="/images/SwahiliTomb.JPG" alt="Swahili tomb at Kunduchi, Tanzania">
+  </a>
   <figcaption>Swahili tomb, Kunduchi, Tanzania. The circular divots used to hold Chinese porcelain bowls, which have since been removed.</figcaption>
 </figure>
 
 <figure class="align-right" style="max-width: 300px;">
-  <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
+  <a href="/images/PanganiServingBowl.jpeg" target="_blank" rel="noopener">
+    <img src="/images/PanganiServingBowl.jpeg" alt="Serving bowl from Pangani">
+  </a>
   <figcaption>A ceramic serving bowl from Pangani, northern Tanzania.</figcaption>
 </figure>
 
