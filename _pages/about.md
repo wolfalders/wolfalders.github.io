@@ -13,7 +13,6 @@ I am a landscape archaeologist with expertise in geospatial and digital archaeol
     <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
   </a>
   <figcaption>Myself and team members on survey in 2024 in Pangani, Tanzania.</figcaption></figure>
-
 I am interested in how archaeology can recover overlooked experiences of the global Anthropocene. I research the archaeology and deep history of eastern Africa and the Indian Ocean world, focusing on how ancient globalization reshaped tropical coastal environments and influenced settlement growth, adaptation, and sustainability over the last 1500 years. My current projects focus on the port communities of the ancient and historical Swahili of the Tanzanian and Kenyan coasts, but I have also worked in Oman, the Philippines, Kazakhstan, and the American West. In addition to geospatial techniques, my projects employ multidisciplinary methods including archival, historical, and ethnographic research, ceramic analysis, geoarchaeological methods, and other aspects of archaeological science.
 
 ## Projects
