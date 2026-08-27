@@ -31,7 +31,7 @@ I am committed to decolonial approaches to archaeological research, training, an
 
 <div style="clear: both;"></div>
 
-## Current Projects
+## Projects
 ### SAFARI (Simulating African Agro-Pastoralist Routes and Interactions) - Ongoing
 
 <figure class="align-right" style="max-width: 300px;">
