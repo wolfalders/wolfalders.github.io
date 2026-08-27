@@ -22,7 +22,7 @@ I am interested in how archaeology can recover overlooked experiences of the glo
   <figcaption>Taking micromorphology samples from a profile wall.</figcaption>
 </figure>
 
-I have just begun a Marie-Skłodowska Curie (MSCA) postdoctoral fellowship at the McDonald Institute for Archaeological Research at Cambridge University. I recently finished [lecturing](https://ioa.ucla.edu/people/wolfgang-alders) at the UCLA Cotsen Institute of Archaeology, following postdocs at the University of Arkansas and New York University. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
+I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
 <div style="clear: both;"></div>
 
