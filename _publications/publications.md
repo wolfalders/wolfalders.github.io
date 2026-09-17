@@ -9,6 +9,8 @@ author_profile: true
 
 ### Journal Articles
 
+*In review*	Alders, W., Dumitru, I., Mjema, E. By the sea, above the flood: settlement pattern analysis reveals environmental affordances of coastal Swahili settlements along eastern Africa’s Indian Ocean rim. Submitted to review to *Archaeological Prospection*.
+
 *In review* &nbsp; **Alders, W.** Evaluating forced displacement on the eastern African Swahili Coast, 500–1900 CE. In review for the edited volume *Archaeologies of Forced Displacement: Methods, Case Studies, and Prospects*, eds. Aaron Burke and Li Min. Cotsen Institute of Archaeology Press.
 
 *In review* &nbsp; Dumitru, I. A., **Alders, W.,** Kristiansen, S. M., Lupien, R., Raja, R., Sindbæk, S. M., Olsen, J. Climate migrants and the origins of Swahili society in eastern Africa. In review with *PNAS.* [Preprint](https://hdl.handle.net/2123/34864)
@@ -43,8 +45,6 @@ author_profile: true
 </figure>
 
 ### Manuscripts in Progress
-
-*In prep.* &nbsp; **Alders, W.,** Dumitru, I., Mjema, E. Coral harbors of Africa's Indian Ocean Coast: Evaluating site selection factors for ancient Swahili settlements. In preparation for *Archaeological Prospection.*
 
 *In prep.* &nbsp; **Alders, W.** Becoming Zanzibar: An Archaeology of Socioecological Transformation, Globalization, and Colonialism in the Indian Ocean World from AD 800–1900. A monograph in preparation for British Archaeological Reports.
 
