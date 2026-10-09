@@ -9,7 +9,7 @@ author_profile: true
 
 ### Journal Articles
 
-*In review*	Alders, W., Dumitru, I., Mjema, E. By the sea, above the flood: settlement pattern analysis reveals environmental affordances of coastal Swahili settlements along eastern Africa’s Indian Ocean rim. Submitted to review to *Archaeological Prospection*.
+*In review* &nbsp; **Alders, W.,** Dumitru, I., Mjema, E. By the sea, above the flood: settlement pattern analysis reveals environmental affordances of coastal Swahili settlements along eastern Africa’s Indian Ocean rim. Submitted to review to *Journal of Archaeological Science.*
 
 *In review* &nbsp; **Alders, W.** Evaluating forced displacement on the eastern African Swahili Coast, 500–1900 CE. In review for the edited volume *Archaeologies of Forced Displacement: Methods, Case Studies, and Prospects*, eds. Aaron Burke and Li Min. Cotsen Institute of Archaeology Press.
 
