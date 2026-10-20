@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an archaeologist with expertise in geospatial and digital archaeological methods including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, lidar and photogrammetry. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities. 
+I am an archaeologist of eastern Africa and the Indian Ocean. I earned my PhD from the Department of Anthropology at the University of California, Berkeley in 2022. My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
+
+My research addresses:
+* Swahili Coast and Indian Ocean deep history
+* Geospatial and digital methods, including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, historical map analysis, lidar, and photogrammetry
+* Historical ecology and anthropogenic landscapes, especially of islands and coasts
+* Tropical urbanism, elite formation, and rural-urban dynamics
+* Indian Ocean colonialism, globalization, slavery, and resilience
+
 <figure class="align-right" style="max-width: 240px;">
   <a href="/images/team.jpeg" target="_blank" rel="noopener">
     <img src="/images/team.jpeg" alt="Survey team in Pangani, 2024">
