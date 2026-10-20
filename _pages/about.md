@@ -13,7 +13,7 @@ My research addresses:
 * Swahili Coast and Indian Ocean deep history
 * Geospatial and digital methods, including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, historical map analysis, lidar, and photogrammetry
 * Historical ecology and anthropogenic landscapes, especially of islands and coasts
-* Tropical urbanism, elite formation, and rural-urban dynamics
+* Tropical urbanism, elite formation, and rural-urban settlement dynamics
 * Indian Ocean colonialism, globalization, slavery, and resilience
 
 <figure class="align-right" style="max-width: 240px;">
