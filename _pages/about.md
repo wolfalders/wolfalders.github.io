@@ -10,7 +10,7 @@ redirect_from:
 I am an archaeologist and current Marie-Curie postdoctoral fellow at the University of Cambridge.
 
 My research addresses:
-* Swahili Coast and Indian Ocean deep history
+* Swahili Coast and Indian Ocean archaeology and deep history
 * Geospatial and digital methods, including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, historical map analysis, lidar, and photogrammetry
 * Historical ecology of islands and coasts
 * Tropical urbanism, elite formation, and rural-urban settlement dynamics
