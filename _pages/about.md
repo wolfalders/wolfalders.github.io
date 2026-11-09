@@ -12,9 +12,10 @@ I am an archaeologist and current Marie-Curie postdoctoral fellow at the Univers
 My research addresses:
 * Swahili Coast and Indian Ocean archaeology and deep history
 * Geospatial and digital methods, including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, historical map analysis, lidar, and photogrammetry
-* Historical ecology of islands and coasts
 * Tropical urbanism, elite formation, and rural-urban settlement dynamics
 * Globalization, colonialism, slavery, and resilience in eastern Africa and the Indian Ocean
+* Historical ecology of islands and coasts
+* How deep histories can inform modern sustainability
 
 I earned my PhD from the University of California, Berkeley (2022). My research has been funded by the US National Science Foundation, the Wenner-Gren Foundation, the Andrew Mellon Foundation, Horizon Europe, The African Research Universities Alliance, the American Philosophical Society, and the US National Endowment for the Humanities.
 
