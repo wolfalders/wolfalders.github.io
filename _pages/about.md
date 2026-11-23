@@ -13,7 +13,7 @@ My research addresses:
 * Swahili Coast and Indian Ocean archaeology and deep history
 * Geospatial and digital methods, including GIS, satellite remote sensing, drone remote sensing, GNSS/GPS mapping, historical map analysis, lidar, and photogrammetry
 * Historical ecology and adaptations to climate change, extreme weather events, and natural disasters
-* Tropical urbanism, elite formation, and rural-urban settlement dynamics
+* Tropical urbanism
 * Globalization, colonialism, slavery, and resilience in eastern Africa and the Indian Ocean
 * How deep histories can inform modern sustainability
 
@@ -92,3 +92,4 @@ From 2016 to 2024, I directed archaeological field surveys and excavations on Un
 <div style="clear: both;"></div>
 
 Last updated August 2026 by Wolfgang Alders
+
